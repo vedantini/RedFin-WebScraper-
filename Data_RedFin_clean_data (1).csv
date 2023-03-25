@@ -1,0 +1,1176 @@
+,street,city,state,zipcode,price,bed,bath,sqft,walkscore,transitscore,bikescore,competitivescore,1st School Rating,status,house_type,year_built,Lotsize,perSq_Ft,Price_Level
+0,655 12Th St #112,Oakland,Ca,94607,649000,2 ,2.0,1037 ,96,86,91,76,2.0,New,Condo,2003,0.0,626.0,0
+1,4475 Redding St,Oakland,Ca,94619,699000,2 ,2.0,990 ,82,51,47,71,3.0,New,Single Family Residential,1930,3627.0,706.0,0
+2,6501 San Pablo Ave #404,Oakland,Ca,94608,685000,1 ,1.5,1010 ,94,59,86,69,4.0,New,Condo,2006,0.0,678.0,0
+3,36088 Soapberry Cmns #31,Fremont,Ca,94536,1000000,2 ,2.5,1492 ,76,41,56,77,7.0,Coming Soon,Condo,2007,6721.0,670.0,0
+4,2580 Pleasant St,Oakland,Ca,94602,749000,4 ,2.0,1836 ,91,57,68,73,2.0,New,Multi-Family (2-4 Unit),1941,4160.0,408.0,0
+5,1858 Brooktree Way,Pleasanton,Ca,94566,1899000,4 ,2.5,2047 ,62,31,65,78,7.0,New,Single Family Residential,1965,10765.0,928.0,1
+6,215 Kevington Pl,Alameda,Ca,94502,1499000,3 ,3.0,1876 ,40,33,78,90,9.0,New,Single Family Residential,1979,5667.0,799.0,1
+7,1405 Harmon St,Berkeley,Ca,94702,1549888,3 ,2.0,1304 ,90,62,90,74,7.0,New,Single Family Residential,1947,3830.0,1189.0,1
+8,3867 Brown Ave,Oakland,Ca,94619,797000,3 ,1.0,1212 ,84,50,60,82,4.0,New,Single Family Residential,1910,6720.0,658.0,0
+9,27701 Eucalyptus Ct,Hayward,Ca,94544,799000,3 ,2.5,1549 ,39,51,71,89,3.0,Active,Single Family Residential,1977,2867.0,516.0,0
+10,8145 Juniper Ave,Newark,Ca,94560,1150000,3 ,2.0,1657 ,43,0,39,82,3.0,Active,Single Family Home,1961,6405.0,694.0,1
+11,1544 D St,Hayward,Ca,94541,1199000,4 ,3.0,2021 ,67,46,52,88,5.0,New,Multi-Family (2-4 Unit),1914,7800.0,593.0,1
+12,1500 Plaza Dr,San leandro,Ca,94578,789000,3 ,2.0,1763 ,74,61,59,69,3.0,New,Single Family Residential,1922,4000.0,448.0,0
+13,6352 Montcalm Ave,Newark,Ca,94560,1249000,4 ,2.0,1729 ,70,0,52,82,5.0,Active,Single Family Home,1977,7164.0,722.0,1
+14,3382 62nd Ave,Oakland,Ca,94605,589000,2 ,1.0,763 ,71,54,48,71,2.0,New,Single Family Residential,1931,3625.0,772.0,0
+15,438 W Grand Ave #528,Oakland,Ca,94612,799000,2 ,2.0,1062 ,99,78,96,73,2.0,New,Condo,2008,1256.0,752.0,0
+16,5830 Midnight Pl Unit E,Dublin,Ca,94568,1099900,3 ,2.0,1618 ,35,0,81,83,8.0,New,Townhouse,2020,0.0,680.0,1
+17,3015 Myrtle St #3,Oakland,Ca,94608,599000,1 ,1.5,1267 ,89,66,99,45,2.0,New,Condo,1930,0.0,473.0,0
+18,10930 Apricot St,Oakland,Ca,94603-3828,459000,2 ,1.0,871 ,61,45,71,76,3.0,New,Single Family Residential,1942,3800.0,527.0,0
+19,2659 Home Ave,Hayward,Ca,94542,1295000,3 ,2.0,2685 ,35,30,26,73,6.0,New,Single Family Residential,1982,0.0,482.0,1
+20,6045 Skyline Blvd,Oakland,Ca,94611,2149000,4 ,2.5,3204 ,7,16,24,91,8.0,New,Single Family Residential,2003,0.0,671.0,1
+21,201 E Las Palmas,Fremont,Ca,94539,3199888,5 ,3.5,3483 ,41,28,58,78,9.0,New,Single Family Residential,1975,0.0,919.0,1
+22,42111 Osgood Rd #504,Fremont,Ca,94539,797800,3 ,2.0,1082 ,58,35,52,73,8.0,Active,Condo,2022,0.0,737.0,0
+23,19 Ealing Ln,Oakland,Ca,94608,739000,2 ,2.0,1500 ,84,55,95,63,2.0,New,Townhouse,2005,661.0,493.0,0
+24,42111 Osgood Rd #422,Fremont,Ca,94539,663800,2 ,2.0,1046 ,58,35,52,73,8.0,Active,Condo,2022,0.0,635.0,0
+25,42111 Osgood Rd #419,Fremont,Ca,94539,525800,1 ,1.0,735 ,58,35,52,73,8.0,Active,Condo,2022,0.0,715.0,0
+26,3072 22Nd Ave,Oakland,Ca,94602,799000,2 ,1.0,1059 ,76,58,77,65,7.0,New,Single Family Residential,1940,3500.0,754.0,0
+27,2576 La Don Ct,Castro valley,Ca,94546,869000,3 ,1.5,1289 ,71,33,40,75,6.0,New,Single Family Residential,1954,10576.0,674.0,0
+28,1160 D St,Hayward,Ca,94541,960000,5 ,3.0,1228 ,92,61,43,88,5.0,New,Multi-Family (2-4 Unit),1918,0.0,782.0,0
+29,1078 48Th St,Emeryville,Ca,94608,998000,4 ,2.0,1183 ,90,62,98,63,3.0,New,Single Family Residential,1890,4746.0,844.0,0
+30,20 Ascot Pl,Oakland,Ca,94611,1675000,3 ,2.0,2125 ,30,34,17,79,7.0,New,Single Family Residential,1961,6294.0,788.0,1
+31,730 Canyon Oaks Dr Unit E,Oakland,Ca,94605,490000,1 ,1.0,815 ,21,22,13,82,4.0,New,Condo,1988,0.0,601.0,0
+32,152 Brighton Rd,Alameda,Ca,94502,1098000,3 ,2.0,1503 ,36,33,72,90,9.0,New,Single Family Residential,1984,4000.0,731.0,1
+33,4000 Altamont Ave,Oakland,Ca,94605,770000,4 ,2.0,1361 ,38,50,41,71,2.0,New,Single Family Residential,1925,4500.0,566.0,0
+34,4732 Fair Ave,Oakland,Ca,94619,849000,2 ,1.0,1207 ,40,47,34,82,4.0,New,Single Family Residential,1945,5832.0,703.0,0
+35,8117 GREENLY Dr,Oakland,Ca,94605,899000,3 ,2.0,1445 ,26,42,13,67,2.0,New,Single Family Residential,1925,0.0,622.0,0
+36,1016 Ashmount Ave,Oakland,Ca,94610,1795000,7 ,5.0,4559 ,31,44,29,82,8.0,New,Single Family Residential,1917,10350.0,394.0,1
+37,21314 Gary Dr #106,Hayward,Ca,94546,580000,2 ,2.0,1100 ,61,40,35,59,3.0,New,Condo,1991,0.0,527.0,0
+38,2020 Hill Ave,Hayward,Ca,94541,1298888,4 ,3.0,2444 ,67,0,30,88,4.0,Active,Single Family Home,1963,0.0,531.0,1
+39,2315 Bartlett St,Oakland,Ca,94601,549000,3 ,2.0,1312 ,70,53,67,73,3.0,New,Single Family Residential,1926,4750.0,418.0,0
+40,3059 Richmond Blvd,Oakland,Ca,94611,1699000,5 ,4.0,3284 ,91,60,71,51,4.0,New,Multi-Family (2-4 Unit),1915,7120.0,517.0,1
+41,3032 Hyde St,Oakland,Ca,94601,920000,3 ,1.5,1940 ,82,56,69,73,6.0,Price Change,Single Family Residential,1938,4002.0,474.0,0
+42,3657 Victor Ave,Oakland,Ca,94619,2595000,6 ,3.5,4526 ,61,46,35,82,4.0,Active,Single Family Residential,1932,8080.0,573.0,1
+43,21682 Shadyspring Rd,Castro valley,Ca,94546,1349800,4 ,2.5,2466 ,53,45,35,85,3.0,New,Single Family Residential,1976,7077.0,547.0,1
+44,5416 Cleveland Pl,Fremont,Ca,94538,1495000,5 ,3.0,1900 ,78,37,55,92,8.0,New,Single Family Residential,1967,5740.0,787.0,1
+45,1009 Carnelian Ter,Union city,Ca,94587,1050000,3 ,2.5,1675 ,29,0,37,83,4.0,New,Condo,2006,0.0,627.0,1
+46,1007 41st St #112,Emeryville,Ca,94608,439000,1 ,1.0,668 ,94,69,97,63,4.0,New,Condo,2005,0.0,657.0,0
+47,1365 Parker St,San leandro,Ca,94577,798888,3 ,2.0,1466 ,70,38,27,90,6.0,New,Single Family Residential,1946,5830.0,545.0,0
+48,7087 Skyline Blvd,Oakland,Ca,94611,999999,3 ,3.0,3677 ,2,7,20,79,8.0,New,Single Family Residential,2014,7389.0,272.0,0
+49,16032 Via Harriet,San lorenzo,Ca,94580,814000,4 ,2.0,1226 ,40,28,52,81,6.0,New,Single Family Residential,1956,5704.0,664.0,0
+50,260 Industrial Pkwy #11,Hayward,Ca,94544,480000,2 ,1.5,952 ,64,50,63,63,2.0,Price Change,Condo,1973,0.0,504.0,0
+51,985 Riesling Dr,Pleasanton,Ca,94566,1829000,4 ,2.0,2053 ,50,24,50,87,9.0,New,Single Family Residential,1968,0.0,891.0,1
+52,1328 83Rd Ave,Oakland,Ca,94621,699000,6 ,3.0,2248 ,77,55,62,76,2.0,New,Multi-Family (2-4 Unit),1925,4169.0,311.0,0
+53,40246 Davis Ct,Fremont,Ca,94538,1100000,3 ,2.0,1148 ,67,40,55,69,5.0,Active,Single Family Home,1959,6420.0,958.0,1
+54,4903 Middleton Pl,Pleasanton,Ca,94566,2050000,4 ,2.0,2302 ,9,17,11,67,8.0,New,Single Family Residential,1997,0.0,891.0,1
+55,1679 12th St,Oakland,Ca,94607,995000,3 ,2.5,1795 ,82,64,95,62,1.0,New,Single Family Residential,2023,1935.0,554.0,0
+56,5941 Colton Blvd,Oakland,Ca,94611,1325000,3 ,2.5,2373 ,56,34,35,79,8.0,New,Single Family Residential,1965,5200.0,558.0,1
+57,4901 Sterling Dr,Fremont,Ca,94536,2369950,4 ,3.0,2192 ,34,28,41,82,7.0,New,Single Family Residential,1953,9600.0,1081.0,1
+58,39887 Cedar Blvd #253,Newark,Ca,94560,698888,3 ,2.0,1283 ,52,0,53,82,5.5,Active,Condo,1986,0.0,545.0,0
+59,1918 Kilowatt Way #102,Fremont,Ca,94539,1922355,4 ,3.5,2493 ,22,51,60,47,9.0,New,Condo,2023,0.0,771.0,1
+60,6363 Christie Ave #3007,Emeryville,Ca,94608,1200000,2 ,1.5,1144 ,82,0,91,69,3.0,Active,Condo,1984,0.0,1049.0,1
+61,4800 Webster,Oakland,Ca,94609,1495000,5 ,3.0,2775 ,98,68,93,89,4.0,New,Single Family Residential,1913,4140.0,539.0,1
+62,37168 Meadowbrook Cmn #201,Fremont,Ca,94536,480000,2 ,1.0,934 ,65,42,64,77,7.0,New,Condo,1984,0.0,514.0,0
+63,1575 172Nd Ave,Hayward,Ca,94541,729000,4 ,2.5,1400 ,68,39,31,76,2.0,New,Single Family Residential,1949,4400.0,521.0,0
+64,2510 San Jose Ave,Alameda,Ca,94501,895000,2 ,2.0,1046 ,92,49,80,78,8.0,New,Single Family Residential,1910,2607.0,856.0,0
+65,1171 Hearst Unit B,Berkeley,Ca,94702,875000,2 ,1.5,846 ,96,65,100,74,8.0,New,Condo,2022,0.0,1034.0,0
+66,22 Moss Ave #312,Oakland,Ca,94610,669000,2 ,2.0,1159 ,83,54,69,82,4.0,New,Condo,1965,0.0,577.0,0
+67,5588 Campbell Ave,Dublin,Ca,94568,1189000,4 ,4.5,2055 ,44,0,90,74,8.0,New,Townhouse,2016,2100.0,579.0,1
+68,5799 El Dorado Ln,Dublin,Ca,94568,1399000,4 ,3.5,2541 ,43,0,92,83,8.0,New,Single Family Residential,2017,2258.0,551.0,1
+69,1270 Gusty Loop #7,Livermore,Ca,94550,875000,3 ,2.5,1707 ,35,0,51,91,7.0,New,Condo,2017,0.0,513.0,0
+70,2648 68Th Ave,Oakland,Ca,94605,509000,2 ,1.0,1140 ,82,58,68,71,2.0,New,Single Family Residential,1927,4200.0,446.0,0
+71,21447 Bedford Dr,Castro valley,Ca,94546,1399000,4 ,3.5,2231 ,54,41,36,85,3.0,New,Single Family Residential,1950,9114.0,627.0,1
+72,597 Heritage Cir,San lorenzo,Ca,94580,750000,5 ,3.5,1973 ,49,56,41,84,4.0,New,Single Family Residential,2004,1609.0,380.0,0
+73,680 Vincente Ave,Berkeley,Ca,94707,2495000,6 ,6.0,4177 ,88,45,67,92,6.0,New,Single Family Residential,1923,6175.0,597.0,1
+74,2351 Spinnaker Ct,San leandro,Ca,94579,1199000,4 ,3.0,2552 ,42,28,62,93,6.0,Active,Single Family Home,2000,4108.0,470.0,1
+75,1510 Pullman Way,Oakland,Ca,94607,775900,2 ,2.5,1644 ,68,55,74,62,1.0,New,Townhouse,2017,0.0,472.0,0
+76,3398 Hadsell Ct,Pleasanton,Ca,94588,1599000,5 ,2.5,1971 ,41,32,62,63,8.0,New,Single Family Residential,1993,8123.0,811.0,1
+77,19100 Clement Dr,Castro valley,Ca,94552,1170000,4 ,2.0,1499 ,13,0,2,95,10.0,New,Single Family Residential,1985,7800.0,781.0,1
+78,1974 Evergreen Ave,San leandro,Ca,94577,799999,3 ,2.0,1495 ,47,42,36,86,5.0,New,Single Family Residential,1962,4750.0,535.0,0
+79,36071 Cedar Blvd,Newark,Ca,94560,1099000,4 ,2.0,1360 ,34,0,41,67,7.0,Active,Single Family Home,1961,6000.0,808.0,1
+80,4725 Balboa Way,Fremont,Ca,94536,988888,3 ,1.5,1208 ,69,34,55,67,5.0,New,Single Family Residential,1953,7069.0,819.0,0
+81,6120 Sanctuary Ln,Pleasanton,Ca,94566,3200000,5 ,4.5,3661 ,5,0,8,67,7.0,New,Single Family Residential,2011,0.0,874.0,1
+82,1677 12th St,Oakland,Ca,94607,899000,3 ,2.5,1481 ,82,64,95,62,1.0,New,Single Family Residential,2023,2063.0,607.0,0
+83,6195 Marguerite Dr,Newark,Ca,94560,1099000,3 ,2.0,1315 ,23,0,43,82,5.5,Active,Single Family Home,1963,7320.0,836.0,1
+84,2446 24TH Ave,Oakland,Ca,94601,599000,2 ,1.0,1283 ,74,58,60,83,6.0,New,Single Family Residential,1926,4800.0,467.0,0
+85,1904 Zenato Pl,Pleasanton,Ca,94566,4795000,5 ,3.5,5385 ,1,10,1,95,8.0,New,Single Family Residential,1999,0.0,890.0,1
+86,546 Glen View Ave,Oakland,Ca,94610,1395000,4 ,2.5,2924 ,98,51,79,82,7.0,New,Single Family Residential,1923,6000.0,477.0,1
+87,485 8th St #503,Oakland,Ca,94607,450000,1 ,1.0,598 ,100,88,84,76,8.0,New,Condo,2001,598.0,753.0,0
+88,4916 Cody Ct,Fremont,Ca,94538,1148000,3 ,2.0,1204 ,60,29,65,76,8.0,New,Single Family Residential,1964,6000.0,953.0,1
+89,544 Glen View Ave,Oakland,Ca,94610,1395000,4 ,2.5,2924 ,98,51,79,82,7.0,New,Multi-Family (2-4 Unit),1923,6000.0,477.0,1
+90,2271 Virginia St,Berkeley,Ca,94709,1795000,4 ,3.5,2558 ,92,67,73,82,8.0,New,Single Family Residential,1925,4365.0,702.0,1
+91,6323 Central Ave,Newark,Ca,94560,899000,3 ,1.0,1054 ,50,0,40,82,7.0,New,Single Family Residential,1952,5000.0,853.0,0
+92,360 Blake Ave,Fremont,Ca,94536,1998888,5 ,3.0,2353 ,30,48,63,83,7.0,New,Single Family Residential,1978,5925.0,850.0,1
+93,2239 83rd Ave,Oakland,Ca,94605,575000,2 ,1.0,936 ,72,58,65,67,2.0,Active,Single Family Home,1925,5400.0,614.0,0
+94,39109 Guardino Dr #237,Fremont,Ca,94538,478000,1 ,1.0,693 ,45,59,64,89,8.0,Active,Condo,1987,0.0,690.0,0
+95,17103 Via Flores,San lorenzo,Ca,94580,899000,3 ,2.0,1865 ,68,36,58,81,3.0,Active,Single Family Home,1947,4998.0,482.0,0
+96,39455 Finial Cmn,Fremont,Ca,94539,1298000,4 ,3.5,1848 ,52,32,60,83,7.0,New,Townhouse,2018,7043.0,702.0,1
+97,37816 Bright Cmn,Fremont,Ca,94536,949999,2 ,2.5,1513 ,55,41,63,77,8.0,Active,Townhouse,1977,1909.0,628.0,0
+98,5876 Hillbrook Pl,Dublin,Ca,94568,1149000,3 ,3.0,1719 ,15,0,36,74,8.0,New,Single Family Residential,2007,1827.0,668.0,1
+99,555 10th St #323,Oakland,Ca,94607,589000,2 ,2.0,906 ,99,87,88,76,8.0,Active,Condo,1998,0.0,650.0,0
+100,740 Hillgirt Cir,Oakland,Ca,94610,2250000,4 ,4.0,5831 ,92,56,65,65,7.0,New,Multi-Family (2-4 Unit),1922,4500.0,386.0,1
+101,849 Madeira Dr,Pleasanton,Ca,94566,1648990,3 ,2.0,2016 ,43,27,44,87,9.0,New,Single Family Residential,1975,7521.0,818.0,1
+102,640 Bogalusa Ct,Fremont,Ca,94539,2399000,5 ,2.5,2836 ,21,30,34,77,8.0,New,Single Family Residential,1980,6116.0,846.0,1
+103,6105 San Pablo Ave #203,Oakland,Ca,94608,825000,2 ,2.5,1488 ,94,59,83,69,4.0,New,Condo,2021,9937.0,554.0,0
+104,311 Oak St #840,Oakland,Ca,94607,599999,1 ,1.0,958 ,92,83,89,51,8.0,New,Condo,2003,0.0,626.0,0
+105,5832 Nottingham Dr,Oakland,Ca,94611,1225000,3 ,2.0,2267 ,50,29,25,91,8.0,New,Single Family Residential,1931,6903.0,540.0,1
+106,38318 Canyon Heights Dr,Fremont,Ca,94536,1099888,3 ,2.5,1650 ,19,22,23,63,7.0,New,Single Family Residential,1957,8160.0,667.0,1
+107,988 Franklin St #1008,Oakland,Ca,94607,388888,2 ,2.0,922 ,100,89,86,51,8.0,New,Condo,1993,0.0,422.0,0
+108,1244 Portland Ave,Albany,Ca,94706,979000,2 ,1.0,1111 ,89,58,98,87,9.0,New,Single Family Residential,1939,3500.0,881.0,0
+109,32731 Fairmead St,Union city,Ca,94587,1749000,4 ,3.0,2331 ,27,0,45,93,7.0,New,Single Family Residential,1985,7100.0,750.0,1
+110,6821 Thornhill Dr,Oakland,Ca,94611,1049000,3 ,2.0,1476 ,15,16,9,91,8.0,New,Single Family Residential,1979,5334.0,711.0,1
+111,3316 39th Ave,Oakland,Ca,94619,499000,2 ,1.0,508 ,86,50,70,73,3.0,New,Single Family Residential,1912,3250.0,982.0,0
+112,716 Tranquility Cir #3,Livermore,Ca,94551,999999,3 ,2.0,1817 ,2,0,49,82,7.0,New,Condo,2017,0.0,550.0,0
+113,5720 Caprice Cmn,Fremont,Ca,94538,949000,3 ,2.5,1118 ,62,32,49,67,7.0,New,Condo,1994,0.0,849.0,0
+114,855 Barney Cmn,Livermore,Ca,94551,1329950,5 ,3.5,2616 ,58,0,67,78,7.0,New,Single Family Residential,2019,3045.0,508.0,1
+115,6205 Woodvale Ter,Dublin,Ca,94568,2399000,5 ,4.5,3820 ,14,0,35,74,10.0,New,Single Family Residential,2004,8202.0,628.0,1
+116,1234 Peralta Ave,Berkeley,Ca,94706,899000,2 ,1.0,940 ,89,61,100,74,8.0,New,Single Family Residential,1929,4025.0,956.0,0
+117,160 Frisbie St,Oakland,Ca,94611,1298000,4 ,2.0,1647 ,89,63,76,51,4.0,New,Single Family Residential,1927,3420.0,788.0,1
+118,5932 Mauritania Ave,Oakland,Ca,94605,648000,3 ,1.0,1065 ,70,50,65,71,2.0,New,Single Family Residential,1947,2875.0,608.0,0
+119,38864 Myrsine Pl,Newark,Ca,94560,1249000,3 ,3.5,1925 ,61,0,49,82,5.5,Active,Townhouse,2017,1364.0,649.0,1
+120,5022 Beacon Hill Dr,Castro valley,Ca,94552,1950000,4 ,2.5,3194 ,43,25,25,91,8.0,New,Single Family Residential,1970,10880.0,611.0,1
+121,553 Olympic Ave,Hayward,Ca,94544,1498000,5 ,3.0,2321 ,53,46,66,70,2.0,Active,Single Family Home,2000,3979.0,645.0,1
+122,40448 Blacow Rd,Fremont,Ca,94538,1200000,4 ,2.0,1302 ,61,30,51,69,5.0,New,Single Family Residential,1960,5811.0,922.0,1
+123,9003 B St,Oakland,Ca,94603,499000,2 ,2.0,880 ,72,50,57,67,2.0,New,Single Family Residential,1945,4130.0,567.0,0
+124,130 Prato Way,Livermore,Ca,94550,1475000,4 ,3.0,2424 ,14,0,65,73,8.0,New,Single Family Residential,2002,8250.0,608.0,1
+125,2820 Casita Ter,Fremont,Ca,94539,1598000,4 ,3.5,2108 ,58,37,51,78,9.0,New,Townhouse,2015,1500.0,758.0,1
+126,2701 Park Blvd,Oakland,Ca,94606,879000,3 ,2.0,1406 ,81,58,51,65,7.0,New,Single Family Residential,1922,3300.0,625.0,0
+127,3146 Chateau Way,Livermore,Ca,94550,1199900,4 ,2.5,1662 ,55,0,78,78,7.0,New,Single Family Residential,1989,7653.0,722.0,1
+128,811 York St #313,Oakland,Ca,94610,675000,2 ,2.0,1122 ,97,51,69,82,7.0,New,Condo,1975,0.0,602.0,0
+129,5560 Barrel Ct,Dublin,Ca,94568,1072888,3 ,3.0,1563 ,55,0,92,83,8.0,New,Townhouse,2021,0.0,686.0,1
+130,5832 Marshall St,Oakland,Ca,94608,1195000,3 ,2.0,1740 ,94,58,87,69,4.0,New,Single Family Residential,1908,3763.0,687.0,1
+131,3635 Carrigan Cmn,Livermore,Ca,94550,629900,3 ,1.5,1242 ,76,0,85,61,7.0,New,Townhouse,1981,874.0,507.0,0
+132,598 63Rd St #2,Oakland,Ca,94609,1098000,3 ,2.0,1836 ,93,65,99,87,7.0,New,Condo,1907,10250.0,598.0,1
+133,4545 Tompkins Ave,Oakland,Ca,94619,1175000,3 ,2.0,2556 ,53,47,29,82,4.0,New,Single Family Residential,1938,6920.0,460.0,1
+134,Undisclosed Address,Oakland,Ca,94605,599900,2 ,2.0,1539 ,83,56,61,71,2.0,New-REO,Single Family Residential,1921,4480.0,390.0,0
+135,5925 Whitney St,Oakland,Ca,94609,1750000,8 ,2.0,1488.0,87,62,100,87,4.0,Active,Multi-Family (2-4 Unit),1901,5350.0,0.0,1
+136,45228 Tom Blalock St #306,Fremont,Ca,94539-8389,1288000,2 ,2.5,1786 ,31,51,63,47,9.0,New,Condo,2019,0.0,721.0,1
+137,128 Euclid Ave,San leandro,Ca,94577,988000,3 ,2.0,1227 ,90,58,71,79,4.0,New,Single Family Residential,1925,4800.0,805.0,0
+138,4240 Dali St,Fremont,Ca,94536,1349000,3 ,2.0,1232 ,63,41,46,67,7.0,New,Single Family Residential,1967,7221.0,1095.0,1
+139,3050 Cabrillo Ave,Livermore,Ca,94550,1149000,4 ,3.0,2024 ,76,0,85,78,7.0,New,Single Family Residential,1962,6000.0,568.0,1
+140,1441 Regent Dr,San leandro,Ca,94577,1388888,3 ,3.0,2491 ,54,39,20,90,6.0,Active,Single Family Home,1968,9025.0,558.0,1
+141,4347 Nagle Way,Fremont,Ca,94536,1298000,3 ,2.0,1377 ,56,41,43,82,7.0,Active,Single Family Home,1958,7725.0,943.0,1
+142,6363 Christie #2126,Emeryville,Ca,94608-1946,1295000,2 ,2.0,1369 ,82,0,91,69,3.0,New,Condo,1984,0.0,946.0,1
+143,1926 Clover Ct,Pleasanton,Ca,94588,4999000,5 ,5.5,7014 ,0,0,11,67,7.0,New,Single Family Residential,1997,0.0,713.0,1
+144,559 Everglades Ln,Livermore,Ca,94551,1099000,3 ,2.0,1773 ,38,0,61,56,7.0,New,Single Family Residential,1973,9877.0,620.0,1
+145,20332 CENTER St,Castro valley,Ca,94546,899900,3 ,1.5,1141 ,65,33,48,86,8.0,New,Single Family Residential,1952,5625.0,789.0,0
+146,976 Desconsado Ave,Livermore,Ca,94550,1195000,3 ,2.0,1753 ,52,0,77,70,6.0,New,Single Family Residential,1978,9500.0,682.0,1
+147,2407 Telegraph #307,Oakland,Ca,94612,425000,1 ,1.0,897 ,98,77,98,73,2.0,New,Condo,2004,0.0,474.0,0
+148,1643 Honeysuckle Rd,Livermore,Ca,94551,899000,3 ,2.0,1222 ,29,0,59,75,7.0,New,Single Family Residential,1980,7535.0,736.0,0
+149,2550 Dana St Unit 5B,Berkeley,Ca,94704,398000,1 ,1.0,700 ,96,63,98,85,7.0,New,Co-op,1962,0.0,569.0,0
+150,1325 Ward St,Berkeley,Ca,94702,879000,2 ,1.0,852 ,80,58,90,74,7.0,New,Single Family Residential,1920,3500.0,1032.0,0
+151,464 Ewing Dr,Pleasanton,Ca,94566,1200000,4 ,2.5,2009 ,57,30,40,81,8.0,New,Single Family Residential,1966,9638.0,597.0,1
+152,311 Oak #332,Oakland,Ca,94607,750000,2 ,2.0,1510 ,92,83,89,51,8.0,New,Condo,2003,1510.0,497.0,0
+153,1610 El Dorado Ct,Livermore,Ca,94550,949500,4 ,2.0,1302 ,68,0,73,70,6.0,New,Single Family Residential,1960,6300.0,729.0,0
+154,4080 Kuhnle,Oakland,Ca,94605,850000,3 ,2.0,1235 ,31,41,27,82,2.0,New,Single Family Residential,1939,6080.0,688.0,0
+155,555 pierce #1321,Albany,Ca,94706,499000,2 ,2.0,1040 ,69,58,66,79,7.0,Active,Condo,1977,1040.0,480.0,0
+156,2441 E 22Nd St,Oakland,Ca,94601,868000,5 ,2.5,2231 ,79,58,64,83,6.0,New,Multi-Family (2-4 Unit),1910,5250.0,389.0,0
+157,3003 Briggs Ct,Pleasanton,Ca,94588,2988000,4 ,3.5,3886 ,9,18,48,63,8.0,New,Single Family Residential,1997,0.0,769.0,1
+158,5225 Cochrane,Oakland,Ca,94618,2700000,4 ,3.0,3102 ,25,28,28,79,7.0,New,Single Family Residential,1993,6000.0,870.0,1
+159,641 Minerva St,Hayward,Ca,94544-5842,799950,3 ,2.0,1135 ,70,51,61,70,4.0,New,Single Family Residential,1955,5300.0,705.0,0
+160,4019 Lambert Way,Hayward,Ca,94541,950000,3 ,3.5,1716 ,73,61,68,85,5.0,New,Condo,2016,7520.0,554.0,0
+161,35045 Lido Blvd,Newark,Ca,94560,648800,2 ,1.5,972 ,82,0,54,89,5.5,Active,Townhouse,1972,1134.0,667.0,0
+162,372 Via Coches,San lorenzo,Ca,94580-3110,700000,3 ,1.0,1000 ,73,38,65,81,4.0,New,Single Family Residential,1944,5000.0,700.0,0
+163,8351 Sandy Cove Way,Newark,Ca,94560,1838000,4 ,3.0,2533 ,26,0,36,79,3.0,New,Single Family Residential,2018,2633.0,726.0,1
+164,4840 Gordon St,Oakland,Ca,94601,588000,2 ,1.0,722 ,68,49,32,71,1.0,Active,Single Family Residential,1926,2500.0,814.0,0
+165,4170 Central Ave,Fremont,Ca,94536,1280000,2 ,2.5,1363 ,70,42,50,82,7.0,Active,Condo,2023,0.0,939.0,1
+166,42111 Osgood Rd #315,Fremont,Ca,94539,783800,3 ,2.0,1118 ,58,35,52,73,8.0,Active,Condo,2022,0.0,701.0,0
+167,32337 Utica St,Hayward,Ca,94544,757000,3 ,2.0,1503 ,43,38,51,80,4.0,New,Single Family Residential,1951,5000.0,504.0,0
+168,1512 52Nd Ave,Oakland,Ca,94601,624888,3 ,3.0,1089 ,86,53,76,71,2.0,New,Single Family Residential,1922,4375.0,574.0,0
+169,1345 E 36th St,Oakland,Ca,94602,819000,3 ,2.5,1480 ,77,56,68,82,7.0,Active,Single Family Residential,2008,1660.0,553.0,0
+170,2399 E 14th St #148,San leandro,Ca,94577,60000,1 ,1.0,550 ,72,49,76,0,5.0,Active,Mobile/Manufactured Home,2003,0.0,109.0,0
+171,2070 Joan Dr,San leandro,Ca,94578,840000,3 ,2.0,1215 ,10,42,6,75,4.0,New,Single Family Residential,1953,5500.0,691.0,0
+172,6094 Bennington Dr,Newark,Ca,94560,1199888,4 ,2.0,1464 ,68,0,52,82,5.0,New,Single Family Residential,1962,6000.0,820.0,1
+173,2048 55Th Ave,Oakland,Ca,94621,648000,3 ,2.0,1342 ,84,54,60,71,3.0,New,Single Family Residential,1918,3800.0,483.0,0
+174,5225 Morris Way,Fremont,Ca,94536,1288000,4 ,2.0,1265 ,48,32,45,77,5.0,New,Single Family Residential,1960,6773.0,1018.0,1
+175,34230 Sterne Ct,Fremont,Ca,94555,1699000,4 ,2.0,1504 ,23,49,64,72,8.0,New,Single Family Residential,1969,5590.0,1130.0,1
+176,2998 Barrett,Oakland,Ca,94605-5310,849000,3 ,2.0,1446 ,53,51,34,93,2.0,New,Single Family Residential,1937,5150.0,587.0,0
+177,2643 OCALA St,Hayward,Ca,94545,848888,3 ,2.0,1368 ,70,39,62,74,4.0,Active,Single Family Residence,1957,5300.0,621.0,0
+178,38950 Dandelion Pl,Newark,Ca,94560,1350000,3 ,3.5,1933 ,68,0,52,82,5.5,Active,Townhouse,2018,1916.0,698.0,1
+179,Undisclosed Address,Oakland,Ca,94601,499000,3 ,1.0,1229 ,84,52,68,71,2.0,New,Single Family Residential,1920,3200.0,406.0,0
+180,3931 Opal St,Oakland,Ca,94609,988000,2 ,1.0,1043 ,97,69,98,87,4.0,Active,Single Family Residential,1914,2915.0,947.0,0
+181,22421 Fuller Ave,Hayward,Ca,94541,799888,4 ,2.0,1681 ,67,46,65,52,3.0,New,Single Family Residential,1925,10239.0,476.0,0
+182,2800 Hopkins Pl,Oakland,Ca,94602,779000,2 ,1.5,1098 ,88,55,47,82,7.0,New,Single Family Residential,1922,3605.0,709.0,0
+183,389 Belmont St #101,Oakland,Ca,94610,785000,2 ,2.0,1261 ,95,67,92,51,4.0,Active,Condo,1983,0.0,623.0,0
+184,66 Fairmount Ave #219,Oakland,Ca,94611,589000,2 ,2.0,983 ,93,67,78,51,8.0,Active,Condo,1972,0.0,599.0,0
+185,901 Jefferson St #314,Oakland,Ca,94607,655000,2 ,2.0,909 ,98,86,89,76,2.0,Active,Condo,2009,0.0,721.0,0
+186,2110 Buena Vis,Alameda,Ca,94501,1100000,4 ,3.5,1935 ,87,49,74,84,6.0,Active,Multi-Family (2-4 Unit),1896,4500.0,568.0,1
+187,8031 Merion Dr,Newark,Ca,94560,1580000,5 ,2.5,1808 ,38,0,45,82,6.0,Active,Single Family Home,1975,8820.0,874.0,1
+188,425 28Th St Unit 202A,Oakland,Ca,94609,499000,1 ,1.5,912 ,97,71,98,73,2.0,Active,Condo,1963,0.0,547.0,0
+189,3749 Jamestown Rd,Fremont,Ca,94538,950000,3 ,2.0,1112 ,56,31,57,93,8.0,Active,Single Family Home,1954,5450.0,854.0,0
+190,2941 Marina Dr,Alameda,Ca,94501,1299000,3 ,2.5,2105 ,69,65,92,78,9.0,Active,Single Family Residential,1941,7093.0,617.0,1
+191,1779 Gazelle Way,Hayward,Ca,94541,678888,3 ,2.5,1293 ,45,36,23,88,5.0,Active,Townhouse,1972,1219.0,525.0,0
+192,1778 Pleasant Vly,Oakland,Ca,94611,1095000,3 ,2.0,1588 ,90,48,54,81,4.0,Active,Single Family Residential,1917,6993.0,690.0,1
+193,702 Bridge Rd,San leandro,Ca,94577,1398000,5 ,1.0,2047 ,80,53,82,98,6.0,Active,Single Family Residential,1931,4784.0,683.0,1
+194,690 Gable Dr,Fremont,Ca,94539,1575000,3 ,2.5,1485 ,42,31,44,77,8.0,Active,Single Family Home,1970,8030.0,1061.0,1
+195,828 Alma Pl,Oakland,Ca,94610,1249000,4 ,3.5,2201 ,58,54,52,82,8.0,Active,Single Family Residential,1923,5390.0,567.0,1
+196,846 42Nd St,Oakland,Ca,94608,1175000,5 ,3.0,1824 ,91,72,98,70,4.0,Active,Single Family Residential,1919,4000.0,644.0,1
+197,22591 Mossy Rock Dr,Hayward,Ca,94541,699000,3 ,2.0,1280 ,15,0,10,76,4.0,Active,Single Family Residential,1979,5144.0,546.0,0
+198,23 Castlewood Dr,Pleasanton,Ca,94566,2849999,4 ,2.5,3044 ,5,0,8,67,7.0,Active,Single Family Residential,1969,0.0,936.0,1
+199,2018 Ninth St Unit D,Berkeley,Ca,94710,465000,1 ,1.0,583 ,96,61,94,69,8.0,Active,Condo,1986,0.0,798.0,0
+200,5110 Crockett Pl,Oakland,Ca,94602,1495000,4 ,3.5,4136 ,13,33,9,82,4.0,Active,Single Family Residential,2001,6534.0,361.0,1
+201,3479 Davis St,Oakland,Ca,94601,629900,3 ,2.0,1062 ,74,56,66,73,3.0,Active,Single Family Residential,1925,3164.0,593.0,0
+202,264 Mather St,Oakland,Ca,94611,1585000,4 ,3.0,2090 ,95,57,66,81,4.0,Active,Single Family Residential,1926,2663.0,758.0,1
+203,17069 President Dr,Castro valley,Ca,94546,699000,3 ,2.0,1770 ,31,35,9,75,3.0,Active,Single Family Home,1968,5612.0,395.0,0
+204,1058 Victoria Ave,San leandro,Ca,94577,649000,2 ,1.0,846 ,74,52,63,79,6.0,Active,Single Family Residential,1953,3277.0,767.0,0
+205,7455 Sheridan Rd,Sunol,Ca,94586,2000000,4 ,2.0,2791 ,0,0,1,67,9.0,Active,Single Family Residential,1966,0.0,717.0,1
+206,4628 Fieldbrook Rd,Oakland,Ca,94619,1150000,4 ,3.0,1943 ,69,38,32,82,4.0,Active,Single Family Residential,1948,6138.0,592.0,1
+207,1024 Curtis St,Albany,Ca,94706,995000,2 ,1.0,1133 ,86,51,86,87,9.0,Active,Single Family Residential,1925,3500.0,878.0,0
+208,2039 103rd Ave,Oakland,Ca,94603,425000,3 ,2.0,1406 ,68,58,72,77,2.0,Active,Single Family Residential,1947,5500.0,302.0,0
+209,744 Barcelona Dr,Fremont,Ca,94536,1999000,4 ,3.0,2361 ,34,25,41,63,7.0,Active,Single Family Residential,1966,10165.0,847.0,1
+210,69 Roble Rd,Oakland,Ca,94618,1495000,2 ,2.0,2161 ,60,48,53,79,7.0,Active,Single Family Residential,1993,7338.0,692.0,1
+211,22 Woodside Glen Ct,Oakland,Ca,94602,1489000,4 ,2.5,2841 ,43,30,22,79,7.0,Active,Single Family Residential,2006,0.0,524.0,1
+212,3459 Hazel Ln,Alameda,Ca,94502,790000,2 ,2.0,1247 ,41,30,52,73,9.0,Active,Townhouse,1973,2262.0,634.0,0
+213,3914 Coolidge,Oakland,Ca,94602,773000,2 ,1.0,1034 ,61,51,47,92,7.0,Active,Single Family Residential,1926,5070.0,748.0,0
+214,12 REGULUS Ct,Alameda,Ca,94501,895000,2 ,2.0,1443 ,69,47,81,73,8.0,Active,Condo,1988,0.0,620.0,0
+215,3112 Ellis St Unit A,Berkeley,Ca,94703,995000,3 ,1.5,1272 ,93,63,99,85,7.0,Active,Single Family Residential,2002,4748.0,782.0,0
+216,1196 Kains Ave,Berkeley,Ca,94706,898000,2 ,1.0,860 ,93,58,99,74,8.0,Active,Single Family Residential,1908,2640.0,1044.0,0
+217,1457 Trimingham Dr,Pleasanton,Ca,94566,1275000,3 ,2.5,1731 ,79,32,73,83,7.0,Price Change,Single Family Residential,1986,2850.0,737.0,1
+218,25266 Villager Ln,Hayward,Ca,94544,949000,4 ,3.5,2119 ,56,39,60,82,6.0,Active,Townhouse,2020,7238.0,448.0,0
+219,17373 Robey Dr,Castro valley,Ca,94546,949000,3 ,2.5,2276 ,15,36,13,75,3.0,Active,Single Family Residential,1989,5172.0,417.0,0
+220,4300 Adeline St,Emeryville,Ca,94608,1298000,4 ,3.0,1923 ,92,0,97,63,4.0,Active,Single Family Residential,1939,4400.0,675.0,1
+221,2700 Madeline St,Oakland,Ca,94602,909090,2 ,1.0,1031 ,79,55,48,82,7.0,Active,Single Family Residential,1924,2660.0,882.0,0
+222,35920 Ashton Pl,Fremont,Ca,94536,1499999,3 ,2.0,1523 ,64,41,50,87,8.0,Active,Single Family Residential,1968,5800.0,985.0,1
+223,2285 Star Ave,Castro valley,Ca,94546,799000,2 ,2.0,1260 ,73,45,82,85,3.0,Active,Single Family Residential,1947,5040.0,634.0,0
+224,3425 Brunell Dr,Oakland,Ca,94602,1629000,4 ,2.5,2868 ,12,35,11,82,4.0,Active,Single Family Residential,1986,0.0,568.0,1
+225,2854 Shasta Rd,Berkeley,Ca,94708,1498000,3 ,3.0,1593 ,27,33,32,90,6.0,Active,Single Family Residential,1941,5096.0,940.0,1
+226,2667 Acorn St,Castro valley,Ca,94546,1179000,3 ,3.0,1744 ,30,27,13,75,6.0,Active,Single Family Residential,1950,5050.0,676.0,1
+227,4257 Knoll Ave,Oakland,Ca,94619,1395000,3 ,3.0,1798 ,33,44,21,82,7.0,Active,Single Family Residential,1943,8950.0,776.0,1
+228,555 pierce St #1424,Albany,Ca,94706,389000,1 ,1.0,745 ,69,58,66,79,7.0,Active,Condo,1977,0.0,522.0,0
+229,1627 83rd Ave,Oakland,Ca,94621,399000,3 ,1.0,798 ,73,56,62,67,2.0,Active,Multi-Family (2-4 Unit),1919,5001.0,500.0,0
+230,4839 Roberts Ct,Castro valley,Ca,94552,1549000,4 ,3.5,2526 ,56,29,33,91,8.0,Active,Single Family Home,2019,5937.0,613.0,1
+231,6119 Acacia Ave,Oakland,Ca,94618,1950000,4 ,3.5,3756 ,60,48,53,79,7.0,Active,Single Family Residential,1935,7749.0,519.0,1
+232,3661 Dublin Blvd,Dublin,Ca,94568,799000,2 ,2.0,1420 ,71,0,67,74,9.0,Active,Condo,2004,0.0,563.0,0
+233,2818 Derbyline Ln,Alameda,Ca,94501,757014,2 ,1.5,1000 ,64,61,76,81,5.0,Active,Condo,2023,0.0,757.0,0
+234,1021 Aquarius Way,Oakland,Ca,94611,1900000,4 ,2.5,2391 ,30,25,25,79,8.0,Active,Single Family Residential,1993,4051.0,795.0,1
+235,7668 Surrey Ln,Oakland,Ca,94605,1250000,4 ,2.5,2072 ,5,16,6,82,4.0,Active,Single Family Home,1967,0.0,603.0,1
+236,2547 La Don Ct,Castro valley,Ca,94546,1475000,4 ,4.0,2674 ,63,31,22,75,6.0,Active,Single Family Residential,1952,0.0,552.0,1
+237,6481 Bayview Dr,Oakland,Ca,94605,1095000,4 ,3.5,2513 ,18,33,15,82,2.0,Active,Townhouse,2014,2343.0,436.0,1
+238,785 Taft Ave #9,Albany,Ca,94706,669000,2 ,1.0,788 ,84,58,66,91,7.0,Active,Condo,1961,8000.0,849.0,0
+239,14634 Bancroft Ave,San leandro,Ca,94578,789900,2 ,2.0,1957 ,88,48,53,90,4.0,Active,Single Family Residential,1945,5667.0,404.0,0
+240,342 Marina Blvd,San leandro,Ca,94577,1500000,2 ,1.0,808 ,81,59,84,74,5.0,Active,Single Family Home,1882,0.0,1856.0,1
+241,544 Marlin Ct,Hayward,Ca,94544,798888,3 ,2.5,1610 ,67,48,52,63,2.0,Active,Townhouse,1979,2800.0,496.0,0
+242,1903 Bonita #3,Berkeley,Ca,94704,348000,1 ,1.0,205 ,98,71,96,85,8.0,Active,Condo,1914,2983.0,1698.0,0
+243,43678 SKYE Rd,Fremont,Ca,94539,2399888,5 ,3.0,2907 ,5,29,28,92,9.0,Active,Single Family Residential,1988,6336.0,826.0,1
+244,804 Crocus Dr,San leandro,Ca,94578,750000,3 ,2.0,1916 ,62,60,53,80,6.0,Active,Single Family Residential,1978,6087.0,391.0,0
+245,576 Begier Ave,San leandro,Ca,94577,995000,3 ,1.5,1777 ,77,53,73,98,4.0,Active,Single Family Residential,1936,4440.0,560.0,0
+246,2142 64th Ave,Oakland,Ca,94621,475000,2 ,1.0,1044 ,72,59,57,71,3.0,Active,Single Family Home,1924,3800.0,455.0,0
+247,35447 Monterra Cir,Union city,Ca,94587,541632,2 ,2.5,1294 ,72,0,53,83,4.0,Active,Townhouse,2001,5904.0,419.0,0
+248,6105 San Pablo Ave #102,Oakland,Ca,94608,598000,1 ,1.5,965 ,94,59,83,69,4.0,Active,Condo,2018,0.0,620.0,0
+249,6157 Ruthland Rd,Oakland,Ca,94611-1835,1798000,4 ,2.5,2458 ,21,26,27,79,8.0,Active,Single Family Residential,1996,5400.0,731.0,1
+250,1217 Burkhart Ave,San leandro,Ca,94579,889000,3 ,1.0,1095 ,74,34,58,79,5.0,Active,Single Family Home,1950,6250.0,812.0,0
+251,311 Oak #115,Oakland,Ca,94607,898800,1 ,2.0,2052 ,92,83,89,51,8.0,Active,Condo,2003,0.0,438.0,0
+252,5617 Byington Dr,Newark,Ca,94560,2280000,4 ,3.0,3148 ,73,0,50,82,7.0,Active,Single Family Residential,2001,7627.0,724.0,1
+253,6221 Chabot Rd,Oakland,Ca,94618,2395000,4 ,3.5,2212 ,92,60,76,89,8.0,Active,Single Family Residential,1916,4960.0,1083.0,1
+254,2339 64Th Ave,Oakland,Ca,94605,519000,3 ,1.0,1517 ,72,56,59,71,3.0,Active,Single Family Residential,1924,3800.0,342.0,0
+255,438 W Grand Ave #426,Oakland,Ca,94612,879000,2 ,2.5,1471 ,99,78,96,73,2.0,Active,Condo,2008,1256.0,598.0,0
+256,5284 Peony Dr,Livermore,Ca,94551,989000,3 ,2.0,1306 ,27,0,57,75,7.0,Active,Single Family Residential,1963,5066.0,757.0,0
+257,2579 Walker Pl,Livermore,Ca,94550,1899950,5 ,2.0,2300 ,16,0,48,73,8.0,Active,Single Family Residential,1973,0.0,826.0,1
+258,832 Taylor Ave,Alameda,Ca,94501,1299000,7 ,3.0,3000 ,90,49,84,81,8.0,Active,Multi-Family (2-4 Unit),1878,7400.0,433.0,1
+259,Undisclosed Address,Oakland,Ca,94609,749000,4 ,1.0,740 ,93,63,91,89,4.0,Active,Single Family Residential,1912,3000.0,1012.0,0
+260,8010 SURREY Ln,Oakland,Ca,94605-4225,1250000,4 ,2.0,1800 ,15,16,11,82,4.0,Active,Single Family Residential,1971,0.0,694.0,1
+261,786 Euclid Ave,Berkeley,Ca,94708,1785000,3 ,2.5,2136 ,35,42,34,92,8.0,Active,Single Family Residential,1970,5950.0,836.0,1
+262,3538 Hageman Ave,Oakland,Ca,94619,1199000,8 ,6.0,3806 ,68,52,69,73,3.0,Active,Multi-Family (2-4 Unit),1993,4002.0,315.0,1
+263,1516 Olympus Ave,Berkeley,Ca,94708,1695000,4 ,3.0,2682 ,22,42,30,93,6.0,Active,Single Family Residential,1980,5636.0,632.0,1
+264,1406 Via Buena Vis,San lorenzo,Ca,94580,849900,3 ,1.0,1325 ,30,34,42,81,3.0,Active,Single Family Residential,1951,7816.0,641.0,0
+265,16500 Severn Rd,San leandro,Ca,94578,925000,3 ,2.5,1632 ,40,32,13,75,6.0,Active,Single Family Residential,1965,5820.0,567.0,0
+266,3618 Macarthur Blvd,Oakland,Ca,94619,898000,4 ,3.0,1769 ,90,51,68,82,4.0,Active,Single Family Home,1923,3990.0,508.0,0
+267,471 North St,Oakland,Ca,94609,1025000,2 ,1.0,1421 ,89,66,99,70,7.0,Active,Single Family Residential,1914,4160.0,721.0,1
+268,1045 56Th St,Oakland,Ca,94608,785000,2 ,2.0,1275 ,91,60,98,77,4.0,Active,Single Family Residential,1926,2639.0,616.0,0
+269,1206 Grand St,Alameda,Ca,94501,1495000,4 ,2.0,1924 ,85,47,83,78,7.0,Active,Single Family Residential,1904,4140.0,777.0,1
+270,5301 Masonic Ave,Oakland,Ca,94618,899000,3 ,1.5,1550 ,28,31,25,79,7.0,Active,Single Family Residential,1955,6420.0,580.0,0
+271,1114 Jason Creek Pl,Hayward,Ca,94544,1659000,5 ,4.0,3337 ,92,64,61,88,5.0,Active,Single Family Residential,2023,4892.0,497.0,1
+272,2027 Pacific Ave,Alameda,Ca,94501,1399000,7 ,4.0,3197 ,86,48,75,84,6.0,Active,Triplex,1892,7324.0,438.0,1
+273,5291 BELVEDERE St,Oakland,Ca,94601,995000,5 ,2.5,2911 ,83,53,48,71,1.0,Active,Single Family Residential,1930,5200.0,342.0,0
+274,4229 Fruitvale Ave,Oakland,Ca,94602,1279000,3 ,2.0,1657 ,38,37,23,79,7.0,Active,Single Family Residential,1948,5456.0,772.0,1
+275,2058 Rutherford Ln,Fremont,Ca,94539,4350000,6 ,7.0,5519 ,2,27,5,87,9.0,Active,Single Family Residential,2000,0.0,788.0,1
+276,2919 Delaware St,Oakland,Ca,94602,599000,4 ,2.5,1828 ,85,55,44,73,2.0,Active,Single Family Residential,1910,4000.0,328.0,0
+277,120 Glenwood Glade,Oakland,Ca,94611-1913,1049000,3 ,1.5,1792 ,31,26,27,79,8.0,Active,Single Family Residential,1931,6490.0,585.0,1
+278,1410 Lincoln,Berkeley,Ca,94702,1099000,2 ,1.0,1285 ,82,66,98,74,8.0,Active,Single Family Residential,1939,3870.0,855.0,1
+279,4016 Coolidge Ave,Oakland,Ca,94602,899000,2 ,1.0,952 ,62,50,39,92,7.0,Active,Single Family Residential,1964,6193.0,944.0,0
+280,44 Bowling Dr,Oakland,Ca,94618,1985000,4 ,3.0,3550 ,59,51,49,79,7.0,Active,Single Family Residential,1936,10010.0,559.0,1
+281,5625 Buena Vista Ave,Oakland,Ca,94618,1695000,3 ,2.0,1954 ,54,44,63,79,8.0,Active,Single Family Residential,1927,6820.0,867.0,1
+282,143 Fagundes St,Hayward,Ca,94544,1175000,8 ,5.0,3638 ,75,37,58,75,3.0,Active,Single Family Residential,1980,6050.0,323.0,1
+283,1240 Via Nube,San lorenzo,Ca,94580,750000,3 ,1.0,1043 ,15,38,45,81,3.0,Active,Single Family Residential,1950,5049.0,719.0,0
+284,6400 Christie Ave #5323,Emeryville,Ca,94608,678888,2 ,2.0,1104 ,86,0,93,69,3.0,Active,Condo,1988,0.0,615.0,0
+285,2952 Claremont Blvd,Berkeley,Ca,94705,2795000,4 ,3.5,2873 ,87,53,68,79,7.0,Active,Single Family Residential,1915,6850.0,973.0,1
+286,1334 Kains Ave,Berkeley,Ca,94702,1399000,3 ,2.5,1596 ,93,60,99,74,8.0,Active,Single Family Residential,1912,3800.0,877.0,1
+287,152 Lombard St Unit 507G,San francisco,Ca,94111,1099000,2 ,2.0,1206 ,90,79,64,35,7.0,Coming Soon,Condo,1975,0.0,911.0,1
+288,3620 Cesar Chavez #104,San francisco,Ca,94110,699000,1 ,1.0,743 ,98,83,94,56,7.0,Active,Condo,2020,0.0,941.0,0
+289,3817 Folsom St,San francisco,Ca,94110,2295000,4 ,3.0,2088 ,93,75,63,56,3.0,Active,Single Family Residential,1923,1751.0,1099.0,1
+290,3583 Sacramento St,San francisco,Ca,94118,1995000,3 ,2.0,1437.0,95,68,83,45,9.0,Active,Condo,1907,0.0,0.0,1
+291,955 Clayton St #4,San francisco,Ca,94117,1550000,2 ,2.0,1479 ,96,72,66,45,7.0,Active,Condo,1904,8397.0,1048.0,1
+292,624 - A Guerrero St,San francisco,Ca,94110,1195000,2 ,1.5,1204 ,98,93,92,67,7.0,Active,Condo,1906,3500.0,993.0,1
+293,1825 Turk St #2,San francisco,Ca,94115,1275000,3 ,2.0,1272 ,97,76,84,45,9.0,Active,Condo,1988,4903.0,1002.0,1
+294,486 Ralston St,San francisco,Ca,94132,998950,2 ,1.0,1100 ,72,68,50,67,9.0,Active,Single Family Residential,1925,2495.0,908.0,0
+295,10 Seal Rock Dr,San francisco,Ca,94121,1058000,2 ,3.0,1480 ,75,61,65,55,9.0,Active,Single Family Residential,1941,1968.0,715.0,1
+296,320 30th Ave,San francisco,Ca,94121,2080000,3 ,3.5,1771 ,92,64,80,45,8.0,New,Condo,2023,3000.0,1174.0,1
+297,318 30th Ave,San francisco,Ca,94121,2290000,3 ,3.5,2334 ,92,64,80,45,8.0,New,Condo,2023,3000.0,981.0,1
+298,2363 Larkin St #31,San francisco,Ca,94109,950000,1 ,1.0,840 ,98,83,68,20,9.0,Active,Condo,1923,4952.0,1131.0,0
+299,22 Caine Ave,San francisco,Ca,94112,988000,2 ,1.0,1226 ,71,88,44,67,7.0,Active,Single Family Residential,1912,2500.0,806.0,0
+300,1225 - 1229 Rhode Island St,San francisco,Ca,94107,1769000,5 ,2.0,2119 ,88,70,74,56,6.0,Active,Multi-Family (2-4 Unit),1911,2500.0,835.0,1
+301,115 Plymouth Ave Unit C,San francisco,Ca,94112,948000,4 ,2.0,2240 ,85,78,56,67,4.0,Active,Condo,2022,3500.0,423.0,0
+302,1388 Gough St #903,San francisco,Ca,94109,1065000,2 ,2.0,1192 ,99,91,82,45,6.0,Active,Condo,1993,0.0,893.0,1
+303,115 Plymouth Ave Unit B,San francisco,Ca,94112,828000,3 ,2.0,1120 ,85,78,56,67,4.0,Active,Condo,2022,3500.0,739.0,0
+304,745 27th Ave,San francisco,Ca,94121,2748000,4 ,4.0,2227 ,88,68,75,45,8.0,Active,Single Family Residential,1924,3118.0,1234.0,1
+305,2655 Bush St #203,San francisco,Ca,94115,1295000,2 ,2.0,1288 ,98,73,86,70,4.0,Active,Condo,2017,0.0,1005.0,1
+306,170 Vasquez Ave,San francisco,Ca,94127,2595000,4 ,3.5,2360 ,78,74,56,90,8.0,Active,Single Family Residential,1941,6002.0,1100.0,1
+307,197 Goethe St,San francisco,Ca,94112,989000,3 ,3.0,1208 ,84,78,50,67,5.0,Active,Single Family Home,1922,3333.0,819.0,0
+308,1125 - 1129 Clay St,San francisco,Ca,94108,2295000,4 ,3.5,2316 ,99,100,60,20,9.0,Active,Multi-Family (2-4 Unit),1910,1271.0,991.0,1
+309,333 Main St Unit 6E,San francisco,Ca,94105,1498888,2 ,2.0,1366 ,95,100,73,11,6.0,Active,Condo,2008,0.0,1097.0,1
+310,115 Plymouth Ave Unit A,San francisco,Ca,94112,828000,3 ,2.0,1120 ,85,78,56,67,4.0,Active,Condo,2022,3500.0,739.0,0
+311,1073 - 1077 South Van Ness Ave,San francisco,Ca,94110,2800000,8 ,4.0,5880 ,99,86,100,0,5.0,Active,Multi-Family (5+ Unit),1900,3675.0,476.0,1
+312,403 Main St #520,San francisco,Ca,94105,1175000,2 ,2.0,1083 ,89,100,82,11,6.0,Active,Condo,1997,0.0,1085.0,1
+313,1644 Alabama St,San francisco,Ca,94110,1195000,2 ,2.0,984 ,91,81,70,56,3.0,Active,Condo,1900,2750.0,1214.0,1
+314,1878 Bush St,San francisco,Ca,94109,2200000,3 ,2.0,1718 ,98,81,77,45,6.0,Active,Condo,1900,3781.0,1281.0,1
+315,150 Rutledge St,San francisco,Ca,94110,1648000,3 ,2.0,1374 ,88,77,75,56,3.0,Active,Single Family Residential,1959,1746.0,1199.0,1
+316,467 Duboce Ave Unit A,San francisco,Ca,94117,1595000,2 ,2.0,1195 ,98,96,95,67,8.0,Active,Condo,1900,0.0,1335.0,1
+317,483 Tehama St,San francisco,Ca,94103,1495000,2 ,2.0,6100 ,98,100,98,55,6.0,Active,Single Family Residential,1926,2000.0,245.0,1
+318,3154 Baker St,San francisco,Ca,94123,2650000,4 ,2.5,1437.0,96,64,96,45,4.0,Active,Single Family Residential,1926,0.0,0.0,1
+319,1876 Bush St,San francisco,Ca,94109,2900000,3 ,2.0,2301 ,98,81,77,45,6.0,Active,Condo,1900,3781.0,1260.0,1
+320,350 Church St Unit J,San francisco,Ca,94114,1195000,1 ,1.0,830 ,99,95,98,67,2.0,Active,Condo,1981,0.0,1440.0,1
+321,1354 46th Ave,San francisco,Ca,94122,1299000,5 ,2.0,1676 ,88,57,88,79,8.0,Active,Condo,1915,3000.0,775.0,1
+322,1236 Willard St,San francisco,Ca,94117,1195000,3 ,1.5,1270 ,96,65,67,67,7.0,Active,Condo,1900,2625.0,941.0,1
+323,1001 California St #7,San francisco,Ca,94108,6350000,2 ,2.5,2980 ,99,100,58,20,5.0,Active,Condo,1914,4693.0,2131.0,1
+324,200 Darien Way,San francisco,Ca,94127,2099000,4 ,4.0,2332 ,90,70,70,67,9.0,New,Single Family Residential,1926,3589.0,900.0,1
+325,3310 Mission St #4,San francisco,Ca,94110,1395000,2 ,2.0,1398 ,97,81,77,56,3.0,Active,Condo,2022,4573.0,998.0,1
+326,5056 Diamond Heights Blvd,San francisco,Ca,94131,945000,2 ,2.0,1052 ,73,62,65,67,6.0,Active,Condo,1963,9763.0,898.0,0
+327,280 Spear St Unit 26A,San francisco,Ca,94105,1990000,2 ,2.0,1551 ,95,100,73,11,6.0,Active,Condo,2022,0.0,1283.0,1
+328,3326 California St #1,San francisco,Ca,94118,1345000,2 ,2.0,1180 ,96,69,73,45,9.0,Active,Condo,2000,3646.0,1140.0,1
+329,5020 Mission St #4,San francisco,Ca,94112,995000,4 ,2.0,1515 ,95,87,59,78,5.0,Active,Condo,2004,2624.0,657.0,0
+330,2130 Sutter St Unit B,San francisco,Ca,94115,1498000,2 ,2.0,1325 ,99,75,92,70,4.0,Active,Condo,1890,3761.0,1131.0,1
+331,2829 Steiner St #2,San francisco,Ca,94123,2149000,2 ,2.5,1454 ,98,76,58,45,4.0,Active,Condo,1956,3025.0,1478.0,1
+332,624 - 626 Castro St #626,San francisco,Ca,94114,1795000,3 ,1.5,1746 ,99,83,64,67,7.0,Active,Condo,1925,3624.0,1028.0,1
+333,261 17th Ave,San francisco,Ca,94121,2998888,5 ,4.5,3560 ,96,68,83,45,8.0,Active,Multi-Family (2-4 Unit),1998,3000.0,842.0,1
+334,1454 South Van Ness Ave,San francisco,Ca,94110,4790000,15 ,8.0,5697 ,100,86,98,0,1.0,Active,Multi-Family (5+ Unit),1960,2844.0,841.0,1
+335,1515 15th St #510,San francisco,Ca,94103,1195000,2 ,1.0,946 ,99,97,100,56,5.0,Active,Condo,2014,0.0,1263.0,1
+336,1473 Hudson Ave,San francisco,Ca,94124,1595000,4 ,4.0,2745 ,87,66,74,56,2.0,Active,Single Family Residential,1933,2996.0,581.0,1
+337,1415 San Bruno Ave Unit A,San francisco,Ca,94110,1199000,2 ,2.0,1116 ,94,74,91,56,4.0,Active,Condo,1900,2495.0,1074.0,1
+338,1415 San Bruno Ave,San francisco,Ca,94110,1299000,3 ,2.0,1126 ,94,74,91,56,4.0,Active,Condo,1900,2495.0,1154.0,1
+339,88 King St #124,San francisco,Ca,94107,1299000,2 ,2.5,1362 ,90,90,89,11,6.0,Active,Condo,2000,0.0,954.0,1
+340,1583 Dolores St,San francisco,Ca,94110,1349000,2 ,1.0,1432 ,96,80,96,67,7.0,Active,Condo,1900,2500.0,942.0,1
+341,1457 Hudson Ave,San francisco,Ca,94124,1599999,5 ,3.0,1785 ,82,66,73,56,2.0,Active,Single Family Home,1912,2996.0,896.0,1
+342,525 Gennessee St,San francisco,Ca,94127,1859000,4 ,3.0,1950 ,80,72,58,67,7.0,Active,Single Family Residential,1926,2500.0,953.0,1
+343,1355 35th Ave,San francisco,Ca,94122,1799000,6 ,4.0,2445 ,75,57,84,67,9.0,Active,Single Family Residential,1927,2996.0,736.0,1
+344,2242 Judah St,San francisco,Ca,94122,1200000,3 ,2.0,1437.0,89,59,77,67,9.0,Active,Condo,1945,1873.0,0.0,1
+345,156 Moffitt St,San francisco,Ca,94131,995000,3 ,1.0,987 ,60,80,66,67,5.0,Active,Single Family Residential,1950,2500.0,1008.0,0
+346,132 Britton St,San francisco,Ca,94134,998888,3 ,1.0,1866 ,73,66,53,56,5.0,Active,Single Family Home,1923,4153.0,535.0,0
+347,36 Brunswick St,San francisco,Ca,94112,1495000,3 ,3.5,1870 ,85,75,31,67,3.0,Active,Single Family Residential,1916,1799.0,799.0,1
+348,708 Long Bridge St #306,San francisco,Ca,94158,1739000,2 ,2.0,1425 ,87,81,93,11,6.0,Active,Condo,2016,0.0,1220.0,1
+349,115 Carl St #6,San francisco,Ca,94117,665000,1 ,1.0,531 ,97,68,84,45,7.0,Active,Condo,1964,3611.0,1252.0,0
+350,149 Albion St,San francisco,Ca,94110,2649000,3 ,2.5,1840 ,99,96,100,67,2.0,Active,Condo,2015,3263.0,1440.0,1
+351,2 Mercedes Way,San francisco,Ca,94127,4375000,7 ,8.0,6459 ,92,70,67,67,9.0,Active,Single Family Residential,1931,9726.0,677.0,1
+352,257 Montana St,San francisco,Ca,94112,998888,3 ,1.0,986 ,69,78,44,67,4.0,Active,Single Family Home,1907,3938.0,1013.0,0
+353,250 King St #264,San francisco,Ca,94107,575000,1 ,1.0,595 ,95,90,92,11,6.0,Active,Condo,2004,0.0,966.0,0
+354,99 Rausch St #202,San francisco,Ca,94103,625000,1 ,1.0,1437.0,98,100,99,35,6.0,Active,Condo,2017,0.0,0.0,0
+355,11 Imperial Ave,San francisco,Ca,94123,2249000,3 ,1.5,1437.0,98,80,84,45,6.0,Active,Single Family Residential,1906,2056.0,0.0,1
+356,1429 Sacramento St,San francisco,Ca,94109,3495000,5 ,3.5,3265 ,98,96,63,20,5.0,Active,Single Family Residential,1908,2915.0,1070.0,1
+357,294 Hale St,San francisco,Ca,94134,895000,2 ,1.0,1328 ,86,69,76,56,6.0,Active,Single Family Residential,1907,1875.0,674.0,0
+358,573 Donahue St,San francisco,Ca,94124,850000,2 ,2.0,1380 ,42,51,24,51,2.0,Active,Townhouse,2016,0.0,616.0,0
+359,1118 - 1120 Capitol Ave,San francisco,Ca,94112,1995000,8 ,4.0,3475 ,88,80,63,67,9.0,Active,Multi-Family (2-4 Unit),1907,2813.0,574.0,1
+360,170 Alpine Ter,San francisco,Ca,94117,1895000,3 ,1.0,1483 ,94,85,70,45,8.0,Active,Condo,1905,0.0,1278.0,1
+361,2480 Fulton St #4,San francisco,Ca,94118,769000,1 ,1.0,738 ,88,73,70,45,9.0,Active,Condo,1925,3438.0,1042.0,0
+362,338 Spear St Unit 39E,San francisco,Ca,94105,2625000,3 ,2.0,1582 ,95,100,73,11,6.0,Active,Condo,2009,0.0,1659.0,1
+363,332 South Hill Blvd,San francisco,Ca,94112,1188000,3 ,2.0,1269 ,46,59,18,67,3.0,Active,Single Family Residential,1962,0.0,936.0,1
+364,566 Athens St,San francisco,Ca,94112,730000,2 ,1.0,1104 ,81,73,50,56,4.0,Active,Single Family Home,1916,2500.0,661.0,0
+365,760 Dolores St,San francisco,Ca,94110,4200000,4 ,4.0,1437.0,97,88,64,67,7.0,Active,Single Family Residential,1900,2622.0,0.0,1
+366,601 Van Ness Ave #141,San francisco,Ca,94102,549000,1 ,1.5,889 ,99,100,99,45,5.0,Active,Condo,1982,0.0,618.0,0
+367,15 Lucerne St Unit B,San francisco,Ca,94103,1295000,2 ,2.5,1875 ,94,93,99,35,6.0,Active,Condo,1997,0.0,691.0,1
+368,731 23rd Ave,San francisco,Ca,94121,2995000,4 ,4.5,2711 ,84,70,79,45,8.0,Active,Single Family Residential,1922,2996.0,1105.0,1
+369,4185 Cesar Chavez St,San francisco,Ca,94131,1785000,2 ,1.5,1395 ,93,71,62,67,7.0,Active,Single Family Residential,1900,2056.0,1280.0,1
+370,462 Victoria St,San francisco,Ca,94132,1050000,3 ,1.0,1214 ,74,73,43,67,8.0,Active,Single Family Residential,1945,2500.0,865.0,1
+371,1671 34th Ave,San francisco,Ca,94122,4289000,5 ,3.0,2616 ,80,58,74,67,9.0,Active,Single Family Residential,1940,3000.0,1640.0,1
+372,125 Majestic Ave,San francisco,Ca,94112,700000,2 ,1.0,1000 ,68,86,38,67,4.0,Active,Single Family Residential,1926,2495.0,700.0,0
+373,2275 45th Ave,San francisco,Ca,94116,1995000,3 ,2.5,2415 ,69,57,70,67,9.0,Active,Single Family Residential,1931,2996.0,826.0,1
+374,534 Dorado Ter,San francisco,Ca,94112,975000,2 ,2.5,1332 ,90,75,70,67,9.0,Active,Condo,1985,0.0,732.0,0
+375,1722 Larkin St,San francisco,Ca,94109,1600000,3 ,2.0,1950 ,99,87,70,20,5.0,Active,Condo,1905,3499.0,821.0,1
+376,1422 Cabrillo St,San francisco,Ca,94118,1795000,3 ,2.0,2257 ,84,71,89,45,8.0,Active,Condo,1921,2950.0,795.0,1
+377,2576 - 2578 Folsom St,San francisco,Ca,94110,1795000,19 ,7.5,3725 ,98,85,100,56,5.0,Active,Multi-Family (2-4 Unit),1890,3369.0,482.0,1
+378,1587 15th St #403,San francisco,Ca,94103,509950,2 ,1.0,724 ,99,97,100,56,5.0,Active,Condo,2007,8670.0,704.0,0
+379,3410 Jackson St,San francisco,Ca,94118,23500000,5 ,5.5,7140 ,89,69,67,45,9.0,Active,Single Family Residential,1923,4788.0,3291.0,1
+380,259 Clara St #202,San francisco,Ca,94107,1195000,2 ,2.0,1240 ,97,100,95,55,6.0,Active,Condo,2017,0.0,964.0,1
+381,650 11th Ave,San francisco,Ca,94118,2350000,5 ,4.0,2613 ,91,71,97,55,9.0,Active,Single Family Residential,1922,3000.0,899.0,1
+382,3949 21St St,San francisco,Ca,94114,1695000,1 ,2.0,695 ,94,76,64,67,7.0,Active,Single Family Residential,1918,1873.0,2439.0,1
+383,586 Paris St,San francisco,Ca,94112,750000,3 ,3.0,2150 ,94,83,45,56,5.0,Active,Single Family Home,1913,2500.0,349.0,0
+384,1 Steuart St #409,San francisco,Ca,94105,1700000,1 ,1.0,880 ,99,100,83,11,9.0,Active,Condo,2021,0.0,1932.0,1
+385,4 Newell St Unit A,San francisco,Ca,94133,1396000,1 ,1.5,1171 ,99,81,74,20,7.0,Active,Condo,1918,2326.0,1192.0,1
+386,4 Newell St,San francisco,Ca,94133,1815000,3 ,2.5,1523 ,99,81,74,20,7.0,Active,Condo,1918,2326.0,1192.0,1
+387,370 Wawona St,San francisco,Ca,94127,1849000,3 ,2.0,1437.0,95,74,69,55,8.0,Active,Single Family Residential,1924,4081.0,0.0,1
+388,1342 Fell St,San francisco,Ca,95132,4195000,4 ,4.0,3780 ,97,80,91,45,9.0,Active,Single Family Residential,2023,3436.0,1110.0,1
+389,1320 Vallejo St,San francisco,Ca,94109,730000,2 ,1.0,835 ,99,83,67,20,9.0,Active,Condo,1908,2360.0,874.0,0
+390,750 Great Hwy #1,San francisco,Ca,94121,1598000,3 ,2.0,1295 ,77,61,93,45,9.0,Active,Condo,1990,3564.0,1234.0,1
+391,110 Merced Ave,San francisco,Ca,94127,2295000,8 ,6.0,4978 ,79,74,61,90,8.0,Active,Single Family Residential,1923,6013.0,461.0,1
+392,197 Lower Ter,San francisco,Ca,94114,2395000,3 ,2.0,1575 ,87,75,65,45,8.0,Active,Single Family Residential,1924,2199.0,1521.0,1
+393,425 1st St #4706,San francisco,Ca,94105,1998000,2 ,2.0,1238 ,89,100,61,11,6.0,Active,Condo,2008,0.0,1614.0,1
+394,506 Banks St,San francisco,Ca,94110,2250000,3 ,2.0,1701 ,92,74,65,56,3.0,Active,Single Family Residential,1925,1751.0,1323.0,1
+395,473 Andover St,San francisco,Ca,94110,3500000,4 ,2.0,1600 ,94,76,66,56,3.0,Active,Single Family Residential,1928,3497.0,2188.0,1
+396,246 2nd St #1304,San francisco,Ca,94105,790000,1 ,1.0,644 ,96,100,77,11,6.0,Active,Condo,2000,0.0,1227.0,0
+397,643 Masonic Ave,San francisco,Ca,94117,1395000,2 ,1.5,1544 ,96,73,88,45,9.0,Active,Condo,1917,0.0,903.0,1
+398,645 Masonic Ave,San francisco,Ca,94117,1345000,2 ,1.5,1447 ,97,73,96,45,9.0,Active,Condo,1917,0.0,930.0,1
+399,150 Lombard St #201,San francisco,Ca,94111,1168000,2 ,2.0,1172 ,90,79,64,35,7.0,Active,Condo,1975,0.0,997.0,1
+400,5150 Diamond Heights Blvd Unit 201B,San francisco,Ca,94131,899950,2 ,1.0,990 ,80,60,61,67,6.0,Active,Condo,1972,0.0,909.0,0
+401,139 Quintara St,San francisco,Ca,94116,1388000,3 ,1.5,1495 ,56,73,40,67,8.0,Active,Single Family Residential,1956,2495.0,928.0,1
+402,1298 48th Ave,San francisco,Ca,94122,1295000,4 ,2.0,2442 ,81,55,87,79,8.0,Active,Single Family Residential,1905,2688.0,530.0,1
+403,15-17 Holloway Ave,San francisco,Ca,94112,1098000,4 ,2.0,1920 ,89,86,62,0,7.0,Active,Other Residential,1908,3750.0,572.0,1
+404,375 Fair Oaks St,San francisco,Ca,94110,1350000,3 ,1.0,1437.0,98,83,75,67,7.0,Active,Condo,1908,3123.0,0.0,1
+405,377 Fair Oaks St,San francisco,Ca,94110,1250000,2 ,1.0,1437.0,98,83,75,67,7.0,Active,Condo,1908,3123.0,0.0,1
+406,301 Yale St,San francisco,Ca,94134,1399900,3 ,3.5,1764 ,56,65,42,56,5.0,Active,Condo,2021,0.0,794.0,1
+407,145 Cortland Ave,San francisco,Ca,94110,1298000,3 ,2.0,1274 ,96,77,73,56,3.0,Active,Single Family Residential,1978,2308.0,1019.0,1
+408,1370 17th Ave,San francisco,Ca,94122,800000,1 ,1.0,1437.0,96,68,60,67,8.0,Active,Co-op,1947,3440.0,0.0,0
+409,2174 43rd Ave,San francisco,Ca,94116,1195000,3 ,1.0,1194 ,69,57,65,67,9.0,Active,Single Family Residential,1944,2996.0,1001.0,1
+410,510 Oak St,San francisco,Ca,94102,1295000,2 ,1.5,1288 ,98,94,81,45,5.0,Active,Condo,1900,3300.0,1005.0,1
+411,653 28th St,San francisco,Ca,94131,4995000,5 ,5.0,4105 ,84,63,54,67,7.0,Active,Single Family Residential,2021,2905.0,1217.0,1
+412,3727-3729 Judah St,San francisco,Ca,94122,1750000,6 ,4.0,2460 ,89,57,92,79,8.0,Active,Duplex,1919,2495.0,711.0,1
+413,175 Bluxome St #208,San francisco,Ca,94107,799000,2 ,2.0,906 ,92,91,98,55,6.0,Active,Condo,1998,0.0,882.0,0
+414,3425 Quintara St,San francisco,Ca,94116,1095000,3 ,1.0,1214 ,67,57,72,67,9.0,Active,Single Family Residential,1945,2495.0,902.0,1
+415,1476 36th Ave,San francisco,Ca,94122,1595000,3 ,1.5,2116 ,76,58,77,67,9.0,Active,Single Family Residential,1933,2748.0,754.0,1
+416,2298 Pacific Ave Unit 1 N,San francisco,Ca,94115,1595000,2 ,2.5,1527 ,98,74,87,70,5.0,Active,Co-op,1926,3720.0,1045.0,1
+417,1251 Rhode Island St,San francisco,Ca,94107,1095000,2 ,1.0,1046 ,88,70,74,56,6.0,Active,Condo,1911,2500.0,1047.0,1
+418,455 Vallejo St Unit C,San francisco,Ca,94133,998000,1 ,1.0,825 ,100,93,62,20,9.0,Active,Condo,1973,0.0,1210.0,0
+419,1301 Fulton St #206,San francisco,Ca,94117,649000,1 ,1.0,610 ,97,79,97,45,9.0,Active,Condo,1987,0.0,1064.0,0
+420,1624 Larkin St #8,San francisco,Ca,94109,1549000,3 ,2.0,1290 ,99,90,70,20,5.0,Active,Condo,1984,4678.0,1201.0,1
+421,1254 36th Ave,San francisco,Ca,94122,2280000,4 ,3.0,2008 ,70,56,86,67,9.0,Active,Single Family Residential,1921,3598.0,1135.0,1
+422,4184 20th St,San francisco,Ca,94114,1649000,3 ,3.0,1948 ,98,81,63,67,7.0,Active,Condo,1910,1375.0,847.0,1
+423,188 Minna St Unit 33E,San francisco,Ca,94105,5500000,3 ,3.5,2670 ,98,100,85,11,6.0,Active,Condo,2005,0.0,2060.0,1
+424,2274 - 2278 Lombard St,San francisco,Ca,94123,1628000,4 ,2.5,2540 ,99,68,85,45,6.0,Active,Multi-Family (2-4 Unit),1916,2750.0,641.0,1
+425,55 Elsie St,San francisco,Ca,94110,1649000,4 ,2.0,1472 ,93,83,68,56,3.0,Active,Single Family Residential,1900,1746.0,1120.0,1
+426,999 Green St #2902,San francisco,Ca,94133,3750000,3 ,3.0,1437.0,96,82,64,20,9.0,Active,Condo,1964,0.0,0.0,1
+427,3036 Fulton St #3,San francisco,Ca,94118,895000,2 ,1.0,3260 ,87,73,76,55,9.0,Active,Condo,1900,2879.0,275.0,0
+428,3036 Fulton St #2,San francisco,Ca,94118,950000,2 ,2.0,3260 ,87,73,76,55,9.0,Active,Condo,1900,2879.0,291.0,0
+429,75 Folsom St #1502,San francisco,Ca,94105,3775000,2 ,2.0,2635 ,95,100,73,11,6.0,Active,Condo,1991,0.0,1433.0,1
+430,1534 Irving St #101,San francisco,Ca,94122,818000,2 ,1.0,750 ,97,68,74,67,8.0,Active,Condo,1994,0.0,1091.0,0
+431,111 Diamond Cove Ter,San francisco,Ca,94134,1038000,3 ,3.5,1724 ,42,65,40,62,2.0,Active,Townhouse,2010,7776.0,602.0,1
+432,518 Duncan St,San francisco,Ca,94131,2750000,3 ,2.5,3534 ,90,73,63,67,7.0,Active,Townhouse,2001,3666.0,778.0,1
+433,1006 Noe St #1,San francisco,Ca,94114,699000,1 ,1.0,651 ,95,73,66,67,7.0,Active,Condo,1905,2481.0,1074.0,0
+434,20 Parsons St,San francisco,Ca,94118,1395000,3 ,1.5,1344 ,89,73,69,45,9.0,Active,Condo,1908,2375.0,1038.0,1
+435,14 Ina Ct,San francisco,Ca,94112,1498000,3 ,2.0,1745 ,58,69,44,56,5.0,Active,Single Family Residential,1950,2504.0,858.0,1
+436,3039 19th Ave,San francisco,Ca,94132,1899000,3 ,3.0,2868 ,93,70,72,55,6.0,Active,Single Family Home,1939,6246.0,662.0,1
+437,280 Spear St Unit 31D,San francisco,Ca,94105,1685000,2 ,2.0,1055 ,95,100,73,11,6.0,Active,Condo,2022,0.0,1597.0,1
+438,2519 Mcallister St,San francisco,Ca,94118,2275000,4 ,3.0,1977 ,85,72,73,45,9.0,Active,Single Family Residential,1900,2352.0,1151.0,1
+439,170 King St #211,San francisco,Ca,94107,960000,2 ,2.0,900 ,92,89,91,11,6.0,Active,Condo,2007,0.0,1067.0,0
+440,301 Mission St Unit 20H,San francisco,Ca,94105,658000,1 ,1.0,666 ,99,100,82,11,6.0,Active,Condo,2009,0.0,988.0,0
+441,1940 Buchanan St,San francisco,Ca,94115,1395000,3 ,1.0,1480 ,99,80,78,45,6.0,Active,Condo,1904,1851.0,943.0,1
+442,1201 Sutter St #203,San francisco,Ca,94109,499000,1 ,1.0,1437.0,99,85,82,20,5.0,Active,Condo,2021,8245.0,0.0,0
+443,2096 California St,San francisco,Ca,94109,839000,1 ,1.0,944 ,95,83,67,45,6.0,Active,Condo,1947,2766.0,889.0,0
+444,383 Haight St,San francisco,Ca,94102,665000,2 ,1.0,670 ,99,97,85,45,5.0,Active,Condo,1900,2375.0,993.0,0
+445,832 Rhode Island St,San francisco,Ca,94107,1795000,2 ,2.5,1437.0,91,73,64,56,6.0,Active,Condo,2022,2500.0,0.0,1
+446,246 Athens St,San francisco,Ca,94112,739500,1 ,2.0,1022 ,76,73,46,56,5.0,Active,Single Family Residential,1912,2495.0,724.0,0
+447,201 Bonview St,San francisco,Ca,94110,1995000,4 ,4.0,2587 ,95,77,67,56,3.0,Active,Multi-Family (2-4 Unit),1900,1794.0,771.0,1
+448,2168 Bush St,San francisco,Ca,94115,1198000,2 ,1.5,1068 ,99,78,78,45,6.0,Active,Condo,1885,2312.0,1122.0,1
+449,1153 Alabama St,San francisco,Ca,94110,819000,2 ,1.0,1036 ,98,82,100,56,4.0,Active,Condo,1900,3946.0,791.0,0
+450,988 Fulton St #316,San francisco,Ca,94117,595000,1 ,1.0,417 ,97,84,75,45,5.0,Active,Condo,1999,0.0,1427.0,0
+451,219 Brannan St Unit 1D,San francisco,Ca,94107-4031,799000,1 ,1.5,844 ,89,100,81,11,6.0,Active,Condo,2000,0.0,947.0,0
+452,718 Long Bridge St #1303,San francisco,Ca,94158,2798000,3 ,3.0,1958 ,87,81,93,11,6.0,Active,Condo,2016,0.0,1429.0,1
+453,850 Powell St #104,San francisco,Ca,94108,2600000,4 ,4.0,2454 ,100,100,59,20,9.0,Active,Condo,1923,0.0,1059.0,1
+454,435 China Basin St #205,San francisco,Ca,94158,1299000,2 ,2.0,1185 ,86,76,93,11,6.0,Active,Condo,2012,0.0,1096.0,1
+455,93 Mirabel Ave,San francisco,Ca,94110,1049000,2 ,2.0,1025 ,98,84,73,56,3.0,Active,Single Family Residential,1900,5000.0,1023.0,1
+456,334 Holladay Ave,San francisco,Ca,94110,1597000,3 ,2.0,1437 ,89,73,75,56,3.0,Active,Single Family Residential,1917,1750.0,1111.0,1
+457,1000 3rd St #615,San francisco,Ca,94158,1050000,1 ,2.0,961 ,90,78,91,11,6.0,Active,Condo,2018,0.0,1093.0,1
+458,77 Van Ness Ave #605,San francisco,Ca,94102,995000,1 ,1.0,946 ,100,100,99,55,5.0,Active,Condo,2009,0.0,1052.0,0
+459,201 Sansome St #804,San francisco,Ca,94104,1475000,2 ,2.5,1541 ,100,100,87,61,9.0,Active,Condo,1909,5876.0,957.0,1
+460,152 Summit Way,San francisco,Ca,94132,1325000,3 ,2.5,1839 ,83,71,40,55,6.0,Active,Condo,2015,981.0,721.0,1
+461,950 Corbett Ave #1,San francisco,Ca,94131,1695000,3 ,2.0,1801 ,65,60,66,67,9.0,Active,Condo,2007,3101.0,941.0,1
+462,815 Tennessee St #208,San francisco,Ca,94107,925000,1 ,1.0,763 ,95,69,95,56,6.0,Active,Condo,2018,0.0,1212.0,0
+463,15 Rico Way #2,San francisco,Ca,94123,999888,1 ,1.0,840 ,90,66,91,45,6.0,Active,Condo,1929,0.0,1190.0,0
+464,873 44th Ave,San francisco,Ca,94121,1479000,3 ,2.0,1437.0,76,64,78,45,9.0,Active,Single Family Residential,1940,3000.0,0.0,1
+465,1822 9th Ave,San francisco,Ca,94122,1600000,4 ,2.0,1653 ,60,70,45,67,9.0,Active,Single Family Residential,1939,3000.0,968.0,1
+466,372 Douglass St,San francisco,Ca,94114,2695000,4 ,4.0,2045 ,93,76,67,67,7.0,Active,Single Family Residential,1913,2622.0,1318.0,1
+467,634-636 Taraval St,San francisco,Ca,94116,1888888,3 ,2.5,1758 ,95,71,61,67,8.0,Active,Duplex,1922,2400.0,1074.0,1
+468,1097 Green St #9,San francisco,Ca,94133,1170000,1 ,1.0,998 ,97,82,65,20,9.0,Active,Condo,1910,9911.0,1172.0,1
+469,74 Bernard St,San francisco,Ca,94133,1049000,2 ,1.0,913 ,97,88,63,20,9.0,Active,Condo,1915,1291.0,1149.0,1
+470,601 Van Ness Ave #601,San francisco,Ca,94102,599000,1 ,1.0,749 ,99,100,99,45,5.0,Active,Condo,1982,0.0,800.0,0
+471,30 - A Heather Ave,San francisco,Ca,94118,899000,2 ,1.0,918 ,96,69,75,45,8.0,Active,Condo,1949,3637.0,979.0,0
+472,317 29th St #207,San francisco,Ca,94131,979000,1 ,1.0,860 ,95,78,86,67,5.0,Active,Condo,1999,0.0,1138.0,0
+473,2552 24th Ave,San francisco,Ca,94116,1988000,3 ,3.0,1970 ,91,67,61,67,8.0,Active,Single Family Residential,1925,3197.0,1009.0,1
+474,6509 Geary Blvd #204,San francisco,Ca,94121,825000,2 ,1.0,763 ,92,68,54,45,8.0,Active,Condo,1981,5100.0,1081.0,0
+475,2405 Washington St,San francisco,Ca,94115,5950000,5 ,3.5,3878 ,99,80,68,45,6.0,Active,Single Family Residential,1900,3223.0,1534.0,1
+476,451 Bayview Cir,San francisco,Ca,94124,955000,3 ,2.5,1601 ,82,72,56,56,2.0,Active,Single Family Residential,1985,1755.0,597.0,0
+477,3054-3056 Octavia St,San francisco,Ca,94123,3288000,6 ,4.0,3403 ,98,79,82,45,6.0,Active,Fourplex,1912,2500.0,966.0,1
+478,1922 Laguna St,San francisco,Ca,94115,1436000,3 ,2.0,1456 ,95,83,67,45,6.0,Active,Condo,1890,0.0,986.0,1
+479,1324 - 1326 Balboa St,San francisco,Ca,94118,1998888,4 ,2.0,2300 ,93,71,90,45,8.0,Active,Multi-Family (2-4 Unit),1920,2800.0,869.0,1
+480,93 Clearfield Dr,San francisco,Ca,94132,1950000,4 ,3.0,1700 ,79,53,85,90,6.0,Active,Single Family Home,1951,3183.0,1147.0,1
+481,200 Townsend St #6,San francisco,Ca,94107,1200000,1 ,2.0,1321 ,94,91,92,55,6.0,Active,Condo,2003,0.0,908.0,1
+482,1 Hawthorne St Unit 7D,San francisco,Ca,94105,825000,1 ,1.0,850 ,97,100,74,11,6.0,Active,Condo,2010,0.0,971.0,0
+483,2331 31st Ave,San francisco,Ca,94116,1195000,2 ,1.0,1437.0,86,58,60,67,8.0,Active,Single Family Residential,1926,4080.0,0.0,1
+484,2454 26th Ave,San francisco,Ca,94116,1398000,3 ,1.5,1090 ,93,64,55,67,8.0,Active,Single Family Residential,1924,2996.0,1283.0,1
+485,28 Sussex St,San francisco,Ca,94131,2000000,3 ,2.5,1677 ,83,81,70,67,5.0,Active,Single Family Residential,1977,2500.0,1193.0,1
+486,1266 15th Ave,San francisco,Ca,94122,1690000,4 ,2.0,2432 ,98,69,76,67,8.0,Active,Single Family Home,1923,3188.0,695.0,1
+487,2546 3rd St #5,San francisco,Ca,94107,1550000,3 ,2.5,1585 ,93,66,95,56,6.0,Active,Condo,2002,4159.0,978.0,1
+488,403 Main St Unit 803N,San francisco,Ca,94105,1349000,3 ,2.0,1360 ,89,100,82,11,6.0,Active,Condo,1997,0.0,992.0,1
+489,2830 Pacific Ave,San francisco,Ca,94115,35000000,6 ,7.0,9625 ,91,73,59,45,4.0,Active,Single Family Residential,1910,9408.0,3636.0,1
+490,121 Junipero Serra Blvd,San francisco,Ca,94127,5490000,5 ,4.0,5142 ,92,70,71,67,9.0,Active,Single Family Home,1924,10797.0,1068.0,1
+491,4354 - 4356 20th St,San francisco,Ca,94114,1388000,4 ,4.0,3064 ,96,77,66,67,7.0,Active,Multi-Family (2-4 Unit),1925,1999.0,453.0,1
+492,613 York St,San francisco,Ca,94110,2499000,4 ,3.0,3186 ,98,80,92,56,5.0,Active,Multi-Family (2-4 Unit),1900,2500.0,784.0,1
+493,34 Topaz Way,San francisco,Ca,94131,1588000,3 ,2.5,1437.0,73,72,55,67,6.0,Active,Townhouse,1968,1759.0,0.0,1
+494,66 Bishop St,San francisco,Ca,94134,799000,1 ,1.0,480 ,63,68,39,56,2.0,Active,Single Family Residential,1922,2500.0,1665.0,0
+495,516 Arch St,San francisco,Ca,94132,1250000,3 ,1.5,1425 ,72,67,50,67,9.0,Active,Single Family Residential,1931,2500.0,877.0,1
+496,262 3rd Ave Unit A,San francisco,Ca,94118,825000,2 ,1.0,797 ,99,70,88,45,8.0,Active,Condo,1903,3003.0,1035.0,0
+497,137 Steiner St,San francisco,Ca,94117,1698000,7 ,5.5,2887 ,98,94,96,67,8.0,Active,Duplex,1900,2278.0,588.0,1
+498,27 Morrell St,San francisco,Ca,94109,799000,2 ,1.0,1437.0,99,84,67,20,9.0,Active,Condo,1923,1337.0,0.0,0
+499,273 Filbert St,San francisco,Ca,94133,1995000,5 ,4.0,3150 ,99,88,64,0,7.0,Active,Multi-Family (5+ Unit),1912,1498.0,633.0,1
+500,4606 Cabrillo St,San francisco,Ca,94121,2150000,7 ,2.0,3520 ,79,62,89,45,9.0,Active,Multi-Family (2-4 Unit),1973,2395.0,611.0,1
+501,10 Innes Ct #304,San francisco,Ca,94124,719000,2 ,2.0,1020 ,37,50,23,51,2.0,Active,Condo,2018,0.0,705.0,0
+502,451 Kansas St #416,San francisco,Ca,94107,420516,1 ,1.0,693 ,97,74,72,56,6.0,Active,Condo,2007,0.0,607.0,0
+503,1383 Revere Ave,San francisco,Ca,94124,1133333,2 ,2.0,1648 ,85,67,63,51,2.0,Active,Single Family Residential,1910,2495.0,688.0,1
+504,1347 Hayes St,San francisco,Ca,94117,1195000,5 ,3.0,2027 ,98,81,89,45,9.0,Active,Condo,1885,3436.0,590.0,1
+505,673 Andover St,San francisco,Ca,94110,999000,3 ,1.0,1200 ,91,76,65,56,3.0,Active,Single Family Residential,1906,1850.0,833.0,0
+506,3212 Jackson St,San francisco,Ca,94118,9800000,7 ,7.0,6101 ,91,71,69,45,9.0,Active,Single Family Residential,1906,3831.0,1606.0,1
+507,400 Beale St #2103,San francisco,Ca,94105,1495000,2 ,2.0,1074 ,92,100,60,11,6.0,Active,Condo,2001,0.0,1392.0,1
+508,950 Tennessee St #310,San francisco,Ca,94107,1595000,2 ,2.0,1224 ,95,69,93,56,6.0,Active,Condo,2020,0.0,1303.0,1
+509,2737 Bush St,San francisco,Ca,94115,1295000,2 ,2.0,1123 ,98,72,83,70,4.0,Active,Condo,1910,5156.0,1153.0,1
+510,580 Hayes St #504,San francisco,Ca,94102,1095000,1 ,1.0,1437.0,99,98,89,45,5.0,Active,Condo,2018,0.0,0.0,1
+511,201 Folsom St Unit 42AB,San francisco,Ca,94105,4995000,2 ,2.5,2476 ,96,100,67,11,6.0,Active,Condo,2016,0.0,2017.0,1
+512,2900 Scott St,San francisco,Ca,94123,9500000,7 ,6.0,6670 ,97,72,63,45,4.0,Active,Single Family Residential,1909,5191.0,1424.0,1
+513,246 2nd St #1701,San francisco,Ca,94105,3499000,3 ,3.0,2905 ,96,100,77,11,6.0,Active,Condo,2000,0.0,1204.0,1
+514,776 Tehama St #12,San francisco,Ca,94103,495000,1 ,1.0,1437.0,99,100,99,35,6.0,Active,Condo,2006,5886.0,0.0,0
+515,2241 Leavenworth St,San francisco,Ca,94133,2075000,3 ,2.0,1640 ,96,83,69,20,9.0,Active,Condo,1907,2680.0,1265.0,1
+516,1598 Bay St #400,San francisco,Ca,94123,2349000,3 ,2.5,1382 ,97,74,94,45,6.0,Active,Condo,2018,0.0,1700.0,1
+517,1300 22nd St #304,San francisco,Ca,94107,395945,1 ,1.0,672 ,93,70,71,56,6.0,Active,Condo,2016,0.0,589.0,0
+518,31 Aladdin Ter,San francisco,Ca,94133,5850000,4 ,4.5,3665 ,99,82,65,20,9.0,Active,Single Family Residential,2023,0.0,1596.0,1
+519,2942 22nd St,San francisco,Ca,94110,799000,2 ,1.0,1437.0,97,85,100,56,5.0,Active,Condo,1909,2273.0,0.0,0
+520,15 Buena Vista Ter,San francisco,Ca,94117,7950000,5 ,4.5,7138 ,94,85,70,45,8.0,Active,Single Family Residential,1917,5000.0,1114.0,1
+521,1788 Clay St #805,San francisco,Ca,94109,825000,1 ,1.0,671 ,99,86,85,20,5.0,Active,Condo,2014,0.0,1230.0,0
+522,1230 Girard St,San francisco,Ca,94134,999000,5 ,2.0,1435 ,68,69,52,56,2.0,Active,Single Family Residential,1928,2996.0,696.0,0
+523,1400 Mission St,San francisco,Ca,94103,559000,2 ,1.5,780 ,99,100,99,35,6.0,Active,Multi-Family (2-4 Unit),2015,0.0,717.0,0
+524,630 - 632 Funston Ave,San francisco,Ca,94118,1950000,5 ,1.0,3688 ,89,71,97,55,9.0,Active,Multi-Family (2-4 Unit),1910,3000.0,529.0,1
+525,1871 Green St,San francisco,Ca,94123,7575000,4 ,5.5,3508 ,99,82,58,45,6.0,Active,Single Family Residential,1885,3457.0,2159.0,1
+526,2146 47th Ave,San francisco,Ca,94116,1198000,3 ,3.0,1481 ,64,56,75,67,9.0,Active,Single Family Residential,1938,3000.0,809.0,1
+527,974 Geneva Ave #2,San francisco,Ca,94112,995000,4 ,4.0,1505 ,94,85,56,67,3.0,Active,Condo,2020,2500.0,661.0,0
+528,875 Indiana St #424,San francisco,Ca,94107,899500,1 ,1.5,852 ,94,70,89,56,6.0,Active,Condo,2009,0.0,1056.0,0
+529,849 Noe St #5,San francisco,Ca,94114,895000,1 ,1.0,1437.0,94,81,60,67,7.0,Active,Condo,1960,2250.0,0.0,0
+530,482 Ellington Ave,San francisco,Ca,94112,936888,2 ,1.0,1060 ,87,81,50,67,5.0,Active,Single Family Home,1913,2495.0,884.0,0
+531,2110 - A Pine St,San francisco,Ca,94115,799000,1 ,1.0,811 ,99,80,78,45,6.0,Active,Condo,1900,2461.0,985.0,0
+532,1630 - 1634 Bush St,San francisco,Ca,94109,3650000,7 ,5.5,6741 ,99,84,82,0,6.0,Active,Multi-Family (5+ Unit),1900,2996.0,541.0,1
+533,385 Eureka St,San francisco,Ca,94114,1875000,3 ,2.0,1329 ,91,74,66,67,7.0,Active,Single Family Residential,1922,1600.0,1411.0,1
+534,2230 Francisco St #102,San francisco,Ca,94123,1299000,2 ,1.0,1068 ,98,66,94,45,4.0,Active,Condo,1930,6880.0,1216.0,1
+535,2121 Mason St,San francisco,Ca,94133,1952000,3 ,2.5,1638 ,99,81,74,20,7.0,Active,Condo,1918,2326.0,1192.0,1
+536,400 Avila St #301,San francisco,Ca,94123,1249000,2 ,1.0,830 ,92,65,91,45,6.0,Active,Condo,1991,0.0,1505.0,1
+537,1688 Pine St Unit E302,San francisco,Ca,94109,1145000,2 ,2.0,989 ,99,85,79,45,6.0,Active,Condo,2016,0.0,1158.0,1
+538,2121 Mason St Unit A,San francisco,Ca,94133,1450000,1 ,1.5,1171 ,99,81,74,20,7.0,Active,Condo,1918,2326.0,1238.0,1
+539,3629 - 3631 Jackson St,San francisco,Ca,94118,6495000,3 ,2.5,2830 ,92,66,73,45,9.0,Active,Multi-Family (2-4 Unit),1913,3214.0,2295.0,1
+540,45 Ney St,San francisco,Ca,94112,998000,3 ,2.0,1250 ,90,82,69,67,5.0,Active,Single Family Residential,1918,2495.0,798.0,0
+541,550 Davis St #44,San francisco,Ca,94111,1950000,3 ,2.0,1520 ,98,100,85,35,9.0,Active,Condo,1981,0.0,1283.0,1
+542,690 Chestnut St #109,San francisco,Ca,94133,799000,1 ,1.0,684 ,99,81,87,20,7.0,Active,Condo,1995,0.0,1168.0,0
+543,855 Folsom St #525,San francisco,Ca,94107,999000,1 ,2.0,1349 ,97,100,90,55,6.0,Active,Condo,2001,0.0,741.0,0
+544,502 Wisconsin St,San francisco,Ca,94107,969000,2 ,2.0,1050 ,95,72,60,56,6.0,Active,Condo,1978,0.0,923.0,0
+545,1338 - 1340 17th Ave,San francisco,Ca,94122,1698000,4 ,2.0,2500 ,96,68,60,67,8.0,Active,Multi-Family (2-4 Unit),1946,2996.0,679.0,1
+546,280 Spear St Unit 21D,San francisco,Ca,94105,1530000,2 ,2.0,1046 ,95,100,73,11,6.0,Active,Condo,2022,0.0,1463.0,1
+547,1 Daniel Burnham Ct #217,San francisco,Ca,94109,695000,1 ,1.0,732 ,99,94,81,45,6.0,Active,Condo,1988,0.0,949.0,0
+548,1 Hawthorne St Unit 15B,San francisco,Ca,94105,630000,1 ,1.0,558 ,97,100,74,11,6.0,Active,Condo,2010,0.0,1129.0,0
+549,100 Brentwood Ave,San francisco,Ca,94127,3200000,4 ,4.0,3624 ,63,62,46,67,6.0,Active,Single Family Home,1929,4046.0,883.0,1
+550,601 Van Ness Ave #328,San francisco,Ca,94102,399000,1 ,1.0,470 ,99,100,99,45,5.0,Active,Condo,1982,0.0,849.0,0
+551,1322 Lyon St,San francisco,Ca,94115,1300000,3 ,1.0,1676 ,95,74,68,70,4.0,Active,Condo,1900,3072.0,776.0,1
+552,262 Mangels Ave,San francisco,Ca,94131-1111,995000,3 ,2.0,1107 ,78,78,59,67,7.0,Active,Single Family Residential,1956,2809.0,899.0,0
+553,201 - 205 Coleridge St,San francisco,Ca,94110,1895000,6 ,3.0,3870 ,95,76,72,56,3.0,Active,Multi-Family (2-4 Unit),1911,1750.0,490.0,1
+554,633 29th Ave,San francisco,Ca,94121,1295000,3 ,2.0,1600 ,89,68,62,45,8.0,Active,Condo,1961,2996.0,809.0,1
+555,631 29th Ave,San francisco,Ca,94121,1280000,3 ,2.0,1600 ,89,68,62,45,8.0,Active,Condo,1961,2996.0,800.0,1
+556,4397 24th St,San francisco,Ca,94114,1250000,2 ,2.0,1196 ,87,60,67,67,7.0,Active,Condo,1913,7150.0,1045.0,1
+557,533 Oak St,San francisco,Ca,94102,899000,3 ,1.0,1282 ,98,94,81,45,5.0,Active,Condo,1900,2178.0,701.0,0
+558,65 Norfolk St #2,San francisco,Ca,94103,1150000,2 ,2.0,1741 ,98,99,99,35,6.0,Active,Condo,1993,2505.0,661.0,1
+559,250 King St #812,San francisco,Ca,94107,735000,1 ,1.0,888 ,95,90,92,11,6.0,Active,Condo,2004,0.0,828.0,0
+560,2046 Filbert St,San francisco,Ca,94123,5485000,3 ,4.0,3543 ,99,74,66,45,6.0,Active,Single Family Residential,1928,1821.0,1548.0,1
+561,1158 Sutter St #8,San francisco,Ca,94109,849000,2 ,2.0,810 ,99,97,86,20,5.0,Active,Condo,2008,6000.0,1048.0,0
+562,1163 - 1169 Alabama St Unit 1169A,San francisco,Ca,94110,749000,2 ,1.0,1039 ,98,82,100,56,4.0,Active,Condo,1900,3946.0,721.0,0
+563,1693 Messina Dr,San jose,Ca,95132,1598000,4 ,2.0,1383 ,26,36,44,78,7.0,Active,Single Family Home,1971,6315.0,1155.0,1
+564,50 N 9th St,San jose,Ca,95112,888888,3 ,2.0,1250 ,92,68,94,78,4.0,Coming Soon,Multi-Family (2-4 Unit),1898,3973.0,711.0,0
+565,4935 Flat Rock Cir,San jose,Ca,95136,695000,2 ,1.5,988 ,32,47,57,67,5.0,Active,Townhouse,1984,2709.0,703.0,0
+566,4049 Rio Ct,San jose,Ca,95134,750000,2 ,2.0,850 ,39,51,77,98,6.0,Active,Condo,1993,0.0,882.0,0
+567,588 Saratoga Ave,Santa clara,Ca,95050,1499000,3 ,2.0,1694 ,63,41,82,83,5.0,Active,Single Family Home,1947,7200.0,885.0,1
+568,1144 Ardsley Ct,San jose,Ca,95120,2680000,5 ,3.25,3697 ,53,32,65,84,8.0,Coming Soon,Single Family Residential,1990,10302.0,725.0,1
+569,1887 Bethany Ave,San jose,Ca,95132,900000,3 ,2.0,1320 ,44,51,47,78,8.0,Active,Single Family Home,1973,6780.0,682.0,0
+570,1088 Yarwood Ct,San jose,Ca,95128,525000,2 ,2.0,922 ,49,43,55,65,6.0,Active,Condo,1988,0.0,569.0,0
+571,862 Tulane Ct,Mountain view,Ca,94040,2690000,3 ,2.5,1962 ,64,34,90,71,9.0,Active,Single Family Home,1952,5683.0,1371.0,1
+572,10087 Lamplighter Sq,Cupertino,Ca,95014,1698000,3 ,2.5,1727 ,19,19,34,89,9.0,Active,Townhouse,1975,1684.0,983.0,1
+573,1718 Holin St,San jose,Ca,95131,1545000,4 ,3.0,2009 ,56,58,76,91,8.0,New,Single Family Residential,1989,2640.0,769.0,1
+574,22079 San Fernando Ct,Cupertino,Ca,95014,2490000,4 ,2.0,2054 ,38,20,52,80,9.0,Active,Single Family Home,1953,0.0,1212.0,1
+575,3171 Loma Verde Pl,Palo alto,Ca,94303,2500000,4 ,3.0,2166 ,64,26,97,78,8.0,Active,Triplex,1961,6613.0,1154.0,1
+576,20231 Blauer Dr,Saratoga,Ca,95070,3989000,4 ,3.0,2311 ,56,0,69,61,9.0,Active,Single Family Home,1955,0.0,1726.0,1
+577,20018 Heritage Oak,Saratoga,Ca,95070,5989000,5 ,3.5,3773 ,38,0,50,47,9.0,Active,Single Family Home,1995,0.0,1587.0,1
+578,1488 Kimberly Ct,San jose,Ca,95118,1750000,4 ,3.0,1713 ,38,27,56,82,7.0,Active,Single Family Home,1961,0.0,1022.0,1
+579,1225 Vienna Dr #85,Sunnyvale,Ca,94089,170000,3 ,2.0,1700 ,45,45,77,0,6.0,Active,Double-Wide Mobile Home,2001,0.0,100.0,0
+580,259 Sumba Ct,San jose,Ca,95123,699000,3 ,2.0,1246 ,65,44,54,67,5.0,Active,Condo,1986,1250.0,561.0,0
+581,559 Menker Ave,San jose,Ca,95128,995990,2 ,1.0,855 ,73,50,65,61,5.0,New,Single Family Residential,1950,6350.0,1165.0,0
+582,14225 Lora Dr #70,Los gatos,Ca,95032,599000,2 ,1.0,996 ,37,0,29,51,9.0,Active,Condo,1963,0.0,601.0,0
+583,2382 Stratford Dr,San jose,Ca,95124,1200000,4 ,2.0,1552 ,65,35,70,82,7.0,Active,Single Family Home,1959,7414.0,773.0,1
+584,18310 Shadowbrook Way,Morgan hill,Ca,95037,1400000,4 ,2.5,2176 ,24,32,43,50,4.0,Active,Duplex,1977,8452.0,643.0,1
+585,247 N Capitol Ave #170,San jose,Ca,95127,550000,2 ,2.0,955 ,43,55,56,63,5.0,Active,Condo,1977,0.0,576.0,0
+586,1225 Vienna Dr #674,Sunnyvale,Ca,94089,175000,2 ,2.0,1440 ,54,47,72,0,6.0,Active,Double-Wide Mobile Home,1975,0.0,122.0,0
+587,555 Byron St #201,Palo alto,Ca,94301,1685000,3 ,2.5,1844 ,89,50,90,78,8.0,Active,Condo,1997,0.0,914.0,1
+588,10536 S Tantau Ave,Cupertino,Ca,95014,1868000,2 ,1.0,814 ,57,43,74,84,9.0,Active,Single Family Home,1953,5281.0,2295.0,1
+589,2091 Flintcrest Dr,San jose,Ca,95148,888888,4 ,2.5,1774 ,17,28,57,78,5.0,Active,Single Family Home,1981,6043.0,501.0,0
+590,216 Mountain Springs Dr #216,San jose,Ca,95136,348888,3 ,2.0,1728 ,20,30,45,0,5.0,Active,Triple-Wide Mobile Home,1980,0.0,202.0,0
+591,897 Coe Ave,San jose,Ca,95125,1499000,2 ,2.0,1176 ,83,48,86,91,5.0,Active,Single Family Home,1929,4500.0,1275.0,1
+592,614 Coyote Rd,San jose,Ca,95111,699000,3 ,1.0,907 ,29,42,55,78,4.0,Active,Single Family Home,1958,5363.0,771.0,0
+593,1022 Helen Ave,Santa clara,Ca,95051,939900,3 ,2.5,1218 ,82,42,66,76,6.0,Active,Townhouse,1981,959.0,772.0,0
+594,1404 Via Del Los Grande,San jose,Ca,95120,1899888,4 ,2.0,1800 ,16,24,17,94,8.0,Active,Single Family Home,1973,0.0,1055.0,1
+595,20312 Pinntage Pkwy,Cupertino,Ca,95014,1228000,2 ,2.5,1497 ,78,48,76,84,9.0,Active,Townhouse,1984,933.0,820.0,1
+596,2580 Senter Rd #413,San jose,Ca,95111,219900,2 ,2.0,880 ,59,41,74,0,5.0,Active,Double-Wide Mobile Home,1978,0.0,250.0,0
+597,2579 Flory Dr,San jose,Ca,95121,999000,4 ,2.0,1542 ,40,44,46,78,5.0,Active,Single Family Residential,1979,6508.0,648.0,0
+598,2035 Veronica Pl,San jose,Ca,95124,1875000,4 ,3.0,2164 ,76,38,70,79,7.0,Active,Single Family Home,1959,9271.0,866.0,1
+599,148 Menard Dr,San jose,Ca,95138,1399000,4 ,2.5,1693 ,16,27,60,67,6.0,Active,Single Family Home,1992,4660.0,826.0,1
+600,353 Market St,Los gatos,Ca,95032,1980000,3 ,2.5,2026 ,49,0,76,51,6.0,Active,Single Family Home,2017,3125.0,977.0,1
+601,1460 Cherry Cir,Milpitas,Ca,95035,729000,1 ,1.5,910 ,48,65,62,84,7.0,Active,Townhouse,2018,342.0,801.0,0
+602,240 Garden Hill Dr,Los gatos,Ca,95032,1989000,3 ,2.0,1150 ,39,0,74,80,9.0,Active,Single Family Home,1959,9537.0,1730.0,1
+603,1624 Poppy Way,Cupertino,Ca,95014,2698000,4 ,2.5,2169 ,69,20,69,89,9.0,Active,Single Family Home,1964,6127.0,1244.0,1
+604,204 Pine Wood Ln,Los gatos,Ca,95032,1375000,3 ,2.5,1454 ,43,0,50,51,9.0,Active,Townhouse,1972,1637.0,946.0,1
+605,8205 Wren Ave,Gilroy,Ca,95020,2666000,10 ,6.5,5281 ,81,0,78,0,5.0,Active,5+ Units,1971,10093.0,505.0,1
+606,1078 W Knickerbocker Dr,Sunnyvale,Ca,94087,1798000,3 ,1.0,1041 ,39,36,76,85,9.0,Active,Single Family Home,1953,5914.0,1727.0,1
+607,17446 Serene Dr,Morgan hill,Ca,95037,2495000,4 ,3.5,3408 ,23,25,45,50,5.0,Active,Single Family Home,1992,0.0,732.0,1
+608,420 San Eduardo Ter,Sunnyvale,Ca,94085,1399988,3 ,3.5,1691 ,72,39,81,80,5.0,Active,Townhouse,2011,1027.0,828.0,1
+609,1905 Byron St,Palo alto,Ca,94301,8080000,5 ,4.0,3297 ,50,28,93,86,7.0,Active,Single Family Home,2023,7322.0,2451.0,1
+610,100 Maria Teresa Ct,Los gatos,Ca,95032,2698000,4 ,3.0,2325 ,48,0,53,54,9.0,Active,Single Family Home,1980,10168.0,1160.0,1
+611,192 Lawton Dr,Milpitas,Ca,95035,1895000,6 ,3.0,2484 ,70,25,65,78,5.0,Active,Single Family Home,1959,6300.0,763.0,1
+612,2887 Kearney Ave,Santa clara,Ca,95051,1100000,3 ,1.5,1034 ,45,35,66,86,5.0,Active,Single Family Home,1958,5777.0,1064.0,1
+613,5403 Colony Park Cir,San jose,Ca,95123,1150000,3 ,2.0,1260 ,13,0,60,67,5.0,Active,Townhouse,1984,1136.0,913.0,1
+614,600 E Weddell Dr #249,Sunnyvale,Ca,94089,320000,3 ,2.0,1562 ,39,45,71,0,4.0,Active,Double-Wide Mobile Home,1996,0.0,205.0,0
+615,423 Dayton Ave,Santa clara,Ca,95051,1788000,3 ,1.5,1025 ,56,36,64,92,9.0,Active,Single Family Home,1958,10335.0,1744.0,1
+616,191 El Bosque #191,San jose,Ca,95134,245000,3 ,2.0,1344 ,34,55,82,0,6.0,Active,Double-Wide Mobile Home,1971,0.0,182.0,0
+617,1233 Avenida Benito,San jose,Ca,95131,1048000,2 ,2.5,1481 ,61,45,73,64,5.0,Active,Townhouse,2006,0.0,708.0,1
+618,132 Chateau La Salle Dr #132,San jose,Ca,95111,579900,3 ,2.0,1830 ,60,44,57,0,5.0,Active,Double-Wide Mobile Home,2022,0.0,317.0,0
+619,2210 Central Park Dr,Campbell,Ca,95008,2099950,4 ,2.5,2400 ,76,43,78,69,8.0,Active,Single Family Home,1965,9240.0,875.0,1
+620,852 Tamarack Ave,San jose,Ca,95128,1299000,3 ,2.0,1784 ,67,44,74,61,5.0,Active,Single Family Home,1950,6164.0,728.0,1
+621,5630 Allen Ave Apt 3,San jose,Ca,95123,575000,2 ,1.0,903 ,74,38,78,69,4.0,Active,Condo,1970,0.0,637.0,0
+622,196 S Cragmont Ave,San jose,Ca,95127,929900,3 ,3.0,1143 ,22,0,34,63,1.0,Active,Single Family Home,1938,7047.0,814.0,0
+623,544 Fort Laramie Dr,Sunnyvale,Ca,94087,2998000,5 ,3.0,2561 ,48,35,77,81,6.0,Active,Single Family Home,1965,0.0,1171.0,1
+624,1758 Bel Air Ave,San jose,Ca,95126,1679000,3 ,2.0,1792 ,65,43,71,61,5.0,Active,Single Family Home,1948,7564.0,937.0,1
+625,5486 Mary Jo Ct,San jose,Ca,95124,2485000,3 ,2.0,1801 ,46,25,54,82,7.0,Active,Single Family Home,1959,10882.0,1380.0,1
+626,5802 Cohasset Way,San jose,Ca,95123,1585000,5 ,2.5,2487 ,65,48,60,89,3.0,Active,Single Family Home,1966,5138.0,637.0,1
+627,2030 Cove Ct,San jose,Ca,95148,1299000,4 ,2.5,2078 ,26,38,59,78,3.0,Active,Single Family Home,1975,6588.0,625.0,1
+628,1250 Elkwood Dr,Milpitas,Ca,95035,1249999,4 ,2.5,1867 ,47,37,61,85,8.0,Active,Single Family Home,1991,3221.0,670.0,1
+629,1520 E Capitol Expy #19,San jose,Ca,95121,188888,3 ,2.0,1200 ,33,39,59,0,5.0,Active,Double-Wide Mobile Home,1971,0.0,157.0,0
+630,3583 Lupine Ave,Palo alto,Ca,94303,2550000,3 ,2.0,1412 ,48,27,93,91,8.0,Active,Single Family Home,1956,8486.0,1806.0,1
+631,2798 Sand Point Ct,San jose,Ca,95148,1100000,3 ,2.0,1472 ,57,52,57,78,6.0,Active,Single Family Home,1970,6840.0,747.0,1
+632,3391 Thomas Dr,Palo alto,Ca,94303,3400000,4 ,2.0,2032 ,31,24,82,91,8.0,Active,Single Family Home,1958,6825.0,1673.0,1
+633,305 Destino Cir,San jose,Ca,95133,975000,3 ,2.5,1663 ,67,50,51,78,3.0,Active,Townhouse,2006,1280.0,586.0,0
+634,365 N Third St #2,Campbell,Ca,95008,688800,2 ,1.0,903 ,85,47,87,72,4.0,Active,Condo,1971,0.0,763.0,0
+635,160 Kellogg Ave,Palo alto,Ca,94301,4995000,4 ,3.0,2697 ,73,43,100,86,7.0,Active,Single Family Home,1992,7500.0,1852.0,1
+636,38 N Almaden Blvd #1313,San jose,Ca,95110,749888,1 ,1.0,975 ,88,72,90,61,4.0,New,Condo,2008,164.0,769.0,0
+637,2085 Lynnhaven Dr,San jose,Ca,95128,1400000,4 ,1.0,1659 ,69,46,71,78,4.0,Active,Duplex,1954,7070.0,844.0,1
+638,401 Ann Darling Dr,San jose,Ca,95133,999000,3 ,2.0,1081 ,71,48,54,78,3.0,Active,Single Family Home,1957,6619.0,924.0,0
+639,275 S 20th St,San jose,Ca,95116,799000,2 ,1.0,856 ,82,52,83,78,3.0,Active,Single Family Home,1901,4826.0,933.0,0
+640,241 Horizon Ave,Mountain view,Ca,94043,1248000,2 ,1.5,1274 ,91,53,98,74,6.0,Active,Townhouse,1973,0.0,980.0,1
+641,1526 Parkmont Dr,San jose,Ca,95131,1650000,3 ,2.5,1509 ,76,43,62,78,5.0,Active,Single Family Home,1993,4016.0,1093.0,1
+642,451 Alberto Way #247,Los gatos,Ca,95032,699000,2 ,2.0,1136 ,51,0,51,76,9.0,Active,Condo,1978,0.0,615.0,0
+643,578 Vista Ave,Palo alto,Ca,94306,749000,1 ,1.0,562 ,83,41,93,90,8.0,Active,Condo,1978,570.0,1333.0,0
+644,1250 Petersen Ct,Los altos,Ca,94024,3398000,4 ,2.5,2252 ,29,22,69,85,9.0,Active,Single Family Home,1969,0.0,1509.0,1
+645,16010 Stephenie Ln,Los gatos,Ca,95032,2998000,4 ,3.5,2845 ,40,0,60,54,9.0,Active,Single Family Home,2009,0.0,1054.0,1
+646,1166 Emerson Ave,Campbell,Ca,95008,1199000,3 ,1.0,1072 ,49,34,76,92,7.0,Active,Single Family Home,1955,8468.0,1118.0,1
+647,370 Ronan Ave,Gilroy,Ca,95020,770000,3 ,2.0,1269 ,48,0,72,48,5.0,Active,Single Family Home,1979,4700.0,607.0,0
+648,1160 Lily Ave,Sunnyvale,Ca,94086,1698000,3 ,2.0,1148 ,50,32,69,76,7.0,Active,Single Family Home,1955,5406.0,1479.0,1
+649,2076 Kent Dr,Los altos,Ca,94024,3798000,4 ,2.0,1858 ,22,21,31,91,9.0,Active,Single Family Home,1962,0.0,2044.0,1
+650,17530 Montoya Cir,Morgan hill,Ca,95037,1299000,4 ,3.0,2560 ,43,33,52,50,5.0,Active,Single Family Home,1990,4432.0,507.0,1
+651,1377 Pritchett Ct,Los altos,Ca,94024,3998000,6 ,3.5,2917 ,21,23,65,89,9.0,Active,Single Family Home,1971,9844.0,1371.0,1
+652,4177 Barrymore Dr,San jose,Ca,95117,1400000,4 ,2.5,2114 ,69,40,75,78,5.0,Active,Single Family Home,1954,10244.0,662.0,1
+653,2121 Main St,Santa clara,Ca,95050,1228000,3 ,2.5,1622 ,61,38,64,74,3.0,Active,Triplex,1962,7020.0,757.0,1
+654,314 Vista Roma Way,San jose,Ca,95136,1098000,3 ,2.5,1674 ,72,47,59,60,5.0,Active,Townhouse,2005,801.0,656.0,1
+655,1690 Edgewood Dr,Palo alto,Ca,94303,4995000,5 ,3.0,2995 ,48,33,73,63,8.0,Active,Single Family Home,2014,10309.0,1668.0,1
+656,494 Nerdy Ave,San jose,Ca,95111,925000,3 ,2.0,1113 ,60,50,70,78,2.0,Active,Single Family Home,1958,5014.0,831.0,0
+657,15132 Esther Dr,San jose,Ca,95124,3498000,5 ,4.0,3012 ,36,35,44,93,9.0,Active,Single Family Home,2023,9450.0,1161.0,1
+658,536 Hawthorn Ave,Sunnyvale,Ca,94086,1998000,3 ,2.0,1360 ,68,45,90,76,5.0,Active,Single Family Home,1967,0.0,1469.0,1
+659,772 & 776 S 2nd St,San jose,Ca,95112,2550000,6 ,5.0,4998 ,88,58,92,0,3.0,Active,5+ Units,1898,10018.0,510.0,1
+660,1220 Tasman Dr #571,Sunnyvale,Ca,94089,329800,3 ,2.0,1543 ,52,52,84,0,6.0,Active,Double-Wide Mobile Home,2000,0.0,214.0,0
+661,1967 Cabana Dr,San jose,Ca,95125,2715000,3 ,3.0,1985 ,37,40,50,65,5.0,Active,Single Family Home,1953,10125.0,1368.0,1
+662,16805 San Dimas Ln,Morgan hill,Ca,95037,1200000,3 ,2.5,2187 ,49,25,58,50,5.0,Active,Single Family Home,2014,4054.0,549.0,1
+663,600 S Abel St #404,Milpitas,Ca,95035,849999,2 ,2.0,1259 ,82,47,77,90,7.0,Active,Condo,2007,0.0,675.0,0
+664,1424 Millich Ct,San jose,Ca,95117,949995,2 ,1.5,1220 ,43,38,71,60,6.0,Active,Townhouse,1972,1282.0,779.0,0
+665,73 3rd St #17,Los altos,Ca,94022,1450000,2 ,1.5,1072 ,89,27,97,74,9.0,Active,Condo,1974,0.0,1353.0,1
+666,763 Cereza Dr,Palo alto,Ca,94306,2995000,3 ,2.5,1627 ,69,41,92,90,8.0,Active,Single Family Home,1956,8675.0,1841.0,1
+667,1102 Carolyn Ave,San jose,Ca,95125,2995000,3 ,2.5,3033 ,85,45,77,65,5.0,Active,Single Family Home,1941,8235.0,987.0,1
+668,1331 El Moro Dr,Campbell,Ca,95008,2545000,4 ,3.0,2350 ,65,41,58,92,8.0,Active,Single Family Home,1955,9811.0,1083.0,1
+669,1181 Virginia Ave,Campbell,Ca,95008,3488000,4 ,3.0,2650 ,32,27,68,72,6.0,Active,Single Family Home,2007,10539.0,1316.0,1
+670,843 Trenton Dr,Sunnyvale,Ca,94087,2698000,4 ,2.0,1819 ,58,30,88,85,9.0,Active,Single Family Home,1960,9523.0,1483.0,1
+671,4388 Felter Rd,Milpitas,Ca,95035,2399000,4 ,2.5,3027 ,0,0,4,79,5.0,Active,Single Family Home,1976,0.0,793.0,1
+672,675 Manzanita Ave,Sunnyvale,Ca,94085,1400000,3 ,1.5,1092 ,73,41,81,81,3.0,Active,Single Family Home,1953,5043.0,1282.0,1
+673,553 Waite Ave,Sunnyvale,Ca,94085,1372000,3 ,2.0,1393 ,83,42,80,81,3.0,Active,Single Family Home,1949,6425.0,985.0,1
+674,27421 Sherlock Rd,Los altos hills,Ca,94022,6495000,4 ,3.0,3800 ,7,0,11,76,9.0,Active,Single Family Home,1988,0.0,1709.0,1
+675,965 Cheswick Dr,San jose,Ca,95121,998888,4 ,2.0,1594 ,26,41,54,86,5.0,Active,Single Family Home,1978,6831.0,627.0,0
+676,1561 Shaw Dr,San jose,Ca,95118,1498888,4 ,2.5,1654 ,46,26,53,82,7.0,Active,Single Family Home,1961,7004.0,906.0,1
+677,320 Cherokee Loop,Mountain view,Ca,94043,1880000,3 ,3.5,1893 ,67,33,96,84,6.0,Active,Townhouse,2018,1384.0,993.0,1
+678,1519 Amesbury Way,San jose,Ca,95127,849950,3 ,2.0,1134 ,53,41,51,78,3.0,Active,Single Family Home,1958,5153.0,750.0,0
+679,1795 Foxworthy Ave,San jose,Ca,95124,1795000,6 ,2.5,2303 ,75,32,66,85,7.0,Active,Single Family Home,1956,10471.0,779.0,1
+680,1156 W Iowa Ave,Sunnyvale,Ca,94086,2088000,4 ,2.0,1258 ,78,42,82,81,4.0,Active,Single Family Home,1958,5700.0,1660.0,1
+681,1275 Edsel Dr,Milpitas,Ca,95035,1098000,4 ,2.0,1549 ,76,29,71,78,2.0,Active,Single Family Home,1966,6853.0,709.0,1
+682,3303 Kifer Rd Unit 103A,Santa clara,Ca,95051,1668888,4 ,3.5,1940 ,33,38,59,72,5.0,Active,Condo,2021,0.0,860.0,1
+683,4136 Camden Ave,San jose,Ca,95124,1349995,3 ,2.0,1750 ,62,22,56,85,8.0,Active,Single Family Home,1957,7035.0,771.0,1
+684,914 Celia Dr,Palo alto,Ca,94303,3298000,4 ,2.0,2053 ,52,24,92,78,8.0,Active,Single Family Home,1954,6291.0,1606.0,1
+685,3069 Middlefield Rd #102,Palo alto,Ca,94306,948000,1 ,1.0,870 ,73,26,100,78,8.0,Active,Condo,1986,0.0,1090.0,0
+686,3722 Carlson Cir,Palo alto,Ca,94306,3288000,4 ,3.0,2254 ,54,39,95,63,8.0,Active,Single Family Home,1952,6280.0,1459.0,1
+687,4225 Ross Ave,San jose,Ca,95124,1798888,5 ,3.0,1877 ,74,23,53,85,8.0,Active,Single Family Home,1963,6109.0,958.0,1
+688,920 Chelan Dr,Sunnyvale,Ca,94087,2488000,3 ,2.0,1637 ,42,29,58,81,9.0,Active,Single Family Home,1955,7930.0,1520.0,1
+689,2585 El Camino Real #409,Santa clara,Ca,95051,1228000,3 ,2.0,1390 ,77,46,74,74,6.0,Active,Condo,2015,0.0,883.0,1
+690,1832 Wintersong Ct,San jose,Ca,95131,1680000,5 ,3.0,2533 ,57,54,69,91,8.0,Active,Single Family Home,1975,9889.0,663.0,1
+691,1923 Willow St,San jose,Ca,95125,1969000,4 ,2.5,2009 ,55,46,76,65,5.0,Active,Single Family Home,1952,9960.0,980.0,1
+692,807 Cedar Ave,Sunnyvale,Ca,94086,1395000,3 ,1.5,1030 ,57,43,80,80,5.0,Active,Single Family Home,1944,4960.0,1354.0,1
+693,20127 Mendelsohn Ln,Saratoga,Ca,95070,4388888,4 ,3.5,2861 ,41,0,28,47,9.0,Active,Single Family Home,1975,0.0,1534.0,1
+694,14297 Buckner Dr,San jose,Ca,95127,1288800,3 ,2.0,1440 ,9,0,49,63,1.0,Active,Single Family Home,1953,0.0,895.0,1
+695,22991 Longdown Rd,Cupertino,Ca,95014,1399888,3 ,2.0,1234 ,10,17,23,89,9.0,Active,Townhouse,1974,2621.0,1134.0,1
+696,5158 Sunny Creek Dr,San jose,Ca,95135,2088000,4 ,3.0,2292 ,7,29,52,83,8.0,Active,Single Family Home,1985,7540.0,911.0,1
+697,4733 Jarvis Ave,San jose,Ca,95118,1499950,4 ,3.0,1949 ,68,27,69,90,2.0,Active,Single Family Home,1966,7400.0,770.0,1
+698,1458 Lucena Ct,San jose,Ca,95132,1368888,4 ,2.0,1478 ,35,46,53,79,5.0,Active,Single Family Home,1966,6912.0,926.0,1
+699,15307 McCobb Dr #47,Los gatos,Ca,95032,2198000,3 ,3.5,1974 ,62,0,67,54,9.0,Active,Condo,2022,0.0,1113.0,1
+700,16309 Hamsher Ct #226,Los gatos,Ca,95032,1382000,1 ,1.5,1263 ,2,0,6,54,0.0,Active,Condo,2022,0.0,1094.0,1
+701,1471 Luning Dr,San jose,Ca,95118,1749000,4 ,2.5,1937 ,70,27,60,90,8.0,Active,Single Family Home,1968,6255.0,903.0,1
+702,2245 Old Piedmont Rd,San jose,Ca,95132,1988888,3 ,3.5,2234 ,39,29,41,79,7.0,Active,Single Family Home,1954,0.0,890.0,1
+703,4890 Tony Ave,San jose,Ca,95124,1688000,3 ,2.0,1601 ,29,34,0,82,9.0,Active,Single Family Home,1956,6406.0,1054.0,1
+704,495 Snap Dragon,Milpitas,Ca,95035,1198000,3 ,3.5,1666 ,46,34,63,86,7.0,Active,Townhouse,2018,741.0,719.0,1
+705,206 Sunnyside Ave,Campbell,Ca,95008,1850000,4 ,2.5,1864 ,84,51,78,72,6.0,Active,Single Family Home,1999,4510.0,992.0,1
+706,783 Pescadero Dr,San jose,Ca,95123,1100000,4 ,2.5,1893 ,54,28,67,88,4.0,Active,Single Family Home,1964,6342.0,581.0,1
+707,2165 Booksin Ave,San jose,Ca,95125,3995000,4 ,3.5,3892 ,15,36,56,65,7.0,Active,Single Family Home,2022,10134.0,1026.0,1
+708,1641 Hyacinth Ln,San jose,Ca,95124,2198000,4 ,3.0,1719 ,45,23,43,82,8.0,Active,Single Family Home,2021,5969.0,1279.0,1
+709,702 Lakebird Dr,Sunnyvale,Ca,94089,1378000,3 ,2.0,1468 ,33,44,69,85,4.0,Active,Single Family Home,1957,5912.0,939.0,1
+710,9755 Tapestry Dr,Gilroy,Ca,95020,1210000,5 ,3.0,3020 ,19,0,50,48,4.0,Active,Single Family Home,2004,6248.0,401.0,1
+711,4212 Darlington Ct,Palo alto,Ca,94306,2798000,4 ,2.0,1502 ,64,44,95,83,8.0,Active,Single Family Home,1951,6052.0,1863.0,1
+712,1350 Oakland Rd #187,San jose,Ca,95112,359900,4 ,2.0,1503 ,36,47,56,0,5.0,Active,Double-Wide Mobile Home,2000,0.0,239.0,0
+713,505 Sunnybrook Dr,Campbell,Ca,95008,3498000,5 ,4.5,3176 ,41,44,66,72,6.0,Active,Single Family Home,2022,8315.0,1101.0,1
+714,6068 Sanford Dr,San jose,Ca,95123,1249000,4 ,2.0,1791 ,48,16,29,78,4.0,Active,Single Family Home,1968,6030.0,697.0,1
+715,1476 Portobelo Dr,San jose,Ca,95118,1399999,4 ,2.0,1937 ,70,27,60,90,8.0,Active,Single Family Home,1968,6191.0,723.0,1
+716,4016 Sadie Ct,Campbell,Ca,95008,1698000,4 ,2.5,2387 ,22,30,49,79,8.0,Active,Single Family Home,1971,6953.0,711.0,1
+717,14685 Oka Rd #19,Los gatos,Ca,95032,549900,3 ,2.0,1295 ,35,0,60,0,9.0,Active,Double-Wide Mobile Home,2000,0.0,425.0,0
+718,16384 Peacock Ln,Los gatos,Ca,95032,3398000,4 ,3.0,1801 ,33,0,40,76,9.0,Active,Single Family Home,1949,10683.0,1887.0,1
+719,4372 Laird Cir,Santa clara,Ca,95054,1649000,3 ,3.5,1657 ,50,47,78,72,6.0,Active,Single Family Home,2005,2412.0,995.0,1
+720,182 Poplar Ave,Campbell,Ca,95008,1650000,3 ,1.0,1178 ,83,50,0,72,6.0,Active,Single Family Home,1945,0.0,1401.0,1
+721,1201 Sycamore Ter #122,Sunnyvale,Ca,94086,220000,2 ,1.0,840 ,76,42,65,0,6.0,Active,Double-Wide Mobile Home,1997,0.0,262.0,0
+722,871 Laburnum Dr,Sunnyvale,Ca,94086,2298000,4 ,2.5,2204 ,75,45,84,88,6.0,Active,Single Family Home,1966,6400.0,1043.0,1
+723,6305 Blauer Ln,San jose,Ca,95135,748000,2 ,2.0,1340 ,6,20,33,59,8.0,Active,Condo,1974,0.0,558.0,0
+724,1400 Bowe Ave #1504,Santa clara,Ca,95051,749000,2 ,2.0,1062 ,64,45,58,78,7.0,Active,Condo,1986,1080.0,705.0,0
+725,1233 Lockhaven Way,San jose,Ca,95129,2298000,3 ,2.0,1296 ,37,29,57,92,9.0,Active,Single Family Home,1965,6125.0,1773.0,1
+726,2584 Gimelli Way,San jose,Ca,95133,1228000,3 ,4.0,1564 ,65,47,65,63,4.0,Active,Townhouse,2019,755.0,785.0,1
+727,19616 Ladera Ct,Saratoga,Ca,95070,3148000,4 ,2.5,1999 ,17,0,54,92,9.0,Active,Single Family Home,1965,10624.0,1575.0,1
+728,14830 Blossom Hill Rd,Los gatos,Ca,95032,5300000,5 ,4.5,3992 ,34,0,21,57,9.0,Active,Single Family Home,2008,0.0,1328.0,1
+729,5537 Judith St #2,San jose,Ca,95123,549000,2 ,1.0,903 ,66,45,51,67,5.0,Active,Condo,1970,0.0,608.0,0
+730,5239 Pisa Ct,San jose,Ca,95138,2998000,5 ,4.5,3880 ,2,0,19,62,9.0,Active,Single Family Home,1998,0.0,773.0,1
+731,10940 Prieta Ct,San jose,Ca,95127,1399999,3 ,2.5,2020 ,10,0,4,63,5.0,Active,Single Family Home,1978,0.0,693.0,1
+732,10935 Miramonte Rd,Cupertino,Ca,95014,5480000,5 ,4.5,4942 ,34,0,38,80,9.0,Active,Single Family Home,1999,0.0,1109.0,1
+733,174 Coffeeberry Dr,San jose,Ca,95123,1800000,4 ,3.0,2470 ,67,50,68,72,6.0,Active,Single Family Home,1999,4470.0,729.0,1
+734,1522 Pine Glen Ct,San jose,Ca,95125,995000,3 ,2.5,1260 ,84,39,73,65,5.0,Active,Townhouse,1971,1918.0,790.0,0
+735,8765 Wild Iris Dr,Gilroy,Ca,95020,1649000,5 ,3.5,3488 ,7,0,22,48,4.0,New,Single Family Residential,2007,0.0,473.0,1
+736,13962 Shadow Oaks Way,Saratoga,Ca,95070,3998000,4 ,2.5,2629 ,37,0,49,47,9.0,Active,Single Family Home,1974,0.0,1521.0,1
+737,3302 Kipling St,Palo alto,Ca,94306,5998000,6 ,5.0,3494 ,52,30,92,88,8.0,Active,Single Family Home,2023,7865.0,1717.0,1
+738,3708 Europe Ct,Santa clara,Ca,95051,1398000,2 ,2.5,1803 ,74,41,66,78,8.0,Active,Townhouse,1978,1862.0,775.0,1
+739,1922 Alta Mesa Ct,Morgan hill,Ca,95037,1199000,3 ,2.0,1519 ,27,0,55,50,6.0,Active,Single Family Home,1988,5356.0,789.0,1
+740,16140 Azalea Way,Los gatos,Ca,95032,2698000,3 ,2.0,1697 ,61,0,73,57,9.0,Active,Single Family Home,1955,8090.0,1590.0,1
+741,79 Braxton Ter,Campbell,Ca,95008,1479000,3 ,3.5,1947 ,90,50,83,72,6.0,Active,Townhouse,2016,1245.0,760.0,1
+742,20 Clareview Ave,San jose,Ca,95127,999999,3 ,2.0,1315 ,17,0,34,63,1.0,Active,Single Family Home,1953,8086.0,760.0,0
+743,971 Shadow Brook Dr,San jose,Ca,95120,2150000,4 ,2.5,2240 ,50,18,63,90,8.0,Active,Single Family Home,1969,8015.0,960.0,1
+744,2151 Oakland Rd #38,San jose,Ca,95131,268000,3 ,2.0,1440 ,31,41,51,0,5.0,Active,Double-Wide Mobile Home,1984,0.0,186.0,0
+745,1050 Summermist Ct,San jose,Ca,95122,475000,1 ,1.0,746 ,40,41,56,64,6.0,Active,Condo,1985,851.0,637.0,0
+746,3406 Gradell Pl,San jose,Ca,95148,1200000,3 ,2.0,1164 ,26,20,27,59,5.0,Active,Single Family Home,1984,6833.0,1031.0,1
+747,2661 Senter Creek Ct,San jose,Ca,95111,650000,2 ,2.0,1146 ,69,42,72,62,5.0,Active,Condo,1983,0.0,567.0,0
+748,679 Barcelona Loop,Milpitas,Ca,95035,998000,3 ,3.0,1643 ,52,65,66,84,7.0,Active,Townhouse,2015,621.0,607.0,0
+749,6694 Buggywhip Ct,San jose,Ca,95120,1098000,3 ,2.5,1451 ,65,27,71,73,9.0,Active,Townhouse,1973,1684.0,757.0,1
+750,909 Mangrove Ave,Sunnyvale,Ca,94086,2800000,4 ,3.5,2357 ,72,42,79,76,7.0,Active,Single Family Home,2006,5548.0,1188.0,1
+751,191 E El Camino Real #140,Mountain view,Ca,94040,259000,2 ,2.0,1057 ,78,37,91,0,9.0,Active,Double-Wide Mobile Home,1998,0.0,245.0,0
+752,2655 Glen Loman Way,San jose,Ca,95148,1399000,4 ,2.5,2113 ,58,55,69,87,5.0,Active,Single Family Home,1989,7815.0,662.0,1
+753,Somerset Park Cir,San jose,Ca,95132,469000,1 ,1.0,677 ,34,46,51,79,5.0,Active,Condo,1988,0.0,693.0,0
+754,1050 Bret Knoll Ct,San jose,Ca,95120,1350000,3 ,2.5,1580 ,60,19,57,90,8.0,Active,Single Family Home,1978,4316.0,854.0,1
+755,2512 Amethyst Dr,Santa clara,Ca,95051,2200000,5 ,3.0,1440 ,42,35,62,86,5.0,Active,Single Family Home,2023,5727.0,1528.0,1
+756,3034 Empoli St #4,San jose,Ca,95136,1169500,3 ,2.0,1241 ,21,37,12,60,5.0,Active,Condo,2023,0.0,942.0,1
+757,14225 Lora Dr #99,Los gatos,Ca,95032,499000,1 ,1.0,816 ,37,0,29,51,9.0,Active,Condo,1963,816.0,612.0,0
+758,15 N King Rd,San jose,Ca,95116,1090000,2 ,1.0,864 ,80,54,55,81,3.0,Active,Single Family Home,1938,9734.0,1262.0,1
+759,3405 E Hills Dr,San jose,Ca,95127,1498888,6 ,6.0,2479 ,49,39,49,63,1.0,Active,Single Family Home,2018,7363.0,605.0,1
+760,2958 Feliz Rd #159,Santa clara,Ca,95051,1428000,2 ,2.5,1268 ,49,36,66,72,5.0,Active,Condo,2020,0.0,1126.0,1
+761,3204 Mckee Rd,San jose,Ca,95127,949950,5 ,2.0,1771 ,71,0,60,63,5.0,Active,Duplex,1950,6628.0,536.0,0
+762,532 Tyrella Ave #16,Mountain view,Ca,94043,698000,3 ,1.5,1128 ,62,37,94,74,6.0,Active,Condo,1971,0.0,619.0,0
+763,5288 Cribari Hts,San jose,Ca,95135,619950,2 ,2.0,1223 ,11,28,31,59,8.0,Active,Condo,1971,0.0,507.0,0
+764,108 Colorado Ct,Los gatos,Ca,95032,3795000,4 ,5.0,5542 ,2,0,11,57,7.0,Active,Single Family Home,1982,0.0,685.0,1
+765,2718 Riverrun Dr,San jose,Ca,95127,1099000,4 ,2.5,2000 ,43,55,56,78,5.0,Active,Single Family Home,2000,3300.0,550.0,1
+766,73 Monte Verano Ct,San jose,Ca,95116,565000,3 ,2.0,958 ,72,56,56,63,5.0,Active,Condo,1988,0.0,590.0,0
+767,1109 Pheasant Hill Way,San jose,Ca,95120,2150000,4 ,3.0,2532 ,8,16,4,78,9.0,Active,Townhouse,1998,5952.0,849.0,1
+768,125 Campoli Dr,Morgan hill,Ca,95037,1898888,4 ,3.5,2894 ,23,34,60,66,4.0,Active,Single Family Residential,2023,7709.0,656.0,1
+769,115 Campoli Dr,Morgan hill,Ca,95037,1938888,4 ,3.5,2628 ,23,34,60,66,4.0,Active,Single Family Residential,2023,7561.0,738.0,1
+770,119 Belhaven Dr,Los gatos,Ca,95032,2450000,5 ,3.0,2448 ,44,0,31,54,7.0,Active,Single Family Home,1965,10363.0,1001.0,1
+771,13127 Pfeifle Ave,San jose,Ca,95111,1149000,2 ,1.0,1118 ,51,52,66,0,3.0,Active,Single Family Home,1951,9375.0,1028.0,1
+772,8687 Lomas Azules Pl,San jose,Ca,95135,1199888,2 ,2.5,2043 ,1,0,10,59,8.0,Active,Condo,1991,0.0,587.0,1
+773,443 Alberto Way Unit B219,Los gatos,Ca,95032,579000,1 ,1.0,768 ,55,0,79,76,9.0,Active,Condo,1978,0.0,754.0,0
+774,4217 Rivermark Pkwy,Santa clara,Ca,95054,2860000,4 ,3.5,3073 ,65,42,81,72,6.0,Active,Single Family Home,2003,3506.0,931.0,1
+775,12661 Robleda Rd,Los altos hills,Ca,94022,14500000,6 ,6.5,8610 ,10,0,38,76,9.0,Active,Single Family Residential,2008,0.0,1684.0,1
+776,1127 Carnforth Ct,San jose,Ca,95120,2799000,4 ,2.5,3000 ,17,18,22,78,9.0,Active,Single Family Home,1984,8625.0,933.0,1
+777,719 Manzanita Ave,Sunnyvale,Ca,94085,1750000,3 ,2.0,1289 ,61,42,78,81,3.0,Active,Single Family Home,1954,5077.0,1358.0,1
+778,430 Irving Ave,San jose,Ca,95128,1230000,3 ,2.0,1814 ,86,0,76,61,5.0,Active,Single Family Residential,1915,4000.0,678.0,1
+779,2777 Richland Ave,San jose,Ca,95125,2999950,4 ,3.5,3010 ,58,31,66,82,7.0,Active,Single Family Home,1957,0.0,997.0,1
+780,109 Elm Wood Ct,Los gatos,Ca,95032,1389000,3 ,2.5,1520 ,47,0,56,51,9.0,Active,Townhouse,1971,1800.0,914.0,1
+781,5450 Monterey Hwy Unit 1C,San jose,Ca,95111,280000,3 ,2.0,1100 ,27,40,63,0,3.0,Active,Double-Wide Mobile Home,2001,0.0,255.0,0
+782,15370 Skyview Ter,San jose,Ca,95132,1999999,3 ,2.5,1810 ,6,0,14,79,8.0,Active,Single Family Home,1960,0.0,1105.0,1
+783,1540 Mckinley Ave,San jose,Ca,95126,1395000,3 ,2.0,1518 ,66,48,83,93,5.0,Active,Single Family Home,1978,3168.0,919.0,1
+784,6804 Shadow Mountain Ct,San jose,Ca,95120,2495000,4 ,2.5,2382 ,15,21,8,73,9.0,Active,Single Family Home,1968,9335.0,1047.0,1
+785,1055 N Capitol Ave #164,San jose,Ca,95133,597888,2 ,2.0,832 ,60,47,75,63,6.0,Active,Condo,1981,0.0,719.0,0
+786,147 Nexus Loop,San jose,Ca,95110,910000,2 ,2.5,1370 ,91,69,91,61,4.0,Active,Condo,2019,780.0,664.0,0
+787,1137 Stafford Dr,Cupertino,Ca,95014,3888000,5 ,4.5,2958 ,6,20,37,89,9.0,Active,Single Family Home,1966,7143.0,1314.0,1
+788,1387 Prevost St,San jose,Ca,95125,2598000,4 ,3.0,2339 ,82,52,95,65,5.0,Active,Single Family Home,1940,5380.0,1111.0,1
+789,775 Oak St,Mountain view,Ca,94041,6000000,20 ,16.0,9600 ,93,52,94,0,6.0,Active,5+ Units,1961,0.0,625.0,1
+790,1267 Lafayette St,Santa clara,Ca,95050,1625000,4 ,3.0,2206 ,84,54,87,74,6.0,Active,Single Family Home,1920,6464.0,737.0,1
+791,460 Marcia Dr,Morgan hill,Ca,95037,1100000,4 ,2.0,1948 ,46,32,23,50,4.0,Active,Single Family Home,1977,7703.0,565.0,1
+792,619 Chapman St,San jose,Ca,95126,2200000,4 ,2.5,2538 ,79,50,78,93,5.0,Active,Single Family Home,2004,7653.0,867.0,1
+793,872 Linden Dr,Santa clara,Ca,95050,1325000,4 ,2.0,1550 ,80,43,83,74,6.0,Active,Duplex,1948,9872.0,855.0,1
+794,1757 Hillsdale Ave,San jose,Ca,95124,899999,3 ,1.0,1060 ,81,28,61,85,7.0,Active,Single Family Residential,1954,5097.0,849.0,0
+795,2332 Patricia Dr,Santa clara,Ca,95050,1375000,4 ,2.0,1868 ,75,41,83,74,5.0,Active,Duplex,1956,6843.0,736.0,1
+796,49 S 20Th St,San jose,Ca,95116,1790000,5 ,3.5,2327 ,87,55,85,78,3.0,Active,Single Family Residential,2022,5850.0,769.0,1
+797,5606 Creekview Meadow Ln,San jose,Ca,95135,2999800,5 ,4.0,3423 ,5,17,37,78,9.0,Active,Single Family Residence,1998,0.0,876.0,1
+798,1044 Belvedere Ln,San jose,Ca,95129,2998000,5 ,3.0,2057 ,50,38,65,89,9.0,Active,Single Family Residential,1957,7383.0,1457.0,1
+799,725 Dartmouth Pl,Gilroy,Ca,95020,948999,4 ,2.0,2014 ,51,0,66,48,2.0,Active,Single Family Home,1976,7038.0,471.0,0
+800,1167 Fairfield Ave,Santa clara,Ca,95050,1200000,2 ,1.0,1248 ,85,46,76,74,5.0,Active,Single Family Home,1950,7334.0,962.0,1
+801,2233 Benton St,Santa clara,Ca,95050,1125000,3 ,1.0,1025 ,83,44,81,74,5.0,Active,Single Family Home,1950,5901.0,1098.0,1
+802,58 Saron Ave,San jose,Ca,95116,888000,3 ,1.0,946 ,71,54,65,78,2.0,Active,Single Family Home,1940,6699.0,939.0,0
+803,744 Mendecino Way,Morgan hill,Ca,95037,799000,2 ,1.5,1734 ,12,24,36,68,3.0,Active,Condo,1979,0.0,461.0,0
+804,3001 Ruby Ave,San jose,Ca,95135,1629888,4 ,3.5,2447 ,73,20,57,67,8.0,Active,Townhouse,2013,2420.0,666.0,1
+805,5568 Snowdon Pl,San jose,Ca,95138,2798000,4 ,3.5,3107 ,5,0,5,62,9.0,Active,Single Family Home,1996,8540.0,901.0,1
+806,19964 Portal Plz,Cupertino,Ca,95014,999000,2 ,2.5,1326 ,85,45,77,84,9.0,Active,Condo,1982,0.0,753.0,0
+807,5886 Southview Dr,San jose,Ca,95138,1350000,4 ,2.5,2077 ,10,34,52,67,5.0,Active,Single Family Home,1981,5926.0,650.0,1
+808,456 N Winchester Blvd,Santa clara,Ca,95050,2857000,9 ,7.0,4154 ,70,37,81,0,6.0,Active,5+ Units,1958,7286.0,688.0,1
+809,17231 Crothers Rd,San jose,Ca,95127,1499000,3 ,2.0,2070 ,3,0,4,63,5.0,Active,Single Family Home,1924,0.0,724.0,1
+810,1515 North Milpitas Blvd #117,Milpitas,Ca,95035,379000,3 ,2.0,1188 ,73,39,73,0,8.0,Active,Double-Wide Mobile Home,2001,0.0,319.0,0
+811,912 N California Ave,Palo alto,Ca,94303,9888000,5 ,5.5,4333 ,56,25,89,63,8.0,Active,Single Family Home,2020,0.0,2282.0,1
+812,5776 Halleck Dr,San jose,Ca,95123,1198000,3 ,1.0,1303 ,75,31,80,78,4.0,Active,Single Family Home,1971,6519.0,919.0,1
+813,11721 Putter Way,Los altos,Ca,94024,3198000,4 ,3.5,2715 ,3,0,11,92,9.0,Active,Single Family Home,1948,0.0,1178.0,1
+814,812 Catkin Ct,San jose,Ca,95128,555000,2 ,2.0,922 ,46,43,55,65,6.0,Active,Condo,1988,0.0,602.0,0
+815,968 Delmas Ave,San jose,Ca,95125,2498000,4 ,3.5,2780 ,75,55,95,64,5.0,Active,Single Family Home,1909,6634.0,899.0,1
+816,511 Patricia Ln,Palo alto,Ca,94303,3885000,5 ,2.0,1780 ,48,33,73,63,8.0,Active,Single Family Home,1951,8852.0,2183.0,1
+817,13740 Pierce Rd,Saratoga,Ca,95070,13400000,8 ,10.0,10501 ,4,0,8,61,9.0,Active,Single Family Home,2017,0.0,1276.0,1
+818,24892 Olive Tree Ln,Los altos hills,Ca,94024,12980000,4 ,6.5,5689 ,0,0,8,86,9.0,Active,Single Family Home,1990,0.0,2282.0,1
+819,818 Seale Ave,Palo alto,Ca,94303,5995000,4 ,3.5,3141 ,42,26,88,63,7.0,Active,Single Family Home,1949,9514.0,1909.0,1
+820,319 Ramona St,Palo alto,Ca,94301,3200000,2 ,1.0,1277 ,92,57,100,70,8.0,Active,Single Family Home,1918,5624.0,2506.0,1
+821,1062 Cathcart Way,Stanford,Ca,94305,2650000,3 ,2.5,2880 ,23,0,82,0,8.0,Active,Single Family Home,1970,0.0,920.0,1
+822,12774 Leander Dr,Los altos hills,Ca,94022,6498000,6 ,5.5,4600 ,9,0,22,76,8.0,Active,Single Family Home,2004,0.0,1413.0,1
+823,1720 Halford Ave #221,Santa clara,Ca,95051,650000,2 ,2.0,983 ,83,41,66,86,6.0,Active,Condo,1970,0.0,661.0,0
+824,1443 Kilchoan Ct,San jose,Ca,95122,799999,4 ,2.0,1417 ,23,43,41,64,6.0,Active,Single Family Home,1964,7640.0,565.0,0
+825,11331 Entrada Pl,Los altos,Ca,94024,5995000,5 ,5.5,4819 ,4,0,9,92,9.0,Active,Single Family Home,2007,0.0,1244.0,1
+826,Jardin Way,Gilroy,Ca,95020,989000,4 ,2.5,2212 ,34,0,65,48,5.0,Active,Single Family Home,2011,4275.0,447.0,0
+827,13360 Montebello Rd,Cupertino,Ca,95014,2888000,4 ,3.0,3196 ,5,0,1,90,9.0,Active,Single Family Home,1983,0.0,904.0,1
+828,15001 Briggs Ct,Los gatos,Ca,95032,1871625,2 ,2.5,1626 ,69,0,70,54,9.0,Active,Condo,2021,0.0,1151.0,1
+829,2891 Homestead Rd,Santa clara,Ca,95051,2888888,3 ,1.0,1500 ,75,34,80,78,9.0,Active,Single Family Home,1920,0.0,1926.0,1
+830,2819 Agate Dr,Santa clara,Ca,95051,1249000,3 ,1.0,1144 ,34,34,65,86,5.0,Active,Single Family Home,1954,5763.0,1092.0,1
+831,961 Thornton Way,San jose,Ca,95128,1948000,3 ,1.5,1725 ,56,44,61,65,6.0,Active,Single Family Home,1948,0.0,1129.0,1
+832,1740 E William St,San jose,Ca,95116,925000,4 ,2.0,1464 ,73,50,60,78,4.0,Active,Duplex,1959,5457.0,632.0,0
+833,6062 Pipit Way,Gilroy,Ca,95020,1148888,4 ,2.5,2164 ,4,0,40,48,6.0,Active,Single Family Home,2016,4159.0,531.0,1
+834,123 Mountain Spgs #123,San jose,Ca,95136,289995,3 ,2.0,1440 ,27,43,42,0,5.0,Active,Double-Wide Mobile Home,1976,0.0,201.0,0
+835,11140 Mount Hamilton Rd,San jose,Ca,95140,2350000,1 ,1.0,1200 ,12,0,4,63,5.0,Active,Single Family Home,1984,0.0,1958.0,1
+836,261 Ronan Ave,Gilroy,Ca,95020,888000,4 ,2.5,2140 ,49,0,73,48,5.0,Active,Single Family Home,2000,3299.0,415.0,0
+837,347 El Portal Way,San jose,Ca,95123,1398888,4 ,2.0,1676 ,63,47,59,83,7.0,Active,Single Family Home,1972,5974.0,835.0,1
+838,1156 California Cir,Milpitas,Ca,95035,978000,2 ,2.5,1236 ,46,34,63,86,7.0,Active,Townhouse,2018,1524.0,791.0,0
+839,334 Hawthorne Ave,Palo alto,Ca,94301,3350000,3 ,2.5,1657 ,87,56,100,70,8.0,Active,Single Family Home,2006,1112.0,2022.0,1
+840,6370 Snowberry Ct,Gilroy,Ca,95020,1199000,6 ,3.0,3247 ,8,0,46,48,6.0,Active,Single Family Home,1997,8679.0,369.0,1
+841,227 Ada Ave Unit M,Mountain view,Ca,94043,1448800,3 ,2.5,1460 ,64,47,88,74,6.0,Active,Townhouse,1982,3120.0,992.0,1
+842,9160 E Paseo Tranquillo,Gilroy,Ca,95020,1988000,4 ,3.5,2858 ,2,0,1,48,6.0,Active,Single Family Home,2011,0.0,696.0,1
+843,1570 Walters Ave,Campbell,Ca,95008,2850000,5 ,4.0,3046 ,39,27,63,72,9.0,Active,Single Family Home,2001,9000.0,936.0,1
+844,Undisclosed Address,Gilroy,Ca,95020,1070000,4 ,2.5,1856 ,3,0,44,48,6.0,Active,Single Family Residential,2023,5351.0,577.0,1
+845,1268 Sierra Mar Dr,San jose,Ca,95118,1639990,5 ,3.0,2300 ,66,28,70,82,7.0,Active,Single Family Residential,1956,5841.0,713.0,1
+846,761 Promenade Ln,San jose,Ca,95138,1799999,4 ,3.0,2535 ,10,18,46,67,6.0,Active,Single Family Home,1997,10858.0,710.0,1
+847,1475 Mckendrie St,San jose,Ca,95126,3000000,6 ,4.0,3105 ,54,44,79,61,5.0,Active,Single Family Home,1925,10376.0,966.0,1
+848,11275 Chula Vista Ave,San jose,Ca,95127,1899000,5 ,2.5,2587 ,0,0,10,63,5.0,Active,Single Family Home,1952,0.0,734.0,1
+849,25285 La Loma Dr,Los altos hills,Ca,94022,4500000,4 ,2.5,3334 ,0,0,11,76,9.0,Active,Single Family Home,1957,0.0,1350.0,1
+850,631 Troon Ct,Milpitas,Ca,95035,2799000,4 ,3.0,2913 ,46,37,65,84,8.0,Active,Single Family Home,1997,7189.0,961.0,1
+851,12169 Dawn Ln,Los altos hills,Ca,94022,5298000,6 ,4.5,3369 ,1,0,29,76,8.0,Active,Single Family Home,1963,0.0,1573.0,1
+852,524 E Maude Ave,Sunnyvale,Ca,94085,15960000,42 ,41.0,23928 ,77,40,80,0,3.0,Active,5+ Units,1958,0.0,667.0,1
+853,356 Santana Row #319,San jose,Ca,95128,2298000,3 ,3.5,2368 ,88,50,80,66,6.0,Active,Condo,2002,0.0,970.0,1
+854,6527 Timberview Ct,San jose,Ca,95120,2488000,4 ,4.0,3034 ,32,26,38,78,9.0,Active,Single Family Home,1983,0.0,820.0,1
+855,3785 La Selva Dr,Palo alto,Ca,94306,2788000,4 ,3.0,1926 ,88,40,94,90,7.0,Active,Single Family Home,1932,5894.0,1448.0,1
+856,317 E Julian St,San jose,Ca,95112,1249000,4 ,3.0,1626 ,85,68,95,50,4.0,Active,Single Family Home,1920,4692.0,768.0,1
+857,1030 Palo Alto Ave,Palo alto,Ca,94301,7988000,4 ,3.5,3800 ,73,40,85,79,8.0,Active,Single Family Home,1928,0.0,2102.0,1
+858,2368 Westgate Ave,San jose,Ca,95125,1298000,3 ,2.0,1519 ,44,36,73,65,7.0,Active,Single Family Home,1949,6882.0,855.0,1
+859,600 Pennsylvania Ave #14,Los gatos,Ca,95030,879000,1 ,1.5,864 ,43,0,26,51,9.0,Active,Condo,1962,0.0,1017.0,0
+860,645 Wilson Ct,Santa clara,Ca,95051,1788000,4 ,2.0,1606 ,68,37,81,80,8.0,Active,Single Family Home,1954,5703.0,1113.0,1
+861,97 Sherland Ave Unit D,Mountain view,Ca,94043,739000,2 ,1.0,905 ,59,40,93,74,9.0,Active,Condo,1972,945.0,817.0,0
+862,2978 Delancey Ct,San jose,Ca,95135,2998800,6 ,4.5,3705 ,26,29,52,92,8.0,Active,Single Family Home,2003,8393.0,809.0,1
+863,11165 Guibal Ave,Gilroy,Ca,95020,3295000,4 ,4.5,4537 ,7,0,25,59,4.0,Active,Single Family Home,2006,0.0,726.0,1
+864,382 Fontanelle Dr,San jose,Ca,95111,1049000,4 ,2.0,1542 ,9,27,43,78,4.0,Active,Single Family Home,1980,6911.0,680.0,1
+865,1882 Johnston Ave,San jose,Ca,95125,3395000,4 ,4.0,2931 ,53,38,58,65,7.0,Active,Single Family Home,1950,6520.0,1158.0,1
+866,809 Auzerais Ave #401,San jose,Ca,95126,900000,2 ,2.0,1274 ,83,60,88,71,3.0,Active,Condo,2008,0.0,706.0,0
+867,47 N Claremont Ave,San jose,Ca,95127,948000,3 ,2.0,1320 ,42,0,44,63,5.0,Active,Single Family Home,1946,6220.0,718.0,0
+868,3300 NARVAEZ Ave #45,San jose,Ca,95136,349000,3 ,2.0,1584 ,50,46,56,0,5.0,Active,Double-Wide Mobile Home,1995,0.0,220.0,0
+869,1693 Messina Dr,San jose,Ca,95132,1598000,4 ,2.0,1383 ,26,36,44,78,7.0,Active,Single Family Home,1971,6315.0,1155.0,1
+870,50 N 9th St,San jose,Ca,95112,888888,3 ,2.0,1250 ,92,68,94,78,4.0,Coming Soon,Multi-Family (2-4 Unit),1898,3973.0,711.0,0
+871,4935 Flat Rock Cir,San jose,Ca,95136,695000,2 ,1.5,988 ,32,47,57,67,5.0,Active,Townhouse,1984,2709.0,703.0,0
+872,4049 Rio Ct,San jose,Ca,95134,750000,2 ,2.0,850 ,39,51,77,98,6.0,Active,Condo,1993,0.0,882.0,0
+873,588 Saratoga Ave,Santa clara,Ca,95050,1499000,3 ,2.0,1694 ,63,41,82,83,5.0,Active,Single Family Home,1947,7200.0,885.0,1
+874,1144 Ardsley Ct,San jose,Ca,95120,2680000,5 ,3.25,3697 ,53,32,65,84,8.0,Coming Soon,Single Family Residential,1990,10302.0,725.0,1
+875,1887 Bethany Ave,San jose,Ca,95132,900000,3 ,2.0,1320 ,44,51,47,78,8.0,Active,Single Family Home,1973,6780.0,682.0,0
+876,1088 Yarwood Ct,San jose,Ca,95128,525000,2 ,2.0,922 ,49,43,55,65,6.0,Active,Condo,1988,0.0,569.0,0
+877,862 Tulane Ct,Mountain view,Ca,94040,2690000,3 ,2.5,1962 ,64,34,90,71,9.0,Active,Single Family Home,1952,5683.0,1371.0,1
+878,10087 Lamplighter Sq,Cupertino,Ca,95014,1698000,3 ,2.5,1727 ,19,19,34,89,9.0,Active,Townhouse,1975,1684.0,983.0,1
+879,1718 Holin St,San jose,Ca,95131,1545000,4 ,3.0,2009 ,56,58,76,91,8.0,New,Single Family Residential,1989,2640.0,769.0,1
+880,22079 San Fernando Ct,Cupertino,Ca,95014,2490000,4 ,2.0,2054 ,38,20,52,80,9.0,Active,Single Family Home,1953,0.0,1212.0,1
+881,3171 Loma Verde Pl,Palo alto,Ca,94303,2500000,4 ,3.0,2166 ,64,26,97,78,8.0,Active,Triplex,1961,6613.0,1154.0,1
+882,20231 Blauer Dr,Saratoga,Ca,95070,3989000,4 ,3.0,2311 ,56,0,69,61,9.0,Active,Single Family Home,1955,0.0,1726.0,1
+883,20018 Heritage Oak,Saratoga,Ca,95070,5989000,5 ,3.5,3773 ,38,0,50,47,9.0,Active,Single Family Home,1995,0.0,1587.0,1
+884,1488 Kimberly Ct,San jose,Ca,95118,1750000,4 ,3.0,1713 ,38,27,56,82,7.0,Active,Single Family Home,1961,0.0,1022.0,1
+885,1225 Vienna Dr #85,Sunnyvale,Ca,94089,170000,3 ,2.0,1700 ,45,45,77,0,6.0,Active,Double-Wide Mobile Home,2001,0.0,100.0,0
+886,259 Sumba Ct,San jose,Ca,95123,699000,3 ,2.0,1246 ,65,44,54,67,5.0,Active,Condo,1986,1250.0,561.0,0
+887,559 Menker Ave,San jose,Ca,95128,995990,2 ,1.0,855 ,73,50,65,61,5.0,New,Single Family Residential,1950,6350.0,1165.0,0
+888,14225 Lora Dr #70,Los gatos,Ca,95032,599000,2 ,1.0,996 ,37,0,29,51,9.0,Active,Condo,1963,0.0,601.0,0
+889,2382 Stratford Dr,San jose,Ca,95124,1200000,4 ,2.0,1552 ,65,35,70,82,7.0,Active,Single Family Home,1959,7414.0,773.0,1
+890,18310 Shadowbrook Way,Morgan hill,Ca,95037,1400000,4 ,2.5,2176 ,24,32,43,50,4.0,Active,Duplex,1977,8452.0,643.0,1
+891,247 N Capitol Ave #170,San jose,Ca,95127,550000,2 ,2.0,955 ,43,55,56,63,5.0,Active,Condo,1977,0.0,576.0,0
+892,1225 Vienna Dr #674,Sunnyvale,Ca,94089,175000,2 ,2.0,1440 ,54,47,72,0,6.0,Active,Double-Wide Mobile Home,1975,0.0,122.0,0
+893,555 Byron St #201,Palo alto,Ca,94301,1685000,3 ,2.5,1844 ,89,50,90,78,8.0,Active,Condo,1997,0.0,914.0,1
+894,10536 S Tantau Ave,Cupertino,Ca,95014,1868000,2 ,1.0,814 ,57,43,74,84,9.0,Active,Single Family Home,1953,5281.0,2295.0,1
+895,2091 Flintcrest Dr,San jose,Ca,95148,888888,4 ,2.5,1774 ,17,28,57,78,5.0,Active,Single Family Home,1981,6043.0,501.0,0
+896,216 Mountain Springs Dr #216,San jose,Ca,95136,348888,3 ,2.0,1728 ,20,30,45,0,5.0,Active,Triple-Wide Mobile Home,1980,0.0,202.0,0
+897,897 Coe Ave,San jose,Ca,95125,1499000,2 ,2.0,1176 ,83,48,86,91,5.0,Active,Single Family Home,1929,4500.0,1275.0,1
+898,614 Coyote Rd,San jose,Ca,95111,699000,3 ,1.0,907 ,29,42,55,78,4.0,Active,Single Family Home,1958,5363.0,771.0,0
+899,1022 Helen Ave,Santa clara,Ca,95051,939900,3 ,2.5,1218 ,82,42,66,76,6.0,Active,Townhouse,1981,959.0,772.0,0
+900,1404 Via Del Los Grande,San jose,Ca,95120,1899888,4 ,2.0,1800 ,16,24,17,94,8.0,Active,Single Family Home,1973,0.0,1055.0,1
+901,20312 Pinntage Pkwy,Cupertino,Ca,95014,1228000,2 ,2.5,1497 ,78,48,76,84,9.0,Active,Townhouse,1984,933.0,820.0,1
+902,2580 Senter Rd #413,San jose,Ca,95111,219900,2 ,2.0,880 ,59,41,74,0,5.0,Active,Double-Wide Mobile Home,1978,0.0,250.0,0
+903,2579 Flory Dr,San jose,Ca,95121,999000,4 ,2.0,1542 ,40,44,46,78,5.0,Active,Single Family Residential,1979,6508.0,648.0,0
+904,2035 Veronica Pl,San jose,Ca,95124,1875000,4 ,3.0,2164 ,76,38,70,79,7.0,Active,Single Family Home,1959,9271.0,866.0,1
+905,148 Menard Dr,San jose,Ca,95138,1399000,4 ,2.5,1693 ,16,27,60,67,6.0,Active,Single Family Home,1992,4660.0,826.0,1
+906,353 Market St,Los gatos,Ca,95032,1980000,3 ,2.5,2026 ,49,0,76,51,6.0,Active,Single Family Home,2017,3125.0,977.0,1
+907,1460 Cherry Cir,Milpitas,Ca,95035,729000,1 ,1.5,910 ,48,65,62,84,7.0,Active,Townhouse,2018,342.0,801.0,0
+908,240 Garden Hill Dr,Los gatos,Ca,95032,1989000,3 ,2.0,1150 ,39,0,74,80,9.0,Active,Single Family Home,1959,9537.0,1730.0,1
+909,1624 Poppy Way,Cupertino,Ca,95014,2698000,4 ,2.5,2169 ,69,20,69,89,9.0,Active,Single Family Home,1964,6127.0,1244.0,1
+910,204 Pine Wood Ln,Los gatos,Ca,95032,1375000,3 ,2.5,1454 ,43,0,50,51,9.0,Active,Townhouse,1972,1637.0,946.0,1
+911,8205 Wren Ave,Gilroy,Ca,95020,2666000,10 ,6.5,5281 ,81,0,78,0,5.0,Active,5+ Units,1971,10093.0,505.0,1
+912,1078 W Knickerbocker Dr,Sunnyvale,Ca,94087,1798000,3 ,1.0,1041 ,39,36,76,85,9.0,Active,Single Family Home,1953,5914.0,1727.0,1
+913,17446 Serene Dr,Morgan hill,Ca,95037,2495000,4 ,3.5,3408 ,23,25,45,50,5.0,Active,Single Family Home,1992,0.0,732.0,1
+914,420 San Eduardo Ter,Sunnyvale,Ca,94085,1399988,3 ,3.5,1691 ,72,39,81,80,5.0,Active,Townhouse,2011,1027.0,828.0,1
+915,1905 Byron St,Palo alto,Ca,94301,8080000,5 ,4.0,3297 ,50,28,93,86,7.0,Active,Single Family Home,2023,7322.0,2451.0,1
+916,100 Maria Teresa Ct,Los gatos,Ca,95032,2698000,4 ,3.0,2325 ,48,0,53,54,9.0,Active,Single Family Home,1980,10168.0,1160.0,1
+917,192 Lawton Dr,Milpitas,Ca,95035,1895000,6 ,3.0,2484 ,70,25,65,78,5.0,Active,Single Family Home,1959,6300.0,763.0,1
+918,2887 Kearney Ave,Santa clara,Ca,95051,1100000,3 ,1.5,1034 ,45,35,66,86,5.0,Active,Single Family Home,1958,5777.0,1064.0,1
+919,5403 Colony Park Cir,San jose,Ca,95123,1150000,3 ,2.0,1260 ,13,0,60,67,5.0,Active,Townhouse,1984,1136.0,913.0,1
+920,600 E Weddell Dr #249,Sunnyvale,Ca,94089,320000,3 ,2.0,1562 ,39,45,71,0,4.0,Active,Double-Wide Mobile Home,1996,0.0,205.0,0
+921,423 Dayton Ave,Santa clara,Ca,95051,1788000,3 ,1.5,1025 ,56,36,64,92,9.0,Active,Single Family Home,1958,10335.0,1744.0,1
+922,191 El Bosque #191,San jose,Ca,95134,245000,3 ,2.0,1344 ,34,55,82,0,6.0,Active,Double-Wide Mobile Home,1971,0.0,182.0,0
+923,1233 Avenida Benito,San jose,Ca,95131,1048000,2 ,2.5,1481 ,61,45,73,64,5.0,Active,Townhouse,2006,0.0,708.0,1
+924,132 Chateau La Salle Dr #132,San jose,Ca,95111,579900,3 ,2.0,1830 ,60,44,57,0,5.0,Active,Double-Wide Mobile Home,2022,0.0,317.0,0
+925,2210 Central Park Dr,Campbell,Ca,95008,2099950,4 ,2.5,2400 ,76,43,78,69,8.0,Active,Single Family Home,1965,9240.0,875.0,1
+926,852 Tamarack Ave,San jose,Ca,95128,1299000,3 ,2.0,1784 ,67,44,74,61,5.0,Active,Single Family Home,1950,6164.0,728.0,1
+927,5630 Allen Ave Apt 3,San jose,Ca,95123,575000,2 ,1.0,903 ,74,38,78,69,4.0,Active,Condo,1970,0.0,637.0,0
+928,196 S Cragmont Ave,San jose,Ca,95127,929900,3 ,3.0,1143 ,22,0,34,63,1.0,Active,Single Family Home,1938,7047.0,814.0,0
+929,544 Fort Laramie Dr,Sunnyvale,Ca,94087,2998000,5 ,3.0,2561 ,48,35,77,81,6.0,Active,Single Family Home,1965,0.0,1171.0,1
+930,1758 Bel Air Ave,San jose,Ca,95126,1679000,3 ,2.0,1792 ,65,43,71,61,5.0,Active,Single Family Home,1948,7564.0,937.0,1
+931,5486 Mary Jo Ct,San jose,Ca,95124,2485000,3 ,2.0,1801 ,46,25,54,82,7.0,Active,Single Family Home,1959,10882.0,1380.0,1
+932,5802 Cohasset Way,San jose,Ca,95123,1585000,5 ,2.5,2487 ,65,48,60,89,3.0,Active,Single Family Home,1966,5138.0,637.0,1
+933,2030 Cove Ct,San jose,Ca,95148,1299000,4 ,2.5,2078 ,26,38,59,78,3.0,Active,Single Family Home,1975,6588.0,625.0,1
+934,1250 Elkwood Dr,Milpitas,Ca,95035,1249999,4 ,2.5,1867 ,47,37,61,85,8.0,Active,Single Family Home,1991,3221.0,670.0,1
+935,1520 E Capitol Expy #19,San jose,Ca,95121,188888,3 ,2.0,1200 ,33,39,59,0,5.0,Active,Double-Wide Mobile Home,1971,0.0,157.0,0
+936,3583 Lupine Ave,Palo alto,Ca,94303,2550000,3 ,2.0,1412 ,48,27,93,91,8.0,Active,Single Family Home,1956,8486.0,1806.0,1
+937,2798 Sand Point Ct,San jose,Ca,95148,1100000,3 ,2.0,1472 ,57,52,57,78,6.0,Active,Single Family Home,1970,6840.0,747.0,1
+938,3391 Thomas Dr,Palo alto,Ca,94303,3400000,4 ,2.0,2032 ,31,24,82,91,8.0,Active,Single Family Home,1958,6825.0,1673.0,1
+939,305 Destino Cir,San jose,Ca,95133,975000,3 ,2.5,1663 ,67,50,51,78,3.0,Active,Townhouse,2006,1280.0,586.0,0
+940,365 N Third St #2,Campbell,Ca,95008,688800,2 ,1.0,903 ,85,47,87,72,4.0,Active,Condo,1971,0.0,763.0,0
+941,160 Kellogg Ave,Palo alto,Ca,94301,4995000,4 ,3.0,2697 ,73,43,100,86,7.0,Active,Single Family Home,1992,7500.0,1852.0,1
+942,38 N Almaden Blvd #1313,San jose,Ca,95110,749888,1 ,1.0,975 ,88,72,90,61,4.0,New,Condo,2008,164.0,769.0,0
+943,2085 Lynnhaven Dr,San jose,Ca,95128,1400000,4 ,1.0,1659 ,69,46,71,78,4.0,Active,Duplex,1954,7070.0,844.0,1
+944,401 Ann Darling Dr,San jose,Ca,95133,999000,3 ,2.0,1081 ,71,48,54,78,3.0,Active,Single Family Home,1957,6619.0,924.0,0
+945,275 S 20th St,San jose,Ca,95116,799000,2 ,1.0,856 ,82,52,83,78,3.0,Active,Single Family Home,1901,4826.0,933.0,0
+946,241 Horizon Ave,Mountain view,Ca,94043,1248000,2 ,1.5,1274 ,91,53,98,74,6.0,Active,Townhouse,1973,0.0,980.0,1
+947,1526 Parkmont Dr,San jose,Ca,95131,1650000,3 ,2.5,1509 ,76,43,62,78,5.0,Active,Single Family Home,1993,4016.0,1093.0,1
+948,451 Alberto Way #247,Los gatos,Ca,95032,699000,2 ,2.0,1136 ,51,0,51,76,9.0,Active,Condo,1978,0.0,615.0,0
+949,578 Vista Ave,Palo alto,Ca,94306,749000,1 ,1.0,562 ,83,41,93,90,8.0,Active,Condo,1978,570.0,1333.0,0
+950,1250 Petersen Ct,Los altos,Ca,94024,3398000,4 ,2.5,2252 ,29,22,69,85,9.0,Active,Single Family Home,1969,0.0,1509.0,1
+951,16010 Stephenie Ln,Los gatos,Ca,95032,2998000,4 ,3.5,2845 ,40,0,60,54,9.0,Active,Single Family Home,2009,0.0,1054.0,1
+952,1166 Emerson Ave,Campbell,Ca,95008,1199000,3 ,1.0,1072 ,49,34,76,92,7.0,Active,Single Family Home,1955,8468.0,1118.0,1
+953,370 Ronan Ave,Gilroy,Ca,95020,770000,3 ,2.0,1269 ,48,0,72,48,5.0,Active,Single Family Home,1979,4700.0,607.0,0
+954,1160 Lily Ave,Sunnyvale,Ca,94086,1698000,3 ,2.0,1148 ,50,32,69,76,7.0,Active,Single Family Home,1955,5406.0,1479.0,1
+955,2076 Kent Dr,Los altos,Ca,94024,3798000,4 ,2.0,1858 ,22,21,31,91,9.0,Active,Single Family Home,1962,0.0,2044.0,1
+956,17530 Montoya Cir,Morgan hill,Ca,95037,1299000,4 ,3.0,2560 ,43,33,52,50,5.0,Active,Single Family Home,1990,4432.0,507.0,1
+957,1377 Pritchett Ct,Los altos,Ca,94024,3998000,6 ,3.5,2917 ,21,23,65,89,9.0,Active,Single Family Home,1971,9844.0,1371.0,1
+958,4177 Barrymore Dr,San jose,Ca,95117,1400000,4 ,2.5,2114 ,69,40,75,78,5.0,Active,Single Family Home,1954,10244.0,662.0,1
+959,2121 Main St,Santa clara,Ca,95050,1228000,3 ,2.5,1622 ,61,38,64,74,3.0,Active,Triplex,1962,7020.0,757.0,1
+960,314 Vista Roma Way,San jose,Ca,95136,1098000,3 ,2.5,1674 ,72,47,59,60,5.0,Active,Townhouse,2005,801.0,656.0,1
+961,1690 Edgewood Dr,Palo alto,Ca,94303,4995000,5 ,3.0,2995 ,48,33,73,63,8.0,Active,Single Family Home,2014,10309.0,1668.0,1
+962,494 Nerdy Ave,San jose,Ca,95111,925000,3 ,2.0,1113 ,60,50,70,78,2.0,Active,Single Family Home,1958,5014.0,831.0,0
+963,15132 Esther Dr,San jose,Ca,95124,3498000,5 ,4.0,3012 ,36,35,44,93,9.0,Active,Single Family Home,2023,9450.0,1161.0,1
+964,536 Hawthorn Ave,Sunnyvale,Ca,94086,1998000,3 ,2.0,1360 ,68,45,90,76,5.0,Active,Single Family Home,1967,0.0,1469.0,1
+965,772 & 776 S 2nd St,San jose,Ca,95112,2550000,6 ,5.0,4998 ,88,58,92,0,3.0,Active,5+ Units,1898,10018.0,510.0,1
+966,1220 Tasman Dr #571,Sunnyvale,Ca,94089,329800,3 ,2.0,1543 ,52,52,84,0,6.0,Active,Double-Wide Mobile Home,2000,0.0,214.0,0
+967,1967 Cabana Dr,San jose,Ca,95125,2715000,3 ,3.0,1985 ,37,40,50,65,5.0,Active,Single Family Home,1953,10125.0,1368.0,1
+968,16805 San Dimas Ln,Morgan hill,Ca,95037,1200000,3 ,2.5,2187 ,49,25,58,50,5.0,Active,Single Family Home,2014,4054.0,549.0,1
+969,600 S Abel St #404,Milpitas,Ca,95035,849999,2 ,2.0,1259 ,82,47,77,90,7.0,Active,Condo,2007,0.0,675.0,0
+970,1424 Millich Ct,San jose,Ca,95117,949995,2 ,1.5,1220 ,43,38,71,60,6.0,Active,Townhouse,1972,1282.0,779.0,0
+971,73 3rd St #17,Los altos,Ca,94022,1450000,2 ,1.5,1072 ,89,27,97,74,9.0,Active,Condo,1974,0.0,1353.0,1
+972,763 Cereza Dr,Palo alto,Ca,94306,2995000,3 ,2.5,1627 ,69,41,92,90,8.0,Active,Single Family Home,1956,8675.0,1841.0,1
+973,1102 Carolyn Ave,San jose,Ca,95125,2995000,3 ,2.5,3033 ,85,45,77,65,5.0,Active,Single Family Home,1941,8235.0,987.0,1
+974,1331 El Moro Dr,Campbell,Ca,95008,2545000,4 ,3.0,2350 ,65,41,58,92,8.0,Active,Single Family Home,1955,9811.0,1083.0,1
+975,1181 Virginia Ave,Campbell,Ca,95008,3488000,4 ,3.0,2650 ,32,27,68,72,6.0,Active,Single Family Home,2007,10539.0,1316.0,1
+976,843 Trenton Dr,Sunnyvale,Ca,94087,2698000,4 ,2.0,1819 ,58,30,88,85,9.0,Active,Single Family Home,1960,9523.0,1483.0,1
+977,4388 Felter Rd,Milpitas,Ca,95035,2399000,4 ,2.5,3027 ,0,0,4,79,5.0,Active,Single Family Home,1976,0.0,793.0,1
+978,675 Manzanita Ave,Sunnyvale,Ca,94085,1400000,3 ,1.5,1092 ,73,41,81,81,3.0,Active,Single Family Home,1953,5043.0,1282.0,1
+979,553 Waite Ave,Sunnyvale,Ca,94085,1372000,3 ,2.0,1393 ,83,42,80,81,3.0,Active,Single Family Home,1949,6425.0,985.0,1
+980,27421 Sherlock Rd,Los altos hills,Ca,94022,6495000,4 ,3.0,3800 ,7,0,11,76,9.0,Active,Single Family Home,1988,0.0,1709.0,1
+981,965 Cheswick Dr,San jose,Ca,95121,998888,4 ,2.0,1594 ,26,41,54,86,5.0,Active,Single Family Home,1978,6831.0,627.0,0
+982,1561 Shaw Dr,San jose,Ca,95118,1498888,4 ,2.5,1654 ,46,26,53,82,7.0,Active,Single Family Home,1961,7004.0,906.0,1
+983,320 Cherokee Loop,Mountain view,Ca,94043,1880000,3 ,3.5,1893 ,67,33,96,84,6.0,Active,Townhouse,2018,1384.0,993.0,1
+984,1519 Amesbury Way,San jose,Ca,95127,849950,3 ,2.0,1134 ,53,41,51,78,3.0,Active,Single Family Home,1958,5153.0,750.0,0
+985,1795 Foxworthy Ave,San jose,Ca,95124,1795000,6 ,2.5,2303 ,75,32,66,85,7.0,Active,Single Family Home,1956,10471.0,779.0,1
+986,1156 W Iowa Ave,Sunnyvale,Ca,94086,2088000,4 ,2.0,1258 ,78,42,82,81,4.0,Active,Single Family Home,1958,5700.0,1660.0,1
+987,1275 Edsel Dr,Milpitas,Ca,95035,1098000,4 ,2.0,1549 ,76,29,71,78,2.0,Active,Single Family Home,1966,6853.0,709.0,1
+988,3303 Kifer Rd Unit 103A,Santa clara,Ca,95051,1668888,4 ,3.5,1940 ,33,38,59,72,5.0,Active,Condo,2021,0.0,860.0,1
+989,4136 Camden Ave,San jose,Ca,95124,1349995,3 ,2.0,1750 ,62,22,56,85,8.0,Active,Single Family Home,1957,7035.0,771.0,1
+990,914 Celia Dr,Palo alto,Ca,94303,3298000,4 ,2.0,2053 ,52,24,92,78,8.0,Active,Single Family Home,1954,6291.0,1606.0,1
+991,3069 Middlefield Rd #102,Palo alto,Ca,94306,948000,1 ,1.0,870 ,73,26,100,78,8.0,Active,Condo,1986,0.0,1090.0,0
+992,3722 Carlson Cir,Palo alto,Ca,94306,3288000,4 ,3.0,2254 ,54,39,95,63,8.0,Active,Single Family Home,1952,6280.0,1459.0,1
+993,4225 Ross Ave,San jose,Ca,95124,1798888,5 ,3.0,1877 ,74,23,53,85,8.0,Active,Single Family Home,1963,6109.0,958.0,1
+994,920 Chelan Dr,Sunnyvale,Ca,94087,2488000,3 ,2.0,1637 ,42,29,58,81,9.0,Active,Single Family Home,1955,7930.0,1520.0,1
+995,2585 El Camino Real #409,Santa clara,Ca,95051,1228000,3 ,2.0,1390 ,77,46,74,74,6.0,Active,Condo,2015,0.0,883.0,1
+996,1832 Wintersong Ct,San jose,Ca,95131,1680000,5 ,3.0,2533 ,57,54,69,91,8.0,Active,Single Family Home,1975,9889.0,663.0,1
+997,1923 Willow St,San jose,Ca,95125,1969000,4 ,2.5,2009 ,55,46,76,65,5.0,Active,Single Family Home,1952,9960.0,980.0,1
+998,807 Cedar Ave,Sunnyvale,Ca,94086,1395000,3 ,1.5,1030 ,57,43,80,80,5.0,Active,Single Family Home,1944,4960.0,1354.0,1
+999,20127 Mendelsohn Ln,Saratoga,Ca,95070,4388888,4 ,3.5,2861 ,41,0,28,47,9.0,Active,Single Family Home,1975,0.0,1534.0,1
+1000,14297 Buckner Dr,San jose,Ca,95127,1288800,3 ,2.0,1440 ,9,0,49,63,1.0,Active,Single Family Home,1953,0.0,895.0,1
+1001,22991 Longdown Rd,Cupertino,Ca,95014,1399888,3 ,2.0,1234 ,10,17,23,89,9.0,Active,Townhouse,1974,2621.0,1134.0,1
+1002,5158 Sunny Creek Dr,San jose,Ca,95135,2088000,4 ,3.0,2292 ,7,29,52,83,8.0,Active,Single Family Home,1985,7540.0,911.0,1
+1003,4733 Jarvis Ave,San jose,Ca,95118,1499950,4 ,3.0,1949 ,68,27,69,90,2.0,Active,Single Family Home,1966,7400.0,770.0,1
+1004,1458 Lucena Ct,San jose,Ca,95132,1368888,4 ,2.0,1478 ,35,46,53,79,5.0,Active,Single Family Home,1966,6912.0,926.0,1
+1005,15307 McCobb Dr #47,Los gatos,Ca,95032,2198000,3 ,3.5,1974 ,62,0,67,54,9.0,Active,Condo,2022,0.0,1113.0,1
+1006,16309 Hamsher Ct #226,Los gatos,Ca,95032,1382000,1 ,1.5,1263 ,2,0,6,54,0.0,Active,Condo,2022,0.0,1094.0,1
+1007,1471 Luning Dr,San jose,Ca,95118,1749000,4 ,2.5,1937 ,70,27,60,90,8.0,Active,Single Family Home,1968,6255.0,903.0,1
+1008,2245 Old Piedmont Rd,San jose,Ca,95132,1988888,3 ,3.5,2234 ,39,29,41,79,7.0,Active,Single Family Home,1954,0.0,890.0,1
+1009,4890 Tony Ave,San jose,Ca,95124,1688000,3 ,2.0,1601 ,29,34,0,82,9.0,Active,Single Family Home,1956,6406.0,1054.0,1
+1010,495 Snap Dragon,Milpitas,Ca,95035,1198000,3 ,3.5,1666 ,46,34,63,86,7.0,Active,Townhouse,2018,741.0,719.0,1
+1011,206 Sunnyside Ave,Campbell,Ca,95008,1850000,4 ,2.5,1864 ,84,51,78,72,6.0,Active,Single Family Home,1999,4510.0,992.0,1
+1012,783 Pescadero Dr,San jose,Ca,95123,1100000,4 ,2.5,1893 ,54,28,67,88,4.0,Active,Single Family Home,1964,6342.0,581.0,1
+1013,2165 Booksin Ave,San jose,Ca,95125,3995000,4 ,3.5,3892 ,15,36,56,65,7.0,Active,Single Family Home,2022,10134.0,1026.0,1
+1014,1641 Hyacinth Ln,San jose,Ca,95124,2198000,4 ,3.0,1719 ,45,23,43,82,8.0,Active,Single Family Home,2021,5969.0,1279.0,1
+1015,702 Lakebird Dr,Sunnyvale,Ca,94089,1378000,3 ,2.0,1468 ,33,44,69,85,4.0,Active,Single Family Home,1957,5912.0,939.0,1
+1016,9755 Tapestry Dr,Gilroy,Ca,95020,1210000,5 ,3.0,3020 ,19,0,50,48,4.0,Active,Single Family Home,2004,6248.0,401.0,1
+1017,4212 Darlington Ct,Palo alto,Ca,94306,2798000,4 ,2.0,1502 ,64,44,95,83,8.0,Active,Single Family Home,1951,6052.0,1863.0,1
+1018,1350 Oakland Rd #187,San jose,Ca,95112,359900,4 ,2.0,1503 ,36,47,56,0,5.0,Active,Double-Wide Mobile Home,2000,0.0,239.0,0
+1019,505 Sunnybrook Dr,Campbell,Ca,95008,3498000,5 ,4.5,3176 ,41,44,66,72,6.0,Active,Single Family Home,2022,8315.0,1101.0,1
+1020,6068 Sanford Dr,San jose,Ca,95123,1249000,4 ,2.0,1791 ,48,16,29,78,4.0,Active,Single Family Home,1968,6030.0,697.0,1
+1021,1476 Portobelo Dr,San jose,Ca,95118,1399999,4 ,2.0,1937 ,70,27,60,90,8.0,Active,Single Family Home,1968,6191.0,723.0,1
+1022,4016 Sadie Ct,Campbell,Ca,95008,1698000,4 ,2.5,2387 ,22,30,49,79,8.0,Active,Single Family Home,1971,6953.0,711.0,1
+1023,14685 Oka Rd #19,Los gatos,Ca,95032,549900,3 ,2.0,1295 ,35,0,60,0,9.0,Active,Double-Wide Mobile Home,2000,0.0,425.0,0
+1024,16384 Peacock Ln,Los gatos,Ca,95032,3398000,4 ,3.0,1801 ,33,0,40,76,9.0,Active,Single Family Home,1949,10683.0,1887.0,1
+1025,4372 Laird Cir,Santa clara,Ca,95054,1649000,3 ,3.5,1657 ,50,47,78,72,6.0,Active,Single Family Home,2005,2412.0,995.0,1
+1026,182 Poplar Ave,Campbell,Ca,95008,1650000,3 ,1.0,1178 ,83,50,0,72,6.0,Active,Single Family Home,1945,0.0,1401.0,1
+1027,1201 Sycamore Ter #122,Sunnyvale,Ca,94086,220000,2 ,1.0,840 ,76,42,65,0,6.0,Active,Double-Wide Mobile Home,1997,0.0,262.0,0
+1028,871 Laburnum Dr,Sunnyvale,Ca,94086,2298000,4 ,2.5,2204 ,75,45,84,88,6.0,Active,Single Family Home,1966,6400.0,1043.0,1
+1029,6305 Blauer Ln,San jose,Ca,95135,748000,2 ,2.0,1340 ,6,20,33,59,8.0,Active,Condo,1974,0.0,558.0,0
+1030,1400 Bowe Ave #1504,Santa clara,Ca,95051,749000,2 ,2.0,1062 ,64,45,58,78,7.0,Active,Condo,1986,1080.0,705.0,0
+1031,1233 Lockhaven Way,San jose,Ca,95129,2298000,3 ,2.0,1296 ,37,29,57,92,9.0,Active,Single Family Home,1965,6125.0,1773.0,1
+1032,2584 Gimelli Way,San jose,Ca,95133,1228000,3 ,4.0,1564 ,65,47,65,63,4.0,Active,Townhouse,2019,755.0,785.0,1
+1033,19616 Ladera Ct,Saratoga,Ca,95070,3148000,4 ,2.5,1999 ,17,0,54,92,9.0,Active,Single Family Home,1965,10624.0,1575.0,1
+1034,14830 Blossom Hill Rd,Los gatos,Ca,95032,5300000,5 ,4.5,3992 ,34,0,21,57,9.0,Active,Single Family Home,2008,0.0,1328.0,1
+1035,5537 Judith St #2,San jose,Ca,95123,549000,2 ,1.0,903 ,66,45,51,67,5.0,Active,Condo,1970,0.0,608.0,0
+1036,5239 Pisa Ct,San jose,Ca,95138,2998000,5 ,4.5,3880 ,2,0,19,62,9.0,Active,Single Family Home,1998,0.0,773.0,1
+1037,10940 Prieta Ct,San jose,Ca,95127,1399999,3 ,2.5,2020 ,10,0,4,63,5.0,Active,Single Family Home,1978,0.0,693.0,1
+1038,10935 Miramonte Rd,Cupertino,Ca,95014,5480000,5 ,4.5,4942 ,34,0,38,80,9.0,Active,Single Family Home,1999,0.0,1109.0,1
+1039,174 Coffeeberry Dr,San jose,Ca,95123,1800000,4 ,3.0,2470 ,67,50,68,72,6.0,Active,Single Family Home,1999,4470.0,729.0,1
+1040,1522 Pine Glen Ct,San jose,Ca,95125,995000,3 ,2.5,1260 ,84,39,73,65,5.0,Active,Townhouse,1971,1918.0,790.0,0
+1041,8765 Wild Iris Dr,Gilroy,Ca,95020,1649000,5 ,3.5,3488 ,7,0,22,48,4.0,New,Single Family Residential,2007,0.0,473.0,1
+1042,13962 Shadow Oaks Way,Saratoga,Ca,95070,3998000,4 ,2.5,2629 ,37,0,49,47,9.0,Active,Single Family Home,1974,0.0,1521.0,1
+1043,3302 Kipling St,Palo alto,Ca,94306,5998000,6 ,5.0,3494 ,52,30,92,88,8.0,Active,Single Family Home,2023,7865.0,1717.0,1
+1044,3708 Europe Ct,Santa clara,Ca,95051,1398000,2 ,2.5,1803 ,74,41,66,78,8.0,Active,Townhouse,1978,1862.0,775.0,1
+1045,1922 Alta Mesa Ct,Morgan hill,Ca,95037,1199000,3 ,2.0,1519 ,27,0,55,50,6.0,Active,Single Family Home,1988,5356.0,789.0,1
+1046,16140 Azalea Way,Los gatos,Ca,95032,2698000,3 ,2.0,1697 ,61,0,73,57,9.0,Active,Single Family Home,1955,8090.0,1590.0,1
+1047,79 Braxton Ter,Campbell,Ca,95008,1479000,3 ,3.5,1947 ,90,50,83,72,6.0,Active,Townhouse,2016,1245.0,760.0,1
+1048,20 Clareview Ave,San jose,Ca,95127,999999,3 ,2.0,1315 ,17,0,34,63,1.0,Active,Single Family Home,1953,8086.0,760.0,0
+1049,971 Shadow Brook Dr,San jose,Ca,95120,2150000,4 ,2.5,2240 ,50,18,63,90,8.0,Active,Single Family Home,1969,8015.0,960.0,1
+1050,2151 Oakland Rd #38,San jose,Ca,95131,268000,3 ,2.0,1440 ,31,41,51,0,5.0,Active,Double-Wide Mobile Home,1984,0.0,186.0,0
+1051,1050 Summermist Ct,San jose,Ca,95122,475000,1 ,1.0,746 ,40,41,56,64,6.0,Active,Condo,1985,851.0,637.0,0
+1052,3406 Gradell Pl,San jose,Ca,95148,1200000,3 ,2.0,1164 ,26,20,27,59,5.0,Active,Single Family Home,1984,6833.0,1031.0,1
+1053,2661 Senter Creek Ct,San jose,Ca,95111,650000,2 ,2.0,1146 ,69,42,72,62,5.0,Active,Condo,1983,0.0,567.0,0
+1054,679 Barcelona Loop,Milpitas,Ca,95035,998000,3 ,3.0,1643 ,52,65,66,84,7.0,Active,Townhouse,2015,621.0,607.0,0
+1055,6694 Buggywhip Ct,San jose,Ca,95120,1098000,3 ,2.5,1451 ,65,27,71,73,9.0,Active,Townhouse,1973,1684.0,757.0,1
+1056,909 Mangrove Ave,Sunnyvale,Ca,94086,2800000,4 ,3.5,2357 ,72,42,79,76,7.0,Active,Single Family Home,2006,5548.0,1188.0,1
+1057,191 E El Camino Real #140,Mountain view,Ca,94040,259000,2 ,2.0,1057 ,78,37,91,0,9.0,Active,Double-Wide Mobile Home,1998,0.0,245.0,0
+1058,2655 Glen Loman Way,San jose,Ca,95148,1399000,4 ,2.5,2113 ,58,55,69,87,5.0,Active,Single Family Home,1989,7815.0,662.0,1
+1059,Somerset Park Cir,San jose,Ca,95132,469000,1 ,1.0,677 ,34,46,51,79,5.0,Active,Condo,1988,0.0,693.0,0
+1060,1050 Bret Knoll Ct,San jose,Ca,95120,1350000,3 ,2.5,1580 ,60,19,57,90,8.0,Active,Single Family Home,1978,4316.0,854.0,1
+1061,2512 Amethyst Dr,Santa clara,Ca,95051,2200000,5 ,3.0,1440 ,42,35,62,86,5.0,Active,Single Family Home,2023,5727.0,1528.0,1
+1062,3034 Empoli St #4,San jose,Ca,95136,1169500,3 ,2.0,1241 ,21,37,12,60,5.0,Active,Condo,2023,0.0,942.0,1
+1063,14225 Lora Dr #99,Los gatos,Ca,95032,499000,1 ,1.0,816 ,37,0,29,51,9.0,Active,Condo,1963,816.0,612.0,0
+1064,15 N King Rd,San jose,Ca,95116,1090000,2 ,1.0,864 ,80,54,55,81,3.0,Active,Single Family Home,1938,9734.0,1262.0,1
+1065,3405 E Hills Dr,San jose,Ca,95127,1498888,6 ,6.0,2479 ,49,39,49,63,1.0,Active,Single Family Home,2018,7363.0,605.0,1
+1066,2958 Feliz Rd #159,Santa clara,Ca,95051,1428000,2 ,2.5,1268 ,49,36,66,72,5.0,Active,Condo,2020,0.0,1126.0,1
+1067,3204 Mckee Rd,San jose,Ca,95127,949950,5 ,2.0,1771 ,71,0,60,63,5.0,Active,Duplex,1950,6628.0,536.0,0
+1068,532 Tyrella Ave #16,Mountain view,Ca,94043,698000,3 ,1.5,1128 ,62,37,94,74,6.0,Active,Condo,1971,0.0,619.0,0
+1069,5288 Cribari Hts,San jose,Ca,95135,619950,2 ,2.0,1223 ,11,28,31,59,8.0,Active,Condo,1971,0.0,507.0,0
+1070,108 Colorado Ct,Los gatos,Ca,95032,3795000,4 ,5.0,5542 ,2,0,11,57,7.0,Active,Single Family Home,1982,0.0,685.0,1
+1071,2718 Riverrun Dr,San jose,Ca,95127,1099000,4 ,2.5,2000 ,43,55,56,78,5.0,Active,Single Family Home,2000,3300.0,550.0,1
+1072,73 Monte Verano Ct,San jose,Ca,95116,565000,3 ,2.0,958 ,72,56,56,63,5.0,Active,Condo,1988,0.0,590.0,0
+1073,1109 Pheasant Hill Way,San jose,Ca,95120,2150000,4 ,3.0,2532 ,8,16,4,78,9.0,Active,Townhouse,1998,5952.0,849.0,1
+1074,125 Campoli Dr,Morgan hill,Ca,95037,1898888,4 ,3.5,2894 ,23,34,60,66,4.0,Active,Single Family Residential,2023,7709.0,656.0,1
+1075,115 Campoli Dr,Morgan hill,Ca,95037,1938888,4 ,3.5,2628 ,23,34,60,66,4.0,Active,Single Family Residential,2023,7561.0,738.0,1
+1076,119 Belhaven Dr,Los gatos,Ca,95032,2450000,5 ,3.0,2448 ,44,0,31,54,7.0,Active,Single Family Home,1965,10363.0,1001.0,1
+1077,13127 Pfeifle Ave,San jose,Ca,95111,1149000,2 ,1.0,1118 ,51,52,66,0,3.0,Active,Single Family Home,1951,9375.0,1028.0,1
+1078,8687 Lomas Azules Pl,San jose,Ca,95135,1199888,2 ,2.5,2043 ,1,0,10,59,8.0,Active,Condo,1991,0.0,587.0,1
+1079,443 Alberto Way Unit B219,Los gatos,Ca,95032,579000,1 ,1.0,768 ,55,0,79,76,9.0,Active,Condo,1978,0.0,754.0,0
+1080,4217 Rivermark Pkwy,Santa clara,Ca,95054,2860000,4 ,3.5,3073 ,65,42,81,72,6.0,Active,Single Family Home,2003,3506.0,931.0,1
+1081,12661 Robleda Rd,Los altos hills,Ca,94022,14500000,6 ,6.5,8610 ,10,0,38,76,9.0,Active,Single Family Residential,2008,0.0,1684.0,1
+1082,1127 Carnforth Ct,San jose,Ca,95120,2799000,4 ,2.5,3000 ,17,18,22,78,9.0,Active,Single Family Home,1984,8625.0,933.0,1
+1083,719 Manzanita Ave,Sunnyvale,Ca,94085,1750000,3 ,2.0,1289 ,61,42,78,81,3.0,Active,Single Family Home,1954,5077.0,1358.0,1
+1084,430 Irving Ave,San jose,Ca,95128,1230000,3 ,2.0,1814 ,86,0,76,61,5.0,Active,Single Family Residential,1915,4000.0,678.0,1
+1085,2777 Richland Ave,San jose,Ca,95125,2999950,4 ,3.5,3010 ,58,31,66,82,7.0,Active,Single Family Home,1957,0.0,997.0,1
+1086,109 Elm Wood Ct,Los gatos,Ca,95032,1389000,3 ,2.5,1520 ,47,0,56,51,9.0,Active,Townhouse,1971,1800.0,914.0,1
+1087,5450 Monterey Hwy Unit 1C,San jose,Ca,95111,280000,3 ,2.0,1100 ,27,40,63,0,3.0,Active,Double-Wide Mobile Home,2001,0.0,255.0,0
+1088,15370 Skyview Ter,San jose,Ca,95132,1999999,3 ,2.5,1810 ,6,0,14,79,8.0,Active,Single Family Home,1960,0.0,1105.0,1
+1089,1540 Mckinley Ave,San jose,Ca,95126,1395000,3 ,2.0,1518 ,66,48,83,93,5.0,Active,Single Family Home,1978,3168.0,919.0,1
+1090,6804 Shadow Mountain Ct,San jose,Ca,95120,2495000,4 ,2.5,2382 ,15,21,8,73,9.0,Active,Single Family Home,1968,9335.0,1047.0,1
+1091,1055 N Capitol Ave #164,San jose,Ca,95133,597888,2 ,2.0,832 ,60,47,75,63,6.0,Active,Condo,1981,0.0,719.0,0
+1092,147 Nexus Loop,San jose,Ca,95110,910000,2 ,2.5,1370 ,91,69,91,61,4.0,Active,Condo,2019,780.0,664.0,0
+1093,1137 Stafford Dr,Cupertino,Ca,95014,3888000,5 ,4.5,2958 ,6,20,37,89,9.0,Active,Single Family Home,1966,7143.0,1314.0,1
+1094,1387 Prevost St,San jose,Ca,95125,2598000,4 ,3.0,2339 ,82,52,95,65,5.0,Active,Single Family Home,1940,5380.0,1111.0,1
+1095,775 Oak St,Mountain view,Ca,94041,6000000,20 ,16.0,9600 ,93,52,94,0,6.0,Active,5+ Units,1961,0.0,625.0,1
+1096,1267 Lafayette St,Santa clara,Ca,95050,1625000,4 ,3.0,2206 ,84,54,87,74,6.0,Active,Single Family Home,1920,6464.0,737.0,1
+1097,460 Marcia Dr,Morgan hill,Ca,95037,1100000,4 ,2.0,1948 ,46,32,23,50,4.0,Active,Single Family Home,1977,7703.0,565.0,1
+1098,619 Chapman St,San jose,Ca,95126,2200000,4 ,2.5,2538 ,79,50,78,93,5.0,Active,Single Family Home,2004,7653.0,867.0,1
+1099,872 Linden Dr,Santa clara,Ca,95050,1325000,4 ,2.0,1550 ,80,43,83,74,6.0,Active,Duplex,1948,9872.0,855.0,1
+1100,1757 Hillsdale Ave,San jose,Ca,95124,899999,3 ,1.0,1060 ,81,28,61,85,7.0,Active,Single Family Residential,1954,5097.0,849.0,0
+1101,2332 Patricia Dr,Santa clara,Ca,95050,1375000,4 ,2.0,1868 ,75,41,83,74,5.0,Active,Duplex,1956,6843.0,736.0,1
+1102,49 S 20Th St,San jose,Ca,95116,1790000,5 ,3.5,2327 ,87,55,85,78,3.0,Active,Single Family Residential,2022,5850.0,769.0,1
+1103,5606 Creekview Meadow Ln,San jose,Ca,95135,2999800,5 ,4.0,3423 ,5,17,37,78,9.0,Active,Single Family Residence,1998,0.0,876.0,1
+1104,1044 Belvedere Ln,San jose,Ca,95129,2998000,5 ,3.0,2057 ,50,38,65,89,9.0,Active,Single Family Residential,1957,7383.0,1457.0,1
+1105,725 Dartmouth Pl,Gilroy,Ca,95020,948999,4 ,2.0,2014 ,51,0,66,48,2.0,Active,Single Family Home,1976,7038.0,471.0,0
+1106,1167 Fairfield Ave,Santa clara,Ca,95050,1200000,2 ,1.0,1248 ,85,46,76,74,5.0,Active,Single Family Home,1950,7334.0,962.0,1
+1107,2233 Benton St,Santa clara,Ca,95050,1125000,3 ,1.0,1025 ,83,44,81,74,5.0,Active,Single Family Home,1950,5901.0,1098.0,1
+1108,58 Saron Ave,San jose,Ca,95116,888000,3 ,1.0,946 ,71,54,65,78,2.0,Active,Single Family Home,1940,6699.0,939.0,0
+1109,744 Mendecino Way,Morgan hill,Ca,95037,799000,2 ,1.5,1734 ,12,24,36,68,3.0,Active,Condo,1979,0.0,461.0,0
+1110,3001 Ruby Ave,San jose,Ca,95135,1629888,4 ,3.5,2447 ,73,20,57,67,8.0,Active,Townhouse,2013,2420.0,666.0,1
+1111,5568 Snowdon Pl,San jose,Ca,95138,2798000,4 ,3.5,3107 ,5,0,5,62,9.0,Active,Single Family Home,1996,8540.0,901.0,1
+1112,19964 Portal Plz,Cupertino,Ca,95014,999000,2 ,2.5,1326 ,85,45,77,84,9.0,Active,Condo,1982,0.0,753.0,0
+1113,5886 Southview Dr,San jose,Ca,95138,1350000,4 ,2.5,2077 ,10,34,52,67,5.0,Active,Single Family Home,1981,5926.0,650.0,1
+1114,456 N Winchester Blvd,Santa clara,Ca,95050,2857000,9 ,7.0,4154 ,70,37,81,0,6.0,Active,5+ Units,1958,7286.0,688.0,1
+1115,17231 Crothers Rd,San jose,Ca,95127,1499000,3 ,2.0,2070 ,3,0,4,63,5.0,Active,Single Family Home,1924,0.0,724.0,1
+1116,1515 North Milpitas Blvd #117,Milpitas,Ca,95035,379000,3 ,2.0,1188 ,73,39,73,0,8.0,Active,Double-Wide Mobile Home,2001,0.0,319.0,0
+1117,912 N California Ave,Palo alto,Ca,94303,9888000,5 ,5.5,4333 ,56,25,89,63,8.0,Active,Single Family Home,2020,0.0,2282.0,1
+1118,5776 Halleck Dr,San jose,Ca,95123,1198000,3 ,1.0,1303 ,75,31,80,78,4.0,Active,Single Family Home,1971,6519.0,919.0,1
+1119,11721 Putter Way,Los altos,Ca,94024,3198000,4 ,3.5,2715 ,3,0,11,92,9.0,Active,Single Family Home,1948,0.0,1178.0,1
+1120,812 Catkin Ct,San jose,Ca,95128,555000,2 ,2.0,922 ,46,43,55,65,6.0,Active,Condo,1988,0.0,602.0,0
+1121,968 Delmas Ave,San jose,Ca,95125,2498000,4 ,3.5,2780 ,75,55,95,64,5.0,Active,Single Family Home,1909,6634.0,899.0,1
+1122,511 Patricia Ln,Palo alto,Ca,94303,3885000,5 ,2.0,1780 ,48,33,73,63,8.0,Active,Single Family Home,1951,8852.0,2183.0,1
+1123,13740 Pierce Rd,Saratoga,Ca,95070,13400000,8 ,10.0,10501 ,4,0,8,61,9.0,Active,Single Family Home,2017,0.0,1276.0,1
+1124,24892 Olive Tree Ln,Los altos hills,Ca,94024,12980000,4 ,6.5,5689 ,0,0,8,86,9.0,Active,Single Family Home,1990,0.0,2282.0,1
+1125,818 Seale Ave,Palo alto,Ca,94303,5995000,4 ,3.5,3141 ,42,26,88,63,7.0,Active,Single Family Home,1949,9514.0,1909.0,1
+1126,319 Ramona St,Palo alto,Ca,94301,3200000,2 ,1.0,1277 ,92,57,100,70,8.0,Active,Single Family Home,1918,5624.0,2506.0,1
+1127,1062 Cathcart Way,Stanford,Ca,94305,2650000,3 ,2.5,2880 ,23,0,82,0,8.0,Active,Single Family Home,1970,0.0,920.0,1
+1128,12774 Leander Dr,Los altos hills,Ca,94022,6498000,6 ,5.5,4600 ,9,0,22,76,8.0,Active,Single Family Home,2004,0.0,1413.0,1
+1129,1720 Halford Ave #221,Santa clara,Ca,95051,650000,2 ,2.0,983 ,83,41,66,86,6.0,Active,Condo,1970,0.0,661.0,0
+1130,1443 Kilchoan Ct,San jose,Ca,95122,799999,4 ,2.0,1417 ,23,43,41,64,6.0,Active,Single Family Home,1964,7640.0,565.0,0
+1131,11331 Entrada Pl,Los altos,Ca,94024,5995000,5 ,5.5,4819 ,4,0,9,92,9.0,Active,Single Family Home,2007,0.0,1244.0,1
+1132,Jardin Way,Gilroy,Ca,95020,989000,4 ,2.5,2212 ,34,0,65,48,5.0,Active,Single Family Home,2011,4275.0,447.0,0
+1133,13360 Montebello Rd,Cupertino,Ca,95014,2888000,4 ,3.0,3196 ,5,0,1,90,9.0,Active,Single Family Home,1983,0.0,904.0,1
+1134,15001 Briggs Ct,Los gatos,Ca,95032,1871625,2 ,2.5,1626 ,69,0,70,54,9.0,Active,Condo,2021,0.0,1151.0,1
+1135,2891 Homestead Rd,Santa clara,Ca,95051,2888888,3 ,1.0,1500 ,75,34,80,78,9.0,Active,Single Family Home,1920,0.0,1926.0,1
+1136,2819 Agate Dr,Santa clara,Ca,95051,1249000,3 ,1.0,1144 ,34,34,65,86,5.0,Active,Single Family Home,1954,5763.0,1092.0,1
+1137,961 Thornton Way,San jose,Ca,95128,1948000,3 ,1.5,1725 ,56,44,61,65,6.0,Active,Single Family Home,1948,0.0,1129.0,1
+1138,1740 E William St,San jose,Ca,95116,925000,4 ,2.0,1464 ,73,50,60,78,4.0,Active,Duplex,1959,5457.0,632.0,0
+1139,6062 Pipit Way,Gilroy,Ca,95020,1148888,4 ,2.5,2164 ,4,0,40,48,6.0,Active,Single Family Home,2016,4159.0,531.0,1
+1140,123 Mountain Spgs #123,San jose,Ca,95136,289995,3 ,2.0,1440 ,27,43,42,0,5.0,Active,Double-Wide Mobile Home,1976,0.0,201.0,0
+1141,11140 Mount Hamilton Rd,San jose,Ca,95140,2350000,1 ,1.0,1200 ,12,0,4,63,5.0,Active,Single Family Home,1984,0.0,1958.0,1
+1142,261 Ronan Ave,Gilroy,Ca,95020,888000,4 ,2.5,2140 ,49,0,73,48,5.0,Active,Single Family Home,2000,3299.0,415.0,0
+1143,347 El Portal Way,San jose,Ca,95123,1398888,4 ,2.0,1676 ,63,47,59,83,7.0,Active,Single Family Home,1972,5974.0,835.0,1
+1144,1156 California Cir,Milpitas,Ca,95035,978000,2 ,2.5,1236 ,46,34,63,86,7.0,Active,Townhouse,2018,1524.0,791.0,0
+1145,334 Hawthorne Ave,Palo alto,Ca,94301,3350000,3 ,2.5,1657 ,87,56,100,70,8.0,Active,Single Family Home,2006,1112.0,2022.0,1
+1146,6370 Snowberry Ct,Gilroy,Ca,95020,1199000,6 ,3.0,3247 ,8,0,46,48,6.0,Active,Single Family Home,1997,8679.0,369.0,1
+1147,227 Ada Ave Unit M,Mountain view,Ca,94043,1448800,3 ,2.5,1460 ,64,47,88,74,6.0,Active,Townhouse,1982,3120.0,992.0,1
+1148,9160 E Paseo Tranquillo,Gilroy,Ca,95020,1988000,4 ,3.5,2858 ,2,0,1,48,6.0,Active,Single Family Home,2011,0.0,696.0,1
+1149,1570 Walters Ave,Campbell,Ca,95008,2850000,5 ,4.0,3046 ,39,27,63,72,9.0,Active,Single Family Home,2001,9000.0,936.0,1
+1150,Undisclosed Address,Gilroy,Ca,95020,1070000,4 ,2.5,1856 ,3,0,44,48,6.0,Active,Single Family Residential,2023,5351.0,577.0,1
+1151,1268 Sierra Mar Dr,San jose,Ca,95118,1639990,5 ,3.0,2300 ,66,28,70,82,7.0,Active,Single Family Residential,1956,5841.0,713.0,1
+1152,761 Promenade Ln,San jose,Ca,95138,1799999,4 ,3.0,2535 ,10,18,46,67,6.0,Active,Single Family Home,1997,10858.0,710.0,1
+1153,1475 Mckendrie St,San jose,Ca,95126,3000000,6 ,4.0,3105 ,54,44,79,61,5.0,Active,Single Family Home,1925,10376.0,966.0,1
+1154,11275 Chula Vista Ave,San jose,Ca,95127,1899000,5 ,2.5,2587 ,0,0,10,63,5.0,Active,Single Family Home,1952,0.0,734.0,1
+1155,25285 La Loma Dr,Los altos hills,Ca,94022,4500000,4 ,2.5,3334 ,0,0,11,76,9.0,Active,Single Family Home,1957,0.0,1350.0,1
+1156,631 Troon Ct,Milpitas,Ca,95035,2799000,4 ,3.0,2913 ,46,37,65,84,8.0,Active,Single Family Home,1997,7189.0,961.0,1
+1157,12169 Dawn Ln,Los altos hills,Ca,94022,5298000,6 ,4.5,3369 ,1,0,29,76,8.0,Active,Single Family Home,1963,0.0,1573.0,1
+1158,524 E Maude Ave,Sunnyvale,Ca,94085,15960000,42 ,41.0,23928 ,77,40,80,0,3.0,Active,5+ Units,1958,0.0,667.0,1
+1159,356 Santana Row #319,San jose,Ca,95128,2298000,3 ,3.5,2368 ,88,50,80,66,6.0,Active,Condo,2002,0.0,970.0,1
+1160,6527 Timberview Ct,San jose,Ca,95120,2488000,4 ,4.0,3034 ,32,26,38,78,9.0,Active,Single Family Home,1983,0.0,820.0,1
+1161,3785 La Selva Dr,Palo alto,Ca,94306,2788000,4 ,3.0,1926 ,88,40,94,90,7.0,Active,Single Family Home,1932,5894.0,1448.0,1
+1162,317 E Julian St,San jose,Ca,95112,1249000,4 ,3.0,1626 ,85,68,95,50,4.0,Active,Single Family Home,1920,4692.0,768.0,1
+1163,1030 Palo Alto Ave,Palo alto,Ca,94301,7988000,4 ,3.5,3800 ,73,40,85,79,8.0,Active,Single Family Home,1928,0.0,2102.0,1
+1164,2368 Westgate Ave,San jose,Ca,95125,1298000,3 ,2.0,1519 ,44,36,73,65,7.0,Active,Single Family Home,1949,6882.0,855.0,1
+1165,600 Pennsylvania Ave #14,Los gatos,Ca,95030,879000,1 ,1.5,864 ,43,0,26,51,9.0,Active,Condo,1962,0.0,1017.0,0
+1166,645 Wilson Ct,Santa clara,Ca,95051,1788000,4 ,2.0,1606 ,68,37,81,80,8.0,Active,Single Family Home,1954,5703.0,1113.0,1
+1167,97 Sherland Ave Unit D,Mountain view,Ca,94043,739000,2 ,1.0,905 ,59,40,93,74,9.0,Active,Condo,1972,945.0,817.0,0
+1168,2978 Delancey Ct,San jose,Ca,95135,2998800,6 ,4.5,3705 ,26,29,52,92,8.0,Active,Single Family Home,2003,8393.0,809.0,1
+1169,11165 Guibal Ave,Gilroy,Ca,95020,3295000,4 ,4.5,4537 ,7,0,25,59,4.0,Active,Single Family Home,2006,0.0,726.0,1
+1170,382 Fontanelle Dr,San jose,Ca,95111,1049000,4 ,2.0,1542 ,9,27,43,78,4.0,Active,Single Family Home,1980,6911.0,680.0,1
+1171,1882 Johnston Ave,San jose,Ca,95125,3395000,4 ,4.0,2931 ,53,38,58,65,7.0,Active,Single Family Home,1950,6520.0,1158.0,1
+1172,809 Auzerais Ave #401,San jose,Ca,95126,900000,2 ,2.0,1274 ,83,60,88,71,3.0,Active,Condo,2008,0.0,706.0,0
+1173,47 N Claremont Ave,San jose,Ca,95127,948000,3 ,2.0,1320 ,42,0,44,63,5.0,Active,Single Family Home,1946,6220.0,718.0,0
+1174,3300 NARVAEZ Ave #45,San jose,Ca,95136,349000,3 ,2.0,1584 ,50,46,56,0,5.0,Active,Double-Wide Mobile Home,1995,0.0,220.0,0
